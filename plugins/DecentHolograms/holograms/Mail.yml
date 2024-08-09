@@ -1,4 +1,4 @@
-location: world:-5.621:69.540:-5.408
+location: world:-5.859:69.540:-5.453
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,6 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: '&l&n Mail'
+  - content: '&l&nMail'
     height: 0.3
   actions: {}
