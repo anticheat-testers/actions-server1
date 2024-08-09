@@ -33,6 +33,12 @@ hologram:
   already_disabled: '{prefix}Hologram is already disabled!'
   enabled: '{prefix}Hologram has been enabled!'
   already_enabled: '{prefix}Hologram is already enabled!'
+  invalid_name: '{prefix}&cInvalid name ''%1$s'', only use alphanumerical characters,
+    underscore and dash.'
+  always_face_player_set: '{prefix}Always Face Player has been set to &b''%1$s''&7!'
+  always_face_player_does_not_exist: '{prefix}Always Face Player value must be either
+    true or false!'
+  save_failed: '{prefix}&cHologram could not be saved. Check the console for errors!'
 page:
   added: '{prefix}Page has been added!'
   add_failed: '{prefix}Page has been added!'
