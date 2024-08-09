@@ -363,3 +363,101 @@ Potion Effects: [SPEED:1455t-x1, FIRE_RESISTANCE:9305t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 0.7143148713453658
+ - Y: 22.936913679499035
+ - Z: 2.138452091366432
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 185
+ - Server TPS: 20
+ - Sensitivity: 97
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.05 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 1
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1
+ - Since Riptide Ticks: 200
+ - Flying Delay: 317
+ - Since Velocity Ticks: 1
+ - Since Firework Ticks: 276
+ - Ticks Existed: 142
+ - Since Vehicle Ticks: 176
+ - Since Liquid Ticks: 176
+ - Queued Transactions: 0
+ - Joined: 9 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type I) [VL: 1] (Not constant rotations.)
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_WOOD_STAIRS, SMOOTH_BRICK, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ kons0las was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 1.5264634197897462
+ - Y: 22.0
+ - Z: 2.8858605495271505
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 154
+ - Server TPS: 20
+ - Sensitivity: -24
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.0 seconds ago
+
+Total Violations: 14
+ - Combat Violations: 8
+ - Movement Violations: 0
+ - Player Violations: 6
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 53
+ - Since Velocity Ticks: 0
+ - Since Firework Ticks: 588
+ - Ticks Existed: 465
+ - Since Vehicle Ticks: 488
+ - Since Liquid Ticks: 488
+ - Queued Transactions: 1
+ - Joined: 29 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type I) [VL: 4] (Not constant rotations.)
+ - Aim (Type K) [VL: 1] (Not constant rotations.)
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [SPRUCE_WOOD_STAIRS, SMOOTH_BRICK, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
