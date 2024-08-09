@@ -607,3 +607,54 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 6.022940810151353
+ - Y: 22.0
+ - Z: 2.56635213572594
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 293
+ - Server TPS: 20
+ - Sensitivity: -24
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.0 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 8
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 436
+ - Since Velocity Ticks: 0
+ - Since Firework Ticks: 294
+ - Ticks Existed: 310
+ - Since Vehicle Ticks: 194
+ - Since Liquid Ticks: 194
+ - Queued Transactions: 1
+ - Joined: 21 seconds ago
+ - Holding Item: ItemStack{NETHER_STAR x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§eCreate a Party}}
+
+All Violations:
+ - Aim (Type I) [VL: 3] (Not constant rotations.)
+ - Aim (Type K) [VL: 2] (Not constant rotations.)
+ - Aim (Type W) [VL: 1] (Generic rotation analysis heuristic.)
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_STEP, WOOD_STEP, WOOD_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD_STEP, WOOD_STEP, WOOD_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
