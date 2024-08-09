@@ -11,28 +11,8 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 8
-messages:
-  whitelist: You are not whitelisted on this server!
-  unknown-command: Unknown command. Type "/help" for help.
-  server-full: The server is full!
-  outdated-client: Outdated client! Please use {0}
-  outdated-server: Outdated server! I'm still on {0}
-  restart: Server is restarting
-stats:
-  disable-saving: false
-  forced-stats: {}
-commands:
-  log: true
-  tab-complete: 0
-  spam-exclusions:
-  - /skill
-  silent-commandblock-console: false
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
 settings:
+  debug: false
   bungeecord: true
   late-bind: false
   sample-count: 12
@@ -54,9 +34,29 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  debug: false
   baby-zombie-movement-speed: 0.5
   limit-player-interactions: true
+messages:
+  whitelist: You are not whitelisted on this server!
+  unknown-command: Unknown command. Type "/help" for help.
+  server-full: The server is full!
+  outdated-client: Outdated client! Please use {0}
+  outdated-server: Outdated server! I'm still on {0}
+  restart: Server is restarting
+stats:
+  disable-saving: false
+  forced-stats: {}
+commands:
+  log: true
+  tab-complete: 0
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 timings:
   enabled: true
   verbose: true
