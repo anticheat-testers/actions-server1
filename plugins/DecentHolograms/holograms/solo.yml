@@ -9,4 +9,6 @@ pages:
 - lines:
   - content: Blank Line
     height: 0.3
+  - content: Solos
+    height: 0.3
   actions: {}
