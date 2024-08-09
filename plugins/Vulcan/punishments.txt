@@ -558,3 +558,52 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: Maps2
+ - X: -69.8915834554089
+ - Y: 103.47460087973164
+ - Z: 232.47234332934414
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 236
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.3 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 2
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 507
+ - Since Velocity Ticks: 6
+ - Since Firework Ticks: 536
+ - Ticks Existed: 690
+ - Since Vehicle Ticks: 436
+ - Since Liquid Ticks: 436
+ - Queued Transactions: 1
+ - Joined: 41 seconds ago
+ - Holding Item: ItemStack{POTION x 1}
+
+All Violations:
+ - Velocity (Type A) [VL: 1] (Vertical velocity modifications.)
+ - Velocity (Type B) [VL: 1] (Horizontal velocity modifications.)
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
