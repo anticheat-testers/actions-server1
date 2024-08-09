@@ -20,6 +20,18 @@ jobs:
         with:
           java-version: '8'
           distribution: 'adopt'
+      - name: Add Cloudflare repository
+        run: |
+          sudo mkdir -p --mode=0755 /usr/share/keyrings
+          curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /usr/share/keyrings/cloudflare-main.gpg >/dev/null
+          echo 'deb [signed-by=/usr/share/keyrings/cloudflare-main.gpg] https://pkg.cloudflare.com/cloudflared jammy main' | sudo tee /etc/apt/sources.list.d/cloudflared.list
+          sudo apt-get update
+
+      - name: Cache apt packages
+        uses: awalsh128/cache-apt-pkgs-action@latest
+        with:
+          packages: cloudflared
+          version: 1.0
       - name: Debug - List directory contents
         run: ls -la
       - name: Run BungeeCord and playit with 30-second commits and workflow deletion
@@ -33,9 +45,6 @@ jobs:
           HOSTNAME_3: ${{secrets.CF_TUNNEL_HOSTNAME_3}}
           HOSTNAME_4: ${{secrets.CF_TUNNEL_HOSTNAME_4}}
         run: |
-          curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /usr/share/keyrings/cloudflare-main.gpg >/dev/null
-          echo 'deb [signed-by=/usr/share/keyrings/cloudflare-main.gpg] https://pkg.cloudflare.com/cloudflared jammy main' | sudo tee /etc/apt/sources.list.d/cloudflared.list
-          sudo apt-get update && sudo apt-get install cloudflared
           cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
           cloudflared access tcp --hostname ${HOSTNAME_2} --url localhost:25569 > /dev/null &
           cloudflared access tcp --hostname ${HOSTNAME_3} --url localhost:25570 > /dev/null &
