@@ -15,11 +15,11 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for all branches and tags
           token: ${{ secrets.FINE_GRAINED_PAT }}  # Use fine-grained PAT for checkout
-      - name: Set up OpenJDK 8
-        uses: actions/setup-java@v3
+      - uses: graalvm/setup-graalvm@v1
         with:
-          java-version: '8'
-          distribution: 'adopt'
+          java-version: '21'      # See 'Options' section below for all supported versions
+          distribution: 'graalvm' # See 'Options' section below for all available distributions
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Add Cloudflare repository
         run: |
           sudo mkdir -p --mode=0755 /usr/share/keyrings
@@ -56,7 +56,7 @@ jobs:
 
           start_bungeecord() {
             echo "Starting BungeeCord..."
-            java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms16G -Xmx16G -jar FlameCord-JDK8.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
+            java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms16G -Xmx16G -jar FlameCord-JDK17.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
             BUNGEECORD_PID=$!
             echo "BungeeCord started with PID $BUNGEECORD_PID"
           }
