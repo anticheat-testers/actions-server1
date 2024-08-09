@@ -658,3 +658,56 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Auto Block (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 12.770290297738578
+ - Y: 17.481086779112157
+ - Z: -10.022727068593772
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 292
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.0 seconds ago
+
+Total Violations: 17
+ - Combat Violations: 16
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 38
+ - Since Velocity Ticks: 0
+ - Since Firework Ticks: 670
+ - Ticks Existed: 830
+ - Since Vehicle Ticks: 570
+ - Since Liquid Ticks: 570
+ - Queued Transactions: 1
+ - Joined: 44 seconds ago
+ - Holding Item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§bPlay Ranked}}
+
+All Violations:
+ - Aim (Type I) [VL: 5] (Not constant rotations.)
+ - Aim (Type K) [VL: 2] (Not constant rotations.)
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Auto Block (Type A) [VL: 2] (Attacked while sending BlockPlace packet.)
+ - Auto Block (Type B) [VL: 3] (Attacked while sending BlockDig packet.)
+ - Auto Block (Type D) [VL: 2] (Invalid attack order.)
+ - Bad Packets (Type I) [VL: 1] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [COBBLESTONE, GRAVEL, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, COBBLESTONE, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
