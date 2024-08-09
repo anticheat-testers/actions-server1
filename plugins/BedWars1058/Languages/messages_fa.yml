@@ -324,6 +324,10 @@ xp-reward-per-minute: '{prefix}&6+{xp} Tajrobe BedWars Daryaft Kardid (Zaman Pla
 xp-reward-game-win: '{prefix}&6+{xp} Tajrobe BedWars Daryaft Kardid (Bord Bazi).'
 xp-reward-per-teammate: '{prefix}&6+{xp} Tajrobe BedWars Daryaft Kardid (Hemayat Az
   Team).'
+xp-reward-bed-destroyed: '{prefix}&6+{xp} Tajrobe BedWars Daryaft Kardid (Az Bein
+  Raftan Bed).'
+xp-reward-regular-kill: '{prefix}&6+{xp} Tajrobe BedWars Daryaft Kardid (Kill e Addi).'
+xp-reward-final-kill: '{prefix}&6+{xp} Tajrobe BedWars Daryaft Kardid (Kill e Payani).'
 money-reward-per-teammate: '{prefix}&6+{money} Coin (Zaman Play).'
 money-reward-game-win: '{prefix}&6+{money} Coin (Bord Bazi).'
 money-reward-per-minute: '{prefix}&6+{money} Coin (Hemayat Az Team).'

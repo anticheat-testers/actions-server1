@@ -58,6 +58,10 @@ game-countdown-start:
   sound: SLIME_ATTACK
   volume: 1
   pitch: 1
+kill:
+  sound: ORB_PICKUP
+  volume: 1
+  pitch: 1
 bed-destroy:
   sound: ENDERDRAGON_GROWL
   volume: 1
@@ -121,5 +125,9 @@ shop-auto-equip:
   pitch: 1
 egg-bridge-block:
   sound: CHICKEN_EGG_POP
+  volume: 1
+  pitch: 1
+ender-pearl-landed:
+  sound: ENDERMAN_TELEPORT
   volume: 1
   pitch: 1

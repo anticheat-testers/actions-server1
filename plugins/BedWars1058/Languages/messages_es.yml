@@ -538,6 +538,10 @@ arena-leave-party-disbanded: '{prefix}§cThe party owner has left and the party 
 xp-reward-per-minute: '{prefix}&6+{xp} BedWars Experience Received (Play Time).'
 xp-reward-game-win: '{prefix}&6+{xp} BedWars Experience Received (Game Win).'
 xp-reward-per-teammate: '{prefix}&6+{xp} BedWars Experience Received (Team Support).'
+xp-reward-bed-destroyed: '{prefix}&6+{xp} Experiencia de BedWars recibida (Cama Destruida).'
+xp-reward-regular-kill: '{prefix}&6+{xp} Experiencia de BedWars recibida (Asesinato).'
+xp-reward-final-kill: '{prefix}&6+{xp} Experiencia de BedWars recibida (Asesinato
+  Final).'
 money-reward-per-teammate: '{prefix}&6+{money} Coins (Play Time).'
 money-reward-game-win: '{prefix}&6+{money} Coins (Game Win).'
 money-reward-per-minute: '{prefix}&6+{money} Coins (Team Support).'

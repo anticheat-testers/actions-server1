@@ -2,6 +2,9 @@ xp-rewards:
   per-minute: 10
   per-teammate: 5
   game-win: 100
+  bed-destroyed: 15
+  regular-kill: 10
+  final-kill: 15
 progress-bar:
   symbol: ■
   unlocked-color: '&b'

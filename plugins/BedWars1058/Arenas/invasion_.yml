@@ -8,6 +8,7 @@ allowSpectate: true
 spawn-protection: 2
 shop-protection: 1
 upgrades-protection: 1
+generator-protection: 1
 island-radius: 17
 worldBorder: 300
 y-kill-height: -1

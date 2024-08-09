@@ -434,6 +434,11 @@ scoreboard:
 xp-reward-per-minute: '{prefix}&6+{xp} BedWars Experience Received (Play Time).'
 xp-reward-game-win: '{prefix}&6+{xp} BedWars Experience Received (Game Win).'
 xp-reward-per-teammate: '{prefix}&6+{xp} BedWars Experience Received (Team Support).'
+xp-reward-bed-destroyed: '{prefix}&6+{xp} Otrzymano doswiedczenie BedWars (Zniszczone
+  lozko).'
+xp-reward-regular-kill: '{prefix}&6+{xp} Otrzymano doswiedczenie BedWars (Regularne
+  zabojstwo).'
+xp-reward-final-kill: '{prefix}&6+{xp} Otrzymano doswiedczenie BedWars (Finalne zabojstwo).'
 money-reward-per-teammate: '{prefix}&6+{money} Monety (Czas grania).'
 money-reward-game-win: '{prefix}&6+{money} Monety (Wygrana gra).'
 money-reward-per-minute: '{prefix}&6+{money} Monety (Druzynowa wspolpraca).'
