@@ -461,3 +461,51 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Auto Block (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 87.26937110622228
+ - Y: 13.5
+ - Z: -481.01190545266144
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 198
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 2.4 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 5
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 48
+ - Since Riptide Ticks: 200
+ - Flying Delay: 21
+ - Since Velocity Ticks: 48
+ - Since Firework Ticks: 487
+ - Ticks Existed: 384
+ - Since Vehicle Ticks: 387
+ - Since Liquid Ticks: 387
+ - Queued Transactions: 0
+ - Joined: 33 seconds ago
+ - Holding Item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DAMAGE_ALL=3, FIRE_ASPECT=2}}}
+
+All Violations:
+ - Auto Block (Type A) [VL: 2] (Attacked while sending BlockPlace packet.)
+ - Auto Block (Type B) [VL: 3] (Attacked while sending BlockDig packet.)
+
+Blocks Nearby: [STONE, STONE, STONE, STEP, STEP, STEP, AIR, AIR, AIR, AIR, AIR, AIR, DOUBLE_STEP, DOUBLE_STEP, DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STEP, STEP, STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
