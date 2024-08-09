@@ -1,4 +1,4 @@
-location: world:-0.259:70.865:-8.445
+location: world:1.424:70.865:-5.562
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,6 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: '&l&nSolos'
+  - content: '&l&nDoubles'
     height: 0.3
   actions: {}
