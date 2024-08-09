@@ -711,3 +711,105 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 11.724187400956547
+ - Y: 17.0
+ - Z: -9.759784239328448
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 234
+ - Server TPS: 20
+ - Sensitivity: 97
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.45 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 0
+ - Movement Violations: 4
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 1
+ - Since Riptide Ticks: 200
+ - Flying Delay: 338
+ - Since Velocity Ticks: 9
+ - Since Firework Ticks: 426
+ - Ticks Existed: 286
+ - Since Vehicle Ticks: 326
+ - Since Liquid Ticks: 326
+ - Queued Transactions: 1
+ - Joined: 20 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Jump (Type A) [VL: 3] (Invalid jump motion.)
+ - Motion (Type C) [VL: 1] (Invalid jump motion.)
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [COBBLESTONE, GRASS, SMOOTH_BRICK, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRAVEL, GRASS, GRAVEL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ kons0las was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 13.091829370375452
+ - Y: 17.998136159204694
+ - Z: -8.347237038019804
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 348
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.0 seconds ago
+
+Total Violations: 11
+ - Combat Violations: 7
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 171
+ - Since Velocity Ticks: 0
+ - Since Firework Ticks: 561
+ - Ticks Existed: 448
+ - Since Vehicle Ticks: 461
+ - Since Liquid Ticks: 461
+ - Queued Transactions: 1
+ - Joined: 31 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type I) [VL: 2] (Not constant rotations.)
+ - Aim (Type K) [VL: 1] (Not constant rotations.)
+ - Aim (Type W) [VL: 1] (Generic rotation analysis heuristic.)
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Auto Clicker (Type O) [VL: 1] (Impossible spike in CPS.)
+ - Kill Aura (Type B) [VL: 1] (Invalid acceleration.)
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [GRASS, STONE, COBBLESTONE, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, STONE, STONE, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, COBBLESTONE, COBBLESTONE, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
