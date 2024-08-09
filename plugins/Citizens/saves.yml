@@ -421,7 +421,7 @@ npc:
         z: '0.0'
         yaw: '0.0'
         pitch: '0.0'
-        bodyYaw: !!float 'NaN'
+        bodyYaw: .NaN
       spawned: true
     traitnames: mounttrait,location,spawned,type
     navigator:
@@ -440,7 +440,7 @@ npc:
         z: '0.0'
         yaw: '0.0'
         pitch: '0.0'
-        bodyYaw: !!float 'NaN'
+        bodyYaw: .NaN
     traitnames: mounttrait,location,spawned,type
     navigator:
       speedmodifier: '1.0'
@@ -458,7 +458,7 @@ npc:
         z: '0.0'
         yaw: '0.0'
         pitch: '0.0'
-        bodyYaw: !!float 'NaN'
+        bodyYaw: .NaN
     traitnames: mounttrait,location,spawned,type
     navigator:
       speedmodifier: '1.0'
@@ -476,7 +476,7 @@ npc:
         z: '0.0'
         yaw: '0.0'
         pitch: '0.0'
-        bodyYaw: !!float 'NaN'
+        bodyYaw: .NaN
     traitnames: mounttrait,location,spawned,type
     navigator:
       speedmodifier: '1.0'
@@ -493,7 +493,7 @@ npc:
         z: '0.0'
         yaw: '0.0'
         pitch: '0.0'
-        bodyYaw: !!float 'NaN'
+        bodyYaw: .NaN
       spawned: true
     traitnames: mounttrait,location,spawned,type
     navigator:
