@@ -55,3 +55,6 @@
 (04:48:53) Execute command: matrix notify Bxrl tried to ignore server velocity (Velocity) #2
 (04:48:53) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.4() | vl:16(+1) ping:99 tps:20.0 component: vel.vet ver: 1.8.x
 (04:48:54) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.158875() | vl:17(+1) ping:99 tps:20.0 component: vel.vet ver: 1.8.x
+(04:49:28) Bxrl failed KillAura check | the player exhibits a flaw in combat(type: B, pattern: timing) | vl:10(+10) ping:172 tps:20.0 component: ka.flaw.b ver: 1.8.x
+(04:49:28) Execute command: matrix npc Bxrl 100
+(04:49:50) Bxrl failed HitBox check | missed hitbox(target: player, positions: 10, all: 16, tk: 10, prep: true, strict: false) | vl:2(+2) ping:119 tps:20.0 component: hb.mis ver: 1.8.x
