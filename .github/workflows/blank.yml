@@ -1,4 +1,5 @@
 name: CI
+
 on:
   push:
     branches: [ "bedwars" ]
@@ -41,7 +42,7 @@ jobs:
 
       - name: Run Spigot and Cloudflare Tunnel with auto-restart and workflow recreation
         id: spigot_cloudflared
-        if: "!contains(github.event.head_commit.message, 'Auto commit every 30 seconds')"
+        continue-on-error: true
         env:
           FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
           REPO: ${{ github.repository }}
@@ -109,14 +110,6 @@ jobs:
             done
           }
 
-          create_new_workflow_run() {
-            curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/${REPO}/actions/workflows/CI.yml/dispatches" \
-              -d '{"ref":"bedwars"}'
-            echo "New workflow run created"
-          }
-
           start_spigot
           start_cloudflared
           
@@ -143,15 +136,13 @@ jobs:
               else
                 echo "Workflow has been running for 5 hours."
               fi
-              echo "Creating new workflow run and exiting current one."
-              create_new_workflow_run
+              echo "Exiting current workflow."
               exit 0
             fi
           done
-        continue-on-error: true
-
+          
       - name: Create new workflow run
-        if: steps.spigot_cloudflared.outcome == 'failure' || steps.spigot_cloudflared.outcome == 'success'
+        if: always()  
         run: |
           curl -X POST -H "Authorization: token ${{ secrets.FINE_GRAINED_PAT }}" \
             -H "Accept: application/vnd.github.v3+json" \
