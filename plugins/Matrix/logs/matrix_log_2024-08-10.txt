@@ -49,3 +49,9 @@
 (04:48:31) Execute command: matrix notify Bxrl tried to ignore server velocity (Velocity) #2
 (04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.4115() | vl:16(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
 (04:48:40) Bxrl failed Chat check | chat too fast | delay: 814() | vl:1(+1) ping:103 tps:20.0 component: chat.delay ver: 1.8.x
+(04:48:53) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.4415() | vl:14(+1) ping:99 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:53) Bxrl failed Move check | ground spoof (expect: --, move: 0.044,0.203,-0.405, at: -265.049,128.324,225.733, type: air, pkt: false)() | vl:5(+5) ping:99 tps:20.0 component: move.gf ver: 1.8.x
+(04:48:53) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.120625() | vl:15(+1) ping:99 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:53) Execute command: matrix notify Bxrl tried to ignore server velocity (Velocity) #2
+(04:48:53) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.4() | vl:16(+1) ping:99 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:54) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.158875() | vl:17(+1) ping:99 tps:20.0 component: vel.vet ver: 1.8.x
