@@ -959,3 +959,49 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Auto Block (Type A) ]--------------
+
+Location:
+ - World: world
+ - X: 0.0
+ - Y: 0.0
+ - Z: 0.0
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 0
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.0 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 3
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 100
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 100
+ - Since Firework Ticks: 200
+ - Ticks Existed: 0
+ - Since Vehicle Ticks: 100
+ - Since Liquid Ticks: 100
+ - Queued Transactions: 0
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Auto Block (Type A) [VL: 3] (Attacked while sending BlockPlace packet.)
+ - Bad Packets (Type H) [VL: 1] (Invalid attack packet order.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
