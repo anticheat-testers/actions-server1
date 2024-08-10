@@ -7,3 +7,45 @@
 (04:46:24) Bxrl failed Chat check | chat too fast | delay: 788() | vl:2(+1) ping:146 tps:19.99 component: chat.delay ver: 1.8.x
 (04:46:44) Bxrl failed Delay check | perform actions faster than expected // heal (difficulty: easy, delay: 3.45, ver: V1_8_X, ver_p: 1.8.x)() | vl:1(+1) ping:234 tps:20.0 component: delay.heal ver: 1.8.x
 (04:48:05) Bxrl failed HitBox check | attack too far away(target: player, reach: 3.205, max: 3.15, positions: 4/16, tk: 10, prep: false, strict: false) | vl:3(+3) ping:117 tps:20.0 component: hb.reach ver: 1.8.x
+(04:48:25) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.275125() | vl:1(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:25) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.191125() | vl:2(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:25) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.108875() | vl:3(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:26) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.260875() | vl:4(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:26) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.333125() | vl:5(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:26) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:6(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:26) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:7(+1) ping:120 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 1695, b: 4)() | vl:2(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 1695, b: 54)() | vl:4(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 1796, b: 44)() | vl:6(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 1895, b: 45)() | vl:8(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 1995, b: 31)() | vl:10(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 2095, b: 44)() | vl:12(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 2095, b: 40)() | vl:14(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:29) Bxrl failed BadPackets check | might using freecam (a: 2095, b: 10)() | vl:16(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2095, b: 60)() | vl:18(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2095, b: 46)() | vl:20(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2095, b: 45)() | vl:22(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2145, b: 33)() | vl:24(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2295, b: 17)() | vl:26(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2295, b: 67)() | vl:28(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2345, b: 41)() | vl:30(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2445, b: 32)() | vl:32(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2495, b: 33)() | vl:34(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2495, b: 38)() | vl:36(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2495, b: 5)() | vl:38(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:30) Bxrl failed BadPackets check | might using freecam (a: 2495, b: 55)() | vl:40(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:31) Bxrl failed BadPackets check | might using freecam (a: 2595, b: 47)() | vl:42(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:31) Bxrl failed BadPackets check | might using freecam (a: 2595, b: 18)() | vl:44(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:31) Bxrl failed BadPackets check | might using freecam (a: 2595, b: 29)() | vl:46(+2) ping:103 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.250375() | vl:8(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:9(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.333125() | vl:10(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Execute command: matrix notify Bxrl tried to ignore server velocity (Velocity)
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:11(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.422375() | vl:12(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.3355() | vl:13(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.166875() | vl:14(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.5() | vl:15(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:31) Execute command: matrix notify Bxrl tried to ignore server velocity (Velocity) #2
+(04:48:31) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.4115() | vl:16(+1) ping:103 tps:20.0 component: vel.vet ver: 1.8.x
+(04:48:40) Bxrl failed Chat check | chat too fast | delay: 814() | vl:1(+1) ping:103 tps:20.0 component: chat.delay ver: 1.8.x
