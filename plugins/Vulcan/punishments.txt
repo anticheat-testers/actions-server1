@@ -1194,3 +1194,51 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Inventory (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -0.5833385278359158
+ - Y: 22.0
+ - Z: 5.0172202704569635
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 204
+ - Transaction Ping: 401
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 12.1 seconds ago
+
+Total Violations: 7
+ - Combat Violations: 2
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 242
+ - Since Riptide Ticks: 200
+ - Flying Delay: 103
+ - Since Velocity Ticks: 242
+ - Since Firework Ticks: 326
+ - Ticks Existed: 142
+ - Since Vehicle Ticks: 226
+ - Since Liquid Ticks: 226
+ - Queued Transactions: 1
+ - Joined: 8 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Inventory (Type B) [VL: 5] (Moved while clicking in inventory.)
+
+Blocks Nearby: [WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
