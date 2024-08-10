@@ -93,3 +93,12 @@
 (04:58:40) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:6(+1) ping:139 tps:19.99 component: delay.inv ver: 1.8.x
 (04:58:40) Bxrl failed Move check | click inventory while moving() | vl:40(+10) ping:139 tps:19.99 component: move.invmove ver: 1.8.x
 (04:58:40) Bxrl failed Move check | click inventory while moving() | vl:50(+10) ping:139 tps:19.98 component: move.invmove ver: 1.8.x
+(04:58:42) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:7(+1) ping:139 tps:20.0 component: delay.inv ver: 1.8.x
+(04:58:43) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:8(+1) ping:100 tps:20.0 component: delay.inv ver: 1.8.x
+(04:58:43) Bxrl failed Move check | click inventory while moving() | vl:60(+10) ping:100 tps:20.0 component: move.invmove ver: 1.8.x
+(04:58:43) Execute command: matrix notify Bxrl tried to move abnormally (Move) #1
+(04:58:44) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:9(+1) ping:100 tps:20.0 component: delay.inv ver: 1.8.x
+(04:58:44) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:10(+1) ping:100 tps:20.0 component: delay.inv ver: 1.8.x
+(04:58:44) Execute command: matrix kick Bxrl Speeding Up Operations
+(04:58:57) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:1(+1) ping:0 tps:20.0 component: vel.vet ver: 1.8.x
+(04:58:57) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:2(+1) ping:0 tps:20.0 component: vel.vet ver: 1.8.x
