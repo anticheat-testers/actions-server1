@@ -1616,3 +1616,56 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Aim (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 3.7792810857981385
+ - Y: 23.166109260938214
+ - Z: -0.6322059496235418
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 137
+ - Server TPS: 20
+ - Sensitivity: -33
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.15 seconds ago
+
+Total Violations: 23
+ - Combat Violations: 20
+ - Movement Violations: 1
+ - Player Violations: 2
+
+Misc Information:
+ - Since Teleport Ticks: 3
+ - Since Riptide Ticks: 200
+ - Flying Delay: 59
+ - Since Velocity Ticks: 3
+ - Since Firework Ticks: 357
+ - Ticks Existed: 376
+ - Since Vehicle Ticks: 257
+ - Since Liquid Ticks: 257
+ - Queued Transactions: 0
+ - Joined: 25 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type I) [VL: 10] (Not constant rotations.)
+ - Aim (Type K) [VL: 5] (Not constant rotations.)
+ - Aim (Type W) [VL: 2] (Generic rotation analysis heuristic.)
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Kill Aura (Type B) [VL: 1] (Invalid acceleration.)
+ - Sprint (Type A) [VL: 1] (Invalid sprint direction.)
+ - Bad Packets (Type I) [VL: 2] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [AIR, STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, FENCE, AIR, AIR, FENCE, AIR, AIR, FENCE, AIR, AIR, FENCE, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Bxrl}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

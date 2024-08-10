@@ -170,3 +170,18 @@
 (05:03:07) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // snap() | vl:14(+7) ping:179 tps:20.0 component: ka.abt.snp ver: 1.8.x
 (05:03:07) Execute command: matrix npc kons0las 100
 (05:03:08) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:14(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:08) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:14(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:08) kons0las failed KillAura check | bad strafe movement during combat // strafe (0.127)() | vl:17(+3) ping:98 tps:20.0 component: ka.strafe ver: 1.8.x
+(05:03:08) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:17(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:09) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:17(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:09) kons0las failed Click check | reached 17/15 cps during the combat // cps (dynamic)() | vl:9(+5) ping:98 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(05:03:09) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:12(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:09) kons0las failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 9, prep: false, strict: false) | vl:2(+2) ping:98 tps:20.0 component: hb.mis ver: 1.8.x
+(05:03:09) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:12(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:10) kons0las failed HitBox check | missed hitbox(target: player, positions: 2, all: 16, tk: 9, prep: false, strict: false) | vl:4(+2) ping:98 tps:20.0 component: hb.mis ver: 1.8.x
+(05:03:11) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:12(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:11) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:12(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:11) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // shake() | vl:19(+7) ping:98 tps:20.0 component: ka.abt.ske ver: 1.8.x
+(05:03:11) kons0las failed Move check | unexpected vertical movement (motion: 0.0/0.42, hor: 0.143, buffer: 0.228/true, ground: +,+, setback: -, vel: VU:0.333125, VU:0.248, VU:0.164625, VU:0.082875, VA:0.00275, VU:-0.078375, VU:-0.155125, VU:-0.230375, VU:-0.304125, VU:-0.376375, VU:-0.447125, VU:-0.078375, VU:-0.078375, VU:-0.2305, VU:-0.30425, VU:-0.078375, from: 22.036, past: 0.036, p_tags: collision,hor_coll_kb, tags: jump)() | vl:5(+5) ping:98 tps:20.0 component: move.vert ver: 1.8.x
+(05:03:11) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:19(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:22) kons0las failed Chat check | chat too fast | delay: 1297() | vl:1(+1) ping:472 tps:20.0 component: chat.delay ver: 1.8.x
