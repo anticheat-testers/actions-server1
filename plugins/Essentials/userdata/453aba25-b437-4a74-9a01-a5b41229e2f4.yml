@@ -2,7 +2,7 @@ lastAccountName: Bxrl
 timestamps:
   login: 1723263001938
   logout: 1723262991187
-  lastteleport: 1723263059789
+  lastteleport: 1723263078238
 ipAddress: 127.103.80.231
 logoutlocation:
   world: world
@@ -14,8 +14,8 @@ logoutlocation:
 money: '335.0'
 lastlocation:
   world: lotus
-  x: -72.8344851518245
-  y: 66.0
-  z: -31.914662725818562
-  yaw: 343.7662
-  pitch: 21.456135
+  x: -72.69999998807907
+  y: 67.16610926093821
+  z: 33.41861202347329
+  yaw: 275.95847
+  pitch: 86.47482
