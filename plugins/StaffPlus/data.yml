@@ -30,3 +30,13 @@ bc4f5a10-e49d-4b95-b50e-5e5b108166dd:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+453aba25-b437-4a74-9a01-a5b41229e2f4:
+  name: Bxrl
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
