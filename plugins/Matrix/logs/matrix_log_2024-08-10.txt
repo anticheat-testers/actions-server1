@@ -58,3 +58,12 @@
 (04:49:28) Bxrl failed KillAura check | the player exhibits a flaw in combat(type: B, pattern: timing) | vl:10(+10) ping:172 tps:20.0 component: ka.flaw.b ver: 1.8.x
 (04:49:28) Execute command: matrix npc Bxrl 100
 (04:49:50) Bxrl failed HitBox check | missed hitbox(target: player, positions: 10, all: 16, tk: 10, prep: true, strict: false) | vl:2(+2) ping:119 tps:20.0 component: hb.mis ver: 1.8.x
+(04:56:43) Matrix Enabled! Version: 7.7.26A
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 2027, b: 7)() | vl:2(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1992, b: 22)() | vl:4(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1947, b: 27)() | vl:6(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1899, b: 29)() | vl:8(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1852, b: 32)() | vl:10(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1807, b: 37)() | vl:12(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1763, b: 43)() | vl:14(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
+(04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1713, b: 43)() | vl:16(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
