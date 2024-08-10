@@ -185,3 +185,13 @@
 (05:03:11) kons0las failed Move check | unexpected vertical movement (motion: 0.0/0.42, hor: 0.143, buffer: 0.228/true, ground: +,+, setback: -, vel: VU:0.333125, VU:0.248, VU:0.164625, VU:0.082875, VA:0.00275, VU:-0.078375, VU:-0.155125, VU:-0.230375, VU:-0.304125, VU:-0.376375, VU:-0.447125, VU:-0.078375, VU:-0.078375, VU:-0.2305, VU:-0.30425, VU:-0.078375, from: 22.036, past: 0.036, p_tags: collision,hor_coll_kb, tags: jump)() | vl:5(+5) ping:98 tps:20.0 component: move.vert ver: 1.8.x
 (05:03:11) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:19(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
 (05:03:22) kons0las failed Chat check | chat too fast | delay: 1297() | vl:1(+1) ping:472 tps:20.0 component: chat.delay ver: 1.8.x
+(05:03:42) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:1(+1) ping:98 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:42) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:2(+1) ping:98 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:52) kons0las failed KillAura check | the player exhibits a flaw in combat(type: B, pattern: release) | vl:10(+10) ping:96 tps:20.0 component: ka.flaw.b ver: 1.8.x
+(05:03:52) Execute command: matrix npc kons0las 100
+(05:03:57) Bxrl failed BadPackets check | timer (advantage: 33.001ms)() | vl:1(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
+(05:03:57) Bxrl failed BadPackets check | timer (advantage: 7.394ms)() | vl:2(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
+(05:03:57) Bxrl failed BadPackets check | timer (advantage: 29.972ms)() | vl:3(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
+(05:03:57) Bxrl failed BadPackets check | timer (advantage: 10.412ms)() | vl:4(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
+(05:03:57) Bxrl failed BadPackets check | timer (advantage: 4.067ms)() | vl:5(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
+(05:04:01) kons0las failed Chat check | chat too fast | delay: 1027() | vl:1(+1) ping:0 tps:20.0 component: chat.delay ver: 1.8.x
