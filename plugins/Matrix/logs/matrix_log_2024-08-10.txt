@@ -280,3 +280,10 @@
 (05:07:26) kons0las failed Move check | ground spoof (expect: --, move: 0.000,0.165,0.000, at: 12.300,20.166,-5.341, type: air, pkt: false)() | vl:10(+5) ping:81 tps:19.99 component: move.gf ver: 1.8.x
 (05:07:26) kons0las failed Move check | ground spoof (expect: --, move: 0.000,0.083,0.000, at: 12.300,20.249,-5.341, type: air, pkt: false)() | vl:15(+5) ping:81 tps:19.99 component: move.gf ver: 1.8.x
 (05:07:29) kons0las failed Move check | ground spoof (expect: --, move: 0.000,-0.231,0.000, at: 12.301,20.785,-5.158, type: air, pkt: false)() | vl:5(+5) ping:139 tps:20.0 component: move.gf ver: 1.8.x
+(05:07:33) kons0las failed HitBox check | attack too far away(target: player, reach: 3.531, max: 3.15, positions: 1/16, tk: 9, prep: true, strict: false) | vl:6(+3) ping:88 tps:20.0 component: hb.reach ver: 1.8.x
+(05:07:36) kons0las failed Move check | ground spoof (expect: --, move: -0.001,0.083,0.065, at: 12.303,20.249,-5.172, type: air, pkt: false)() | vl:10(+5) ping:88 tps:19.99 component: move.gf ver: 1.8.x
+(05:07:49) kons0las failed HitBox check | attack too far away(target: player, reach: 3.61, max: 3.15, positions: 1/16, tk: 10, prep: true, strict: false) | vl:4(+4) ping:130 tps:20.0 component: hb.reach ver: 1.8.x
+(05:07:53) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:07:53) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:07:54) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:07:54) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:20.0 component: ka.abt.ses ver: 1.8.x
