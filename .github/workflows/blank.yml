@@ -88,6 +88,17 @@ jobs:
             echo "Failed to push after 3 attempts"
             return 1
           }
+          cancel_old_workflow_runs() {
+            current_run_id=$GITHUB_RUN_ID
+            workflow_runs=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
+              "https://api.github.com/repos/${REPO}/actions/runs?branch=bungeecord&status=in_progress")
+            
+            echo "$workflow_runs" | jq -r ".workflow_runs[] | select(.id != $current_run_id) | .id" | while read -r run_id; do
+              echo "Cancelling workflow run $run_id"
+              curl -s -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
+                "https://api.github.com/repos/${REPO}/actions/runs/$run_id/cancel"
+            done
+          }
 
           delete_auto_commit_workflows() {
             workflow_ids=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
@@ -112,7 +123,8 @@ jobs:
           start_cloudflared
           
           START_TIME=$(date +%s)
-          
+          (sleep 30 && cancel_old_workflow_runs) &
+
           while true; do
             sleep 30
             if ! commit_and_push; then
