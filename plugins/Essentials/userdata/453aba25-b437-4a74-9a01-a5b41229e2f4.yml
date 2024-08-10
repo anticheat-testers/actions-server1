@@ -1,7 +1,7 @@
 lastAccountName: Bxrl
 timestamps:
   login: 1723262807390
-  logout: 1723262801188
+  logout: 1723262991187
 ipAddress: 127.103.80.231
 logoutlocation:
   world: world
@@ -10,7 +10,7 @@ logoutlocation:
   z: 0.49185180054454447
   yaw: -89.88387
   pitch: 2.8524027
-money: '305.0'
+money: '335.0'
 lastlocation:
   world: lions_temple
   x: -3.539165612543325
