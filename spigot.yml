@@ -92,6 +92,7 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    nerf-spawner-mobs: false
     entity-tracking-range:
       players: 48
       animals: 48
@@ -105,7 +106,6 @@ world-settings:
     random-light-updates: false
     save-structure-info: true
     mob-spawn-range: 4
-    nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
