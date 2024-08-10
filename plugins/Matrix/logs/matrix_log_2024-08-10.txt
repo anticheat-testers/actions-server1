@@ -258,3 +258,25 @@
 (05:06:54) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:45(+10) ping:155 tps:20.0 component: move.spin ver: 1.8.x
 (05:06:55) kons0las failed Move check | unexpected horizontal movement (motion: 1.782/0.478, buffer: 1.305/false, vet: 0.0, vec: 0.152, ground: -,+, spr: +, add: 0.326, past: 0.0,0.278, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: collision, tags: hor_fast_setback,teleport,hor_tp_fix)() | vl:5(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
 (05:06:58) Bxrl failed Chat check | send the same chat content() | vl:1(+1) ping:375 tps:20.0 component: chat.same ver: 1.8.x
+(05:07:02) Bxrl failed Move check | t: spin (-1.8874366E8->-1.887433E8)() | vl:10(+10) ping:375 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:03) Bxrl failed Move check | t: spin (-1.887433E8->-1.8874366E8)() | vl:20(+10) ping:152 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:03) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:30(+10) ping:152 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:09) Bxrl failed Move check | t: spin (-1.8874366E8->-1.887433E8)() | vl:10(+10) ping:162 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:09) Bxrl failed Move check | t: spin (-1.887433E8->-1.8874366E8)() | vl:20(+10) ping:162 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:10) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:30(+10) ping:162 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:10) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:40(+10) ping:162 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:12) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:50(+10) ping:162 tps:19.99 component: move.spin ver: 1.8.x
+(05:07:15) Bxrl failed Move check | t: spin (-1.8874366E8->-1.887433E8)() | vl:15(+10) ping:146 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:15) Bxrl failed Move check | t: spin (-1.887433E8->-1.8874366E8)() | vl:25(+10) ping:146 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:15) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:35(+10) ping:146 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:20) kons0las failed HitBox check | attack too far away(target: player, reach: 3.243, max: 3.15, positions: 1/16, tk: 9, prep: true, strict: false) | vl:3(+3) ping:80 tps:20.0 component: hb.reach ver: 1.8.x
+(05:07:20) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:45(+10) ping:203 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:23) kons0las failed Move check | ground spoof (expect: --, move: 0.001,-0.078,-0.054, at: 8.831,23.170,-0.810, type: air, pkt: false)() | vl:5(+5) ping:81 tps:20.0 component: move.gf ver: 1.8.x
+(05:07:23) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:1(+1) ping:81 tps:20.0 component: vel.vet ver: 1.8.x
+(05:07:23) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:2(+1) ping:81 tps:20.0 component: vel.vet ver: 1.8.x
+(05:07:24) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:55(+10) ping:151 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:24) Execute command: matrix notify Bxrl tried to move abnormally (Move) #1
+(05:07:24) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:65(+10) ping:151 tps:20.0 component: move.spin ver: 1.8.x
+(05:07:26) kons0las failed Move check | ground spoof (expect: --, move: 0.000,0.165,0.000, at: 12.300,20.166,-5.341, type: air, pkt: false)() | vl:10(+5) ping:81 tps:19.99 component: move.gf ver: 1.8.x
+(05:07:26) kons0las failed Move check | ground spoof (expect: --, move: 0.000,0.083,0.000, at: 12.300,20.249,-5.341, type: air, pkt: false)() | vl:15(+5) ping:81 tps:19.99 component: move.gf ver: 1.8.x
+(05:07:29) kons0las failed Move check | ground spoof (expect: --, move: 0.000,-0.231,0.000, at: 12.301,20.785,-5.158, type: air, pkt: false)() | vl:5(+5) ping:139 tps:20.0 component: move.gf ver: 1.8.x
