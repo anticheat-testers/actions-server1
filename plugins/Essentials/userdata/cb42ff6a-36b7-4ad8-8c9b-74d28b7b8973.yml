@@ -5,11 +5,11 @@ timestamps:
 ipAddress: 127.30.38.147
 logoutlocation:
   world: world
-  x: -8.813549759034757
-  y: 67.0
-  z: -4.5826350292706195
-  yaw: -128.29271
-  pitch: 6.4866667
+  x: 58.31226334066351
+  y: 89.5
+  z: 0.5033535555224158
+  yaw: -90.38268
+  pitch: 4.562642
 money: '900.0'
 lastlocation:
   world: rooftop
