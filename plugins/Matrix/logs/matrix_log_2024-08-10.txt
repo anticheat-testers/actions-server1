@@ -221,3 +221,40 @@
 (05:06:12) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:10(+0) ping:91 tps:20.0 component: ka.abt.ses ver: 1.8.x
 (05:06:12) kons0las failed KillAura check | the player exhibits a flaw in combat(type: C, pattern: rba) | vl:20(+10) ping:91 tps:20.0 component: ka.flaw.c ver: 1.8.x
 (05:06:12) Execute command: matrix notify kons0las might be using combat hacks (KillAura)
+(05:06:32) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:228 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:33) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:33) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:33) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:34) kons0las failed Click check | reached 16/15 cps during the combat // cps (dynamic)() | vl:4(+4) ping:80 tps:19.99 component: ka.clk.cps ver: 1.8.x
+(05:06:34) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:34) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:34) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:35) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:35) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:80 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:36) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // snap() | vl:7(+7) ping:80 tps:19.99 component: ka.abt.snp ver: 1.8.x
+(05:06:36) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:7(+0) ping:80 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:37) kons0las failed HitBox check | missed hitbox(target: player, positions: 3, all: 16, tk: 9, prep: false, strict: false) | vl:2(+2) ping:80 tps:20.0 component: hb.mis ver: 1.8.x
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874336E8->-1.8874373E8)() | vl:10(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874373E8->-1.8874336E8)() | vl:20(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874336E8->-1.8874373E8)() | vl:30(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874373E8->-1.8874336E8)() | vl:40(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874336E8->-1.8874373E8)() | vl:50(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874373E8->-1.8874336E8)() | vl:60(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:37) Execute command: matrix notify Bxrl tried to move abnormally (Move) #1
+(05:06:37) Bxrl failed Move check | t: spin (-1.8874336E8->-1.8874373E8)() | vl:70(+10) ping:232 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:47) kons0las failed Chat check | chat too fast | delay: 1707() | vl:1(+1) ping:91 tps:20.0 component: chat.delay ver: 1.8.x
+(05:06:48) kons0las failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 9, prep: false, strict: false) | vl:4(+2) ping:81 tps:20.0 component: hb.mis ver: 1.8.x
+(05:06:48) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:7(+0) ping:81 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:48) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // shake() | vl:14(+7) ping:81 tps:20.0 component: ka.abt.ske ver: 1.8.x
+(05:06:48) Execute command: matrix npc kons0las 100
+(05:06:48) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:14(+0) ping:81 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:49) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:14(+0) ping:81 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:49) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // snap() | vl:21(+7) ping:81 tps:19.99 component: ka.abt.snp ver: 1.8.x
+(05:06:49) Execute command: matrix notify kons0las might be using combat hacks (KillAura)
+(05:06:49) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:21(+0) ping:81 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:50) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // shake() | vl:28(+7) ping:81 tps:19.99 component: ka.abt.ske ver: 1.8.x
+(05:06:50) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:28(+0) ping:81 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:53) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:35(+10) ping:155 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:54) Bxrl failed Move check | t: spin (-1.8874366E8->-344.0)() | vl:45(+10) ping:155 tps:20.0 component: move.spin ver: 1.8.x
+(05:06:55) kons0las failed Move check | unexpected horizontal movement (motion: 1.782/0.478, buffer: 1.305/false, vet: 0.0, vec: 0.152, ground: -,+, spr: +, add: 0.326, past: 0.0,0.278, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: collision, tags: hor_fast_setback,teleport,hor_tp_fix)() | vl:5(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
+(05:06:58) Bxrl failed Chat check | send the same chat content() | vl:1(+1) ping:375 tps:20.0 component: chat.same ver: 1.8.x
