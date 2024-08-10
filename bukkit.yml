@@ -24,6 +24,7 @@ settings:
   shutdown-message: Server has been shutdown or is restarting please wait.
   ping-packet-limit: 100
   use-exact-login-location: false
+  spawn-radius: 0
 spawn-limits:
   monsters: 0
   animals: 0
