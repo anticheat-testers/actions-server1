@@ -306,3 +306,7 @@
 (05:08:23) Bxrl failed KillAura check | (npc) force field() | vl:52(+5) ping:190 tps:20.0 component: ka.ff ver: 1.8.x
 (05:08:23) Bxrl failed KillAura check | (npc) force field() | vl:57(+5) ping:190 tps:20.0 component: ka.ff ver: 1.8.x
 (05:08:24) Bxrl failed KillAura check | (npc) force field() | vl:62(+5) ping:190 tps:20.0 component: ka.ff ver: 1.8.x
+(05:08:39) kons0las failed Chat check | chat too fast | delay: 544() | vl:1(+1) ping:775 tps:19.99 component: chat.delay ver: 1.8.x
+(05:08:49) kons0las failed Move check | unexpected horizontal movement (motion: 0.21/0.243(0.182), buffer: 0.15/false, vet: 0.0, vec: 0.112, ground: +,+, spr: -, add: 0.13, past: 0.0,0.205, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: noslow_sneak,collision,noslow, tags: noslow_sneak,collision,noslow)() | vl:5(+5) ping:128 tps:20.0 component: move.hor ver: 1.8.x
+(05:08:49) Bxrl failed Chat check | chat too fast | delay: 2281() | vl:1(+1) ping:127 tps:20.0 component: chat.delay ver: 1.8.x
+(05:08:50) Bxrl failed Chat check | chat too fast | delay: 1125() | vl:2(+1) ping:127 tps:20.0 component: chat.delay ver: 1.8.x
