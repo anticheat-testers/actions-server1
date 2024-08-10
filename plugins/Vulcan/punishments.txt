@@ -1242,3 +1242,48 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Bxrl was punished for Bad Packets (Type I) ]--------------
+
+Location:
+ - World: world
+ - X: 0.0
+ - Y: 0.0
+ - Z: 0.0
+
+Information:
+ - UUID: 453aba25-b437-4a74-9a01-a5b41229e2f4
+ - Keep Alive Ping: 0
+ - Transaction Ping: 0
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 5.0 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 100
+ - Since Firework Ticks: 200
+ - Ticks Existed: 0
+ - Since Vehicle Ticks: 100
+ - Since Liquid Ticks: 100
+ - Queued Transactions: 12
+ - Joined: 0 seconds ago
+ - Holding Item: ItemStack{BOOK x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§6Edit Kits}}
+
+All Violations:
+ - Bad Packets (Type I) [VL: 3] (Sent EntityAction while attacking.)
+
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
