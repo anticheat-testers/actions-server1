@@ -1005,3 +1005,50 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type H) ]--------------
+
+Location:
+ - World: world
+ - X: 0.7632484061499982
+ - Y: 22.0
+ - Z: 2.172071365248461
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 298
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 6.2 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 124
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1
+ - Since Velocity Ticks: 124
+ - Since Firework Ticks: 206
+ - Ticks Existed: 24
+ - Since Vehicle Ticks: 106
+ - Since Liquid Ticks: 106
+ - Queued Transactions: 1
+ - Joined: 1 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type H) [VL: 3] (Invalid attack packet order.)
+
+Blocks Nearby: [SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_WOOD_STAIRS, SMOOTH_BRICK, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, SPRUCE_WOOD_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
