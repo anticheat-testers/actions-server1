@@ -1381,3 +1381,50 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Bxrl was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 14.447379899515713
+ - Y: 20.0
+ - Z: -1.4986107205552681
+
+Information:
+ - UUID: 453aba25-b437-4a74-9a01-a5b41229e2f4
+ - Keep Alive Ping: 159
+ - Transaction Ping: 144
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 14.1 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 282
+ - Since Riptide Ticks: 200
+ - Flying Delay: 60
+ - Since Velocity Ticks: 282
+ - Since Firework Ticks: 289
+ - Ticks Existed: 601
+ - Since Vehicle Ticks: 189
+ - Since Liquid Ticks: 189
+ - Queued Transactions: 1
+ - Joined: 41 seconds ago
+ - Holding Item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§bPlay Ranked}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
