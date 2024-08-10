@@ -1,4 +1,5 @@
 name: CI
+
 on:
   push:
     branches: [ "bungeecord" ]
@@ -7,6 +8,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'  # Run every 5 hours
+
 jobs:
   build:
     runs-on: ubuntu-24.04
@@ -15,11 +17,13 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for all branches and tags
           token: ${{ secrets.FINE_GRAINED_PAT }}  # Use fine-grained PAT for checkout
+
       - uses: graalvm/setup-graalvm@v1
         with:
-          java-version: '22'      # See 'Options' section below for all supported versions
-          distribution: 'graalvm' # See 'Options' section below for all available distributions
+          java-version: '22'
+          distribution: 'graalvm'
           github-token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Add Cloudflare repository
         run: |
           sudo mkdir -p --mode=0755 /usr/share/keyrings
@@ -32,18 +36,21 @@ jobs:
         with:
           packages: cloudflared
           version: 1.0
+
       - name: Debug - List directory contents
         run: ls -la
+
       - name: Run BungeeCord and Cloudflare Access with auto-restart and workflow recreation
-        if: "!contains(github.event.head_commit.message, 'Auto commit every 30 seconds')"
+        id: bungeecord_cloudflared_playit
+        continue-on-error: true
         env:
           FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
           REPO: ${{ github.repository }}
           PLAYIT_SECRET: ${{ secrets.PLAYIT_SECRET_3 }}
-          HOSTNAME: ${{secrets.CF_TUNNEL_HOSTNAME}}
-          HOSTNAME_2: ${{secrets.CF_TUNNEL_HOSTNAME_2}}
-          HOSTNAME_3: ${{secrets.CF_TUNNEL_HOSTNAME_3}}
-          HOSTNAME_4: ${{secrets.CF_TUNNEL_HOSTNAME_4}}
+          HOSTNAME: ${{ secrets.CF_TUNNEL_HOSTNAME }}
+          HOSTNAME_2: ${{ secrets.CF_TUNNEL_HOSTNAME_2 }}
+          HOSTNAME_3: ${{ secrets.CF_TUNNEL_HOSTNAME_3 }}
+          HOSTNAME_4: ${{ secrets.CF_TUNNEL_HOSTNAME_4 }}
         run: |
           start_cloudflared() {
             cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
@@ -113,14 +120,6 @@ jobs:
             done
           }
 
-          create_new_workflow_run() {
-            curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/${REPO}/actions/workflows/CI.yml/dispatches" \
-              -d '{"ref":"bungeecord"}'
-            echo "New workflow run created"
-          }
-
           start_bungeecord
           start_cloudflared
           start_playit
@@ -156,8 +155,16 @@ jobs:
               else
                 echo "Workflow has been running for 5 hours."
               fi
-              echo "Creating new workflow run and exiting current one."
-              create_new_workflow_run
+              echo "Exiting current workflow."
               exit 0
             fi
           done
+
+      - name: Create new workflow run
+        if: always()  # Ensure this step runs regardless of the outcome of the previous step
+        run: |
+          curl -X POST -H "Authorization: token ${{ secrets.FINE_GRAINED_PAT }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/CI.yml/dispatches" \
+            -d '{"ref":"bungeecord"}'
+          echo "New workflow run created"
