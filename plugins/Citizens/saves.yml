@@ -22,7 +22,7 @@ npc:
       owner:
         uuid: ''
       scoreboardtrait: {}
-    traitnames: mounttrait,spawned,type,location,scoreboardtrait,owner
+    traitnames: type,scoreboardtrait,spawned,owner,mounttrait,location
     navigator:
       pathfindingrange: '25.0'
       speedmodifier: '1.0'
