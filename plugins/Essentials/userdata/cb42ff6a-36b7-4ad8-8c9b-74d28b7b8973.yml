@@ -10,11 +10,11 @@ logoutlocation:
   z: -0.37605525566077763
   yaw: -103.850716
   pitch: 10.04966
-money: '1250.0'
+money: '1255.0'
 lastlocation:
-  world: bio-hazard
-  x: -63.07499998807907
-  y: 66.0
-  z: -2.300000011920929
-  yaw: 18.443878
-  pitch: -5.5158854
+  world: lions_temple
+  x: -20.198256956809068
+  y: 69.0
+  z: -53.123603372746416
+  yaw: -172.46996
+  pitch: 67.62454
