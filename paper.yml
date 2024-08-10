@@ -23,6 +23,8 @@ warnWhenSettingExcessiveVelocity: true
 world-settings:
   default:
     verbose: true
+    cache-chunk-maps: false
+    remove-invalid-mob-spawner-tile-entities: true
     keep-spawn-loaded: true
     generator-settings:
       canyon: true
@@ -44,23 +46,16 @@ world-settings:
     disable-mood-sounds: false
     use-async-lighting: false
     disable-teleportation-suffocation-check: false
-    portal-search-radius: 128
-    optimize-explosions: false
     tnt-explosion-volume: 4.0
-    cache-chunk-maps: false
-    remove-invalid-mob-spawner-tile-entities: true
+    optimize-explosions: false
+    portal-search-radius: 128
+    player-blocking-damage-multiplier: 0.5
     fast-drain:
       lava: false
       water: false
     lava-flow-speed:
       normal: 30
       nether: 10
-    nether-ceiling-void-damage: false
-    load-chunks:
-      enderpearls: false
-      tnt-entities: false
-      falling-blocks: false
-    player-blocking-damage-multiplier: 0.5
     mob-spawner-tick-rate: 1
     squid-spawn-height:
       minimum: 45.0
@@ -87,6 +82,11 @@ world-settings:
       disable-player-crits: false
       disable-chest-cat-detection: false
       disable-end-credits: false
+    nether-ceiling-void-damage: false
+    load-chunks:
+      enderpearls: false
+      tnt-entities: false
+      falling-blocks: false
     disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     fix-cannons: false
