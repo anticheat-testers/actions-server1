@@ -312,3 +312,5 @@
 (05:08:50) Bxrl failed Chat check | chat too fast | delay: 1125() | vl:2(+1) ping:127 tps:20.0 component: chat.delay ver: 1.8.x
 (05:09:29) kons0las failed Move check | unexpected horizontal movement (motion: 0.275/0.278(0.218), buffer: 0.15/false, vet: 0.0, vec: 0.148, ground: +,+, spr: +, add: 0.13, past: 0.0,0.271, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: noslow_sneak,collision,noslow, tags: noslow_sneak,collision,noslow)() | vl:5(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
 (05:09:35) Bxrl failed Chat check | chat too fast | delay: 1606() | vl:3(+1) ping:245 tps:19.99 component: chat.delay ver: 1.8.x
+(05:11:18) Bxrl failed Chat check | chat too fast | delay: 2547() | vl:4(+1) ping:158 tps:20.0 component: chat.delay ver: 1.8.x
+(05:11:19) Execute command: matrix notify Bxrl is spamming the chat (ChatSpam)
