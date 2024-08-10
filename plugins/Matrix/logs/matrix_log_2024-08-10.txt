@@ -5,3 +5,4 @@
 (04:44:47) Bxrl failed Chat check | chat too fast | delay: 912() | vl:2(+1) ping:107 tps:20.0 component: chat.delay ver: 1.8.x
 (04:46:24) Bxrl failed Chat check | chat too fast | delay: 2544() | vl:1(+1) ping:146 tps:19.99 component: chat.delay ver: 1.8.x
 (04:46:24) Bxrl failed Chat check | chat too fast | delay: 788() | vl:2(+1) ping:146 tps:19.99 component: chat.delay ver: 1.8.x
+(04:46:44) Bxrl failed Delay check | perform actions faster than expected // heal (difficulty: easy, delay: 3.45, ver: V1_8_X, ver_p: 1.8.x)() | vl:1(+1) ping:234 tps:20.0 component: delay.heal ver: 1.8.x
