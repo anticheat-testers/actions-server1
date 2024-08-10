@@ -195,3 +195,6 @@
 (05:03:57) Bxrl failed BadPackets check | timer (advantage: 10.412ms)() | vl:4(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
 (05:03:57) Bxrl failed BadPackets check | timer (advantage: 4.067ms)() | vl:5(+1) ping:164 tps:20.0 component: bp.timer ver: 1.8.x
 (05:04:01) kons0las failed Chat check | chat too fast | delay: 1027() | vl:1(+1) ping:0 tps:20.0 component: chat.delay ver: 1.8.x
+(05:04:22) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:1(+1) ping:92 tps:20.0 component: vel.vet ver: 1.8.x
+(05:04:22) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:2(+1) ping:92 tps:20.0 component: vel.vet ver: 1.8.x
+(05:04:47) kons0las failed Move check | unexpected horizontal movement (motion: 0.279/0.25, buffer: 0.237/false, vet: 0.0, vec: 0.152, ground: -,-, spr: +, add: 0.026, past: 0.0,0.278, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: collision, tags: collision,hor_bst)() | vl:5(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
