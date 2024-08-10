@@ -68,3 +68,8 @@
 (04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1763, b: 43)() | vl:14(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
 (04:56:45) Bxrl failed BadPackets check | might using freecam (a: 1713, b: 43)() | vl:16(+2) ping:1954 tps:20.0 component: bp.freecam ver: 1.8.x
 (04:57:00) Bxrl failed Chat check | chat too fast | delay: 2036() | vl:1(+1) ping:143 tps:20.0 component: chat.delay ver: 1.8.x
+(04:57:49) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.46075() | vl:1(+1) ping:130 tps:20.0 component: vel.vet ver: 1.8.x
+(04:57:49) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.36075() | vl:1(+1) ping:130 tps:20.0 component: vel.vet ver: 1.8.x
+(04:58:02) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:1(+1) ping:197 tps:20.0 component: delay.inv ver: 1.8.x
+(04:58:05) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:1(+1) ping:151 tps:20.0 component: delay.inv ver: 1.8.x
+(04:58:05) Bxrl failed Delay check | perform actions faster than expected // inventory (type A, p: 10)() | vl:2(+1) ping:151 tps:20.0 component: delay.inv ver: 1.8.x
