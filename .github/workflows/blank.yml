@@ -34,7 +34,7 @@ jobs:
           version: 1.0
       - name: Debug - List directory contents
         run: ls -la
-      - name: Run BungeeCord and playit with 30-second commits and workflow deletion
+      - name: Run BungeeCord and Cloudflare Access with auto-restart and workflow recreation
         if: "!contains(github.event.head_commit.message, 'Auto commit every 30 seconds')"
         env:
           FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
@@ -45,10 +45,17 @@ jobs:
           HOSTNAME_3: ${{secrets.CF_TUNNEL_HOSTNAME_3}}
           HOSTNAME_4: ${{secrets.CF_TUNNEL_HOSTNAME_4}}
         run: |
-          cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
-          cloudflared access tcp --hostname ${HOSTNAME_2} --url localhost:25569 > /dev/null &
-          cloudflared access tcp --hostname ${HOSTNAME_3} --url localhost:25570 > /dev/null &
-          cloudflared access tcp --hostname ${HOSTNAME_4} --url localhost:25571 > /dev/null &
+          start_cloudflared() {
+            cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
+            CLOUDFLARED_PID_1=$!
+            cloudflared access tcp --hostname ${HOSTNAME_2} --url localhost:25569 > /dev/null &
+            CLOUDFLARED_PID_2=$!
+            cloudflared access tcp --hostname ${HOSTNAME_3} --url localhost:25570 > /dev/null &
+            CLOUDFLARED_PID_3=$!
+            cloudflared access tcp --hostname ${HOSTNAME_4} --url localhost:25571 > /dev/null &
+            CLOUDFLARED_PID_4=$!
+            echo "Cloudflare Access started with PIDs $CLOUDFLARED_PID_1 $CLOUDFLARED_PID_2 $CLOUDFLARED_PID_3 $CLOUDFLARED_PID_4"
+          }
 
           cd $GITHUB_WORKSPACE
           chmod +x playit-linux-amd64
@@ -61,13 +68,13 @@ jobs:
             echo "BungeeCord started with PID $BUNGEECORD_PID"
           }
 
-          start_bungeecord
-          echo "Starting playit..."
-          ./playit-linux-amd64 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
-          PLAYIT_PID=$!
-          echo "playit started with PID $PLAYIT_PID"
-          
-          # Function to commit and push changes
+          start_playit() {
+            echo "Starting playit..."
+            ./playit-linux-amd64 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
+            PLAYIT_PID=$!
+            echo "playit started with PID $PLAYIT_PID"
+          }
+
           commit_and_push() {
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
@@ -79,7 +86,6 @@ jobs:
             git push https://x-access-token:${FINE_GRAINED_PAT}@github.com/${GITHUB_REPOSITORY}.git HEAD:bungeecord
           }
           
-          # Function to delete auto-commit workflow runs
           delete_auto_commit_workflows() {
             workflow_ids=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
               "https://api.github.com/repos/${REPO}/actions/runs" | \
@@ -90,21 +96,50 @@ jobs:
                 "https://api.github.com/repos/${REPO}/actions/runs/$id"
             done
           }
+
+          create_new_workflow_run() {
+            curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${REPO}/actions/workflows/CI.yml/dispatches" \
+              -d '{"ref":"bungeecord"}'
+            echo "New workflow run created"
+          }
+
+          start_bungeecord
+          start_cloudflared
+          start_playit
           
-          # Loop to commit, delete workflows, and check processes every 30 seconds
+          START_TIME=$(date +%s)
+          
           while true; do
             sleep 30
             commit_and_push
             delete_auto_commit_workflows
             
-            # Check if processes are still running
+            CURRENT_TIME=$(date +%s)
+            ELAPSED_TIME=$((CURRENT_TIME - START_TIME))
+            
             if ! kill -0 $BUNGEECORD_PID 2>/dev/null; then
               echo "BungeeCord process has stopped. Restarting BungeeCord..."
               start_bungeecord
             fi
 
             if ! kill -0 $PLAYIT_PID 2>/dev/null; then
-              echo "playit process has stopped. Exiting."
-              exit 1
+              echo "playit process has stopped. Restarting playit..."
+              start_playit
+            fi
+
+            if ! (kill -0 $CLOUDFLARED_PID_1 2>/dev/null && kill -0 $CLOUDFLARED_PID_2 2>/dev/null && 
+                  kill -0 $CLOUDFLARED_PID_3 2>/dev/null && kill -0 $CLOUDFLARED_PID_4 2>/dev/null) || 
+               [ $ELAPSED_TIME -ge 18000 ]; then
+              if ! (kill -0 $CLOUDFLARED_PID_1 2>/dev/null && kill -0 $CLOUDFLARED_PID_2 2>/dev/null && 
+                    kill -0 $CLOUDFLARED_PID_3 2>/dev/null && kill -0 $CLOUDFLARED_PID_4 2>/dev/null); then
+                echo "One or more Cloudflare Access processes have stopped."
+              else
+                echo "Workflow has been running for 5 hours."
+              fi
+              echo "Creating new workflow run and exiting current one."
+              create_new_workflow_run
+              exit 0
             fi
           done
