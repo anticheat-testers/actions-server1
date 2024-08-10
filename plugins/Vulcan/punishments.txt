@@ -911,3 +911,51 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: Maps
+ - X: 4.5943020014230775
+ - Y: 74.0
+ - Z: 34.276804409354376
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 325
+ - Transaction Ping: 427
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 1.1 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 3
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 24
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 22
+ - Since Firework Ticks: 686
+ - Ticks Existed: 1411
+ - Since Vehicle Ticks: 586
+ - Since Liquid Ticks: 586
+ - Queued Transactions: 4
+ - Joined: 110 seconds ago
+ - Holding Item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DAMAGE_ALL=3, FIRE_ASPECT=2}}}
+
+All Violations:
+ - Aim (Type I) [VL: 3] (Not constant rotations.)
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [QUARTZ_BLOCK, QUARTZ_BLOCK, WOOL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, QUARTZ_BLOCK, QUARTZ_BLOCK, WOOL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, QUARTZ_BLOCK, QUARTZ_BLOCK, WOOL, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
