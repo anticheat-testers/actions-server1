@@ -1,1 +1,2 @@
 (04:43:04) Matrix Enabled! Version: 7.7.26A
+(04:43:46) Bxrl failed Chat check | chat too fast | delay: 1901() | vl:1(+1) ping:62 tps:20.0 component: chat.delay ver: 1.8.x
