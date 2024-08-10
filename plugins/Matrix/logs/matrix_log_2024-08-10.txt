@@ -105,3 +105,24 @@
 (04:59:39) Bxrl failed Chat check | chat too fast | delay: 1700() | vl:1(+1) ping:163 tps:20.0 component: chat.delay ver: 1.8.x
 (05:01:13) Bxrl failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 10, prep: false, strict: false) | vl:2(+2) ping:131 tps:20.0 component: hb.mis ver: 1.8.x
 (05:01:13) Bxrl failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 10, prep: false, strict: false) | vl:4(+2) ping:131 tps:20.0 component: hb.mis ver: 1.8.x
+(05:02:26) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:2(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:27) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:4(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:27) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:6(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:27) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:8(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:27) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:10(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:27) Execute command: matrix npc Bxrl 100
+(05:02:27) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:12(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:28) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:14(+2) ping:183 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:28) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:16(+2) ping:138 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:28) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:18(+2) ping:138 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:28) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:20(+2) ping:138 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:28) Execute command: matrix notify Bxrl might be using combat hacks (KillAura)
+(05:02:28) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:22(+2) ping:138 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:28) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:24(+2) ping:138 tps:19.99 component: ka.abt.syn ver: 1.8.x
+(05:02:34) Bxrl failed KillAura check | (npc) force field() | vl:24(+5) ping:160 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:34) Execute command: matrix notify Bxrl might be using combat hacks (KillAura)
+(05:02:34) Bxrl failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:26(+2) ping:160 tps:20.0 component: ka.abt.syn ver: 1.8.x
+(05:02:34) Bxrl failed KillAura check | (npc) force field() | vl:31(+5) ping:160 tps:19.99 component: ka.ff ver: 1.8.x
+(05:02:34) Bxrl failed KillAura check | (npc) force field() | vl:36(+5) ping:160 tps:19.99 component: ka.ff ver: 1.8.x
+(05:02:34) Execute command: matrix notify Bxrl is using combat hacks (KillAura) #2
+(05:02:35) Bxrl failed KillAura check | (npc) force field() | vl:41(+5) ping:160 tps:19.99 component: ka.ff ver: 1.8.x
