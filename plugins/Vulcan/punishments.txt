@@ -1718,3 +1718,57 @@ Potion Effects: [SPEED:1660t-x1, FIRE_RESISTANCE:9502t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Auto Block (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 10.888512255879633
+ - Y: 20.5
+ - Z: -0.2627836716796318
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 0
+ - Transaction Ping: 152
+ - Server TPS: 20
+ - Sensitivity: -34
+ - Gamemode: SURVIVAL
+ - Client Brand: Vanilla
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.2 seconds ago
+
+Total Violations: 19
+ - Combat Violations: 18
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 2
+ - Since Riptide Ticks: 200
+ - Flying Delay: 100
+ - Since Velocity Ticks: 4
+ - Since Firework Ticks: 377
+ - Ticks Existed: 363
+ - Since Vehicle Ticks: 277
+ - Since Liquid Ticks: 277
+ - Queued Transactions: 1
+ - Joined: 21 seconds ago
+ - Holding Item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§bPlay Unranked}}
+
+All Violations:
+ - Aim (Type I) [VL: 6] (Not constant rotations.)
+ - Aim (Type K) [VL: 3] (Not constant rotations.)
+ - Aim (Type W) [VL: 2] (Generic rotation analysis heuristic.)
+ - Auto Block (Type A) [VL: 1] (Attacked while sending BlockPlace packet.)
+ - Auto Block (Type B) [VL: 3] (Attacked while sending BlockDig packet.)
+ - Auto Block (Type D) [VL: 2] (Invalid attack order.)
+ - Kill Aura (Type B) [VL: 1] (Invalid acceleration.)
+ - Bad Packets (Type I) [VL: 1] (Sent EntityAction while attacking.)
+
+Blocks Nearby: [SMOOTH_BRICK, COBBLESTONE, SMOOTH_BRICK, DOUBLE_STEP, AIR, AIR, STEP, STEP, STEP, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, STONE, COBBLESTONE_STAIRS, SMOOTH_STAIRS, SMOOTH_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, GRAVEL, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

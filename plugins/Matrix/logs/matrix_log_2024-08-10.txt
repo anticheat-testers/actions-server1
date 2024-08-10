@@ -199,3 +199,25 @@
 (05:04:22) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:2(+1) ping:92 tps:20.0 component: vel.vet ver: 1.8.x
 (05:04:47) kons0las failed Move check | unexpected horizontal movement (motion: 0.279/0.25, buffer: 0.237/false, vet: 0.0, vec: 0.152, ground: -,-, spr: +, add: 0.026, past: 0.0,0.278, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: collision, tags: collision,hor_bst)() | vl:5(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
 (05:05:03) kons0las failed Move check | unexpected vertical movement (motion: 0.0/13.32, hor: 0.034, buffer: 6.66/false, ground: +,+, setback: -, vel: VU:0.324875, VU:0.239875, VU:0.156625, VU:0.075, VA:-0.004875, VU:-0.078375, VU:-0.078375, from: 21.5, past: 0.0, p_tags: step, tags: jump)() | vl:5(+5) ping:232 tps:20.0 component: move.vert ver: 1.8.x
+(05:05:55) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:82 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:55) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:82 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:56) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:82 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:56) kons0las failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 9, prep: false, strict: false) | vl:2(+2) ping:82 tps:20.0 component: hb.mis ver: 1.8.x
+(05:05:57) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:82 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:57) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:82 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:57) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:82 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:58) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:280 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:05:58) kons0las failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 13, prep: false, strict: false) | vl:4(+2) ping:280 tps:20.0 component: hb.mis ver: 1.8.x
+(05:06:01) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:280 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:02) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:280 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:03) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:280 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:03) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:125 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:06:10) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:91 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:10) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:91 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:11) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:91 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:11) kons0las failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 9, prep: false, strict: false) | vl:6(+2) ping:91 tps:20.0 component: hb.mis ver: 1.8.x
+(05:06:12) kons0las failed KillAura check | the player exhibits a flaw in combat(type: C, pattern: rba) | vl:10(+10) ping:91 tps:20.0 component: ka.flaw.c ver: 1.8.x
+(05:06:12) Execute command: matrix npc kons0las 100
+(05:06:12) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:10(+0) ping:91 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:06:12) kons0las failed KillAura check | the player exhibits a flaw in combat(type: C, pattern: rba) | vl:20(+10) ping:91 tps:20.0 component: ka.flaw.c ver: 1.8.x
+(05:06:12) Execute command: matrix notify kons0las might be using combat hacks (KillAura)
