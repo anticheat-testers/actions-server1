@@ -1052,3 +1052,50 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ kons0las was punished for Bad Packets (Type J) ]--------------
+
+Location:
+ - World: world
+ - X: 98.31556433735577
+ - Y: 12.753199980521202
+ - Z: -478.5428821326693
+
+Information:
+ - UUID: bc4f5a10-e49d-4b95-b50e-5e5b108166dd
+ - Keep Alive Ping: 309
+ - Transaction Ping: 322
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.0 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1
+ - Since Velocity Ticks: 0
+ - Since Firework Ticks: 712
+ - Ticks Existed: 936
+ - Since Vehicle Ticks: 612
+ - Since Liquid Ticks: 612
+ - Queued Transactions: 2
+ - Joined: 54 seconds ago
+ - Holding Item: ItemStack{POTION x 1}
+
+All Violations:
+ - Bad Packets (Type J) [VL: 3] (Sent HeldItemSlot while placing.)
+
+Blocks Nearby: [STONE, STONE, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, DOUBLE_STEP, DOUBLE_STEP, DOUBLE_STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STEP, STEP, STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
