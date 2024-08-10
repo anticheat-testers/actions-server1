@@ -126,3 +126,47 @@
 (05:02:34) Bxrl failed KillAura check | (npc) force field() | vl:36(+5) ping:160 tps:19.99 component: ka.ff ver: 1.8.x
 (05:02:34) Execute command: matrix notify Bxrl is using combat hacks (KillAura) #2
 (05:02:35) Bxrl failed KillAura check | (npc) force field() | vl:41(+5) ping:160 tps:19.99 component: ka.ff ver: 1.8.x
+(05:02:36) Bxrl failed KillAura check | (npc) force field() | vl:46(+5) ping:160 tps:19.99 component: ka.ff ver: 1.8.x
+(05:02:36) Execute command: matrix delay 5 matrix kick Bxrl KillAura
+(05:02:36) Bxrl failed KillAura check | (npc) force field() | vl:51(+5) ping:160 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:37) Bxrl failed KillAura check | (npc) force field() | vl:56(+5) ping:160 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:37) Bxrl failed KillAura check | (npc) force field() | vl:61(+5) ping:160 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:37) Bxrl failed KillAura check | (npc) force field() | vl:66(+5) ping:160 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:38) Bxrl failed KillAura check | (npc) force field() | vl:71(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:38) Bxrl failed KillAura check | (npc) force field() | vl:76(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:38) Bxrl failed KillAura check | (npc) force field() | vl:81(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:38) Bxrl failed KillAura check | (npc) force field() | vl:86(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:38) Bxrl failed KillAura check | (npc) force field() | vl:91(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:39) Bxrl failed KillAura check | (npc) force field() | vl:96(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:39) Bxrl failed KillAura check | (npc) force field() | vl:101(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:40) Bxrl failed KillAura check | (npc) force field() | vl:106(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:40) Bxrl failed KillAura check | (npc) force field() | vl:111(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:40) Bxrl failed KillAura check | (npc) force field() | vl:116(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:40) Bxrl failed KillAura check | (npc) force field() | vl:121(+5) ping:265 tps:20.0 component: ka.ff ver: 1.8.x
+(05:02:53) Bxrl failed BadPackets check | might using freecam (a: 1644, b: 14)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:01) kons0las failed BadPackets check | might using freecam (a: 1569, b: 21)() | vl:2(+2) ping:150 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:01) kons0las failed BadPackets check | might using freecam (a: 1567, b: 69)() | vl:4(+2) ping:150 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:02) kons0las failed BadPackets check | might using freecam (a: 1667, b: 14)() | vl:6(+2) ping:150 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:02) kons0las failed BadPackets check | might using freecam (a: 1668, b: 65)() | vl:8(+2) ping:150 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:02) kons0las failed BadPackets check | might using freecam (a: 1768, b: 20)() | vl:10(+2) ping:150 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:02) kons0las failed BadPackets check | might using freecam (a: 1768, b: 70)() | vl:12(+2) ping:150 tps:20.0 component: bp.freecam ver: 1.8.x
+(05:03:02) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:1(+1) ping:150 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:02) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:2(+1) ping:150 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:02) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:3(+1) ping:150 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:02) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:4(+1) ping:150 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:02) kons0las failed Velocity check | (vertical) reduce vertical velocity: 0.333125() | vl:5(+1) ping:150 tps:20.0 component: vel.vet ver: 1.8.x
+(05:03:04) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:179 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:05) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:179 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:03:05) kons0las failed Click check | reached 16/15 cps during the combat // cps (dynamic)() | vl:4(+4) ping:179 tps:19.99 component: ka.clk.cps ver: 1.8.x
+(05:03:05) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:179 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:03:05) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:179 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:03:05) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:179 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:03:06) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:0(+0) ping:179 tps:19.99 component: ka.abt.ses ver: 1.8.x
+(05:03:06) kons0las failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 11, prep: true, strict: false) | vl:2(+2) ping:179 tps:19.99 component: hb.mis ver: 1.8.x
+(05:03:06) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // snap() | vl:7(+7) ping:179 tps:19.99 component: ka.abt.snp ver: 1.8.x
+(05:03:06) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:7(+0) ping:179 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:07) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:7(+0) ping:179 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:07) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:7(+0) ping:179 tps:20.0 component: ka.abt.ses ver: 1.8.x
+(05:03:07) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // snap() | vl:14(+7) ping:179 tps:20.0 component: ka.abt.snp ver: 1.8.x
+(05:03:07) Execute command: matrix npc kons0las 100
+(05:03:08) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // sensitivity() | vl:14(+0) ping:98 tps:20.0 component: ka.abt.ses ver: 1.8.x
