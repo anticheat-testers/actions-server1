@@ -103,3 +103,5 @@
 (04:58:57) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.164625() | vl:1(+1) ping:0 tps:20.0 component: vel.vet ver: 1.8.x
 (04:58:57) Bxrl failed Velocity check | (vertical) reduce vertical velocity: 0.248() | vl:2(+1) ping:0 tps:20.0 component: vel.vet ver: 1.8.x
 (04:59:39) Bxrl failed Chat check | chat too fast | delay: 1700() | vl:1(+1) ping:163 tps:20.0 component: chat.delay ver: 1.8.x
+(05:01:13) Bxrl failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 10, prep: false, strict: false) | vl:2(+2) ping:131 tps:20.0 component: hb.mis ver: 1.8.x
+(05:01:13) Bxrl failed HitBox check | missed hitbox(target: player, positions: 1, all: 16, tk: 10, prep: false, strict: false) | vl:4(+2) ping:131 tps:20.0 component: hb.mis ver: 1.8.x
