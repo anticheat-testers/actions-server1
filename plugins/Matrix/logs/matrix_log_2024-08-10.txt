@@ -319,3 +319,4 @@
 (06:34:07) Matrix Enabled! Version: 7.7.26A
 (06:48:51) Matrix Enabled! Version: 7.7.26A
 (06:53:14) Matrix Enabled! Version: 7.7.26A
+(09:52:44) xNotJames failed BadPackets check | might using freecam (a: 1593, b: 17)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.8.x
