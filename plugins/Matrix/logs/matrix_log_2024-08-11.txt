@@ -191,3 +191,36 @@
 (08:03:15) kons0las failed HitBox check | attack too far away(target: player, reach: 3.152, max: 3.00001, positions: 2/16, tk: 12, prep: true, strict: false) | vl:12(+3) ping:219 tps:20.0 component: hb.reach ver: 1.8.x
 (08:03:15) Execute command: matrix notify &7[&b&l❀&7] &fkons0las failed &Reach/HitBox #1 &7Ping: 219, TPS: 20.0, Version: 1.8.x
 (08:03:15) Execute command: matrix npc kons0las 120
+(08:03:18) kons0las failed KillAura check | exhibiting an aiming pattern similar to aimbot // shake() | vl:9(+7) ping:170 tps:19.99 component: ka.abt.ske ver: 1.8.x
+(08:03:21) kons0las failed HitBox check | attack too far away(target: player, reach: 3.38, max: 3.00001, positions: 12/16, tk: 11, prep: true, strict: false) | vl:10(+3) ping:170 tps:19.99 component: hb.reach ver: 1.8.x
+(08:03:21) Execute command: matrix notify &7[&b&l❀&7] &fkons0las failed &Reach/HitBox #1 &7Ping: 170, TPS: 19.99, Version: 1.8.x
+(08:03:21) kons0las failed BadPackets check | timer (advantage: 18.785ms)() | vl:1(+1) ping:170 tps:19.99 component: bp.timer ver: 1.8.x
+(08:03:21) kons0las failed BadPackets check | timer (advantage: 42.832ms)() | vl:2(+1) ping:170 tps:19.99 component: bp.timer ver: 1.8.x
+(08:03:21) kons0las failed HitBox check | attack too far away(target: player, reach: 3.17, max: 3.00001, positions: 11/16, tk: 11, prep: true, strict: false) | vl:13(+3) ping:170 tps:19.99 component: hb.reach ver: 1.8.x
+(08:03:21) Execute command: matrix npc kons0las 120
+(08:03:21) kons0las failed HitBox check | attack too far away(target: player, reach: 3.552, max: 3.00001, positions: 11/16, tk: 11, prep: false, strict: false) | vl:18(+5) ping:170 tps:19.99 component: hb.reach ver: 1.8.x
+(08:03:21) Execute command: matrix notify &7[&b&l❀&7] &fkons0las failed &bReach/HitBox #2 &7Ping: 170, TPS: 19.99, Version: 1.8.x
+(08:03:21) kons0las failed HitBox check | attack too far away(target: player, reach: 4.819, max: 3.00001, positions: 9/16, tk: 11, prep: false, strict: false) | vl:22(+4) ping:170 tps:19.99 component: hb.reach ver: 1.8.x
+(08:03:22) kons0las failed BadPackets check | timer (advantage: 33.910ms)() | vl:3(+1) ping:170 tps:19.99 component: bp.timer ver: 1.8.x
+(08:03:22) kons0las failed BadPackets check | timer (advantage: 24.542ms)() | vl:4(+1) ping:170 tps:19.99 component: bp.timer ver: 1.8.x
+(08:03:22) kons0las failed BadPackets check | timer (advantage: 13.042ms)() | vl:5(+1) ping:170 tps:19.99 component: bp.timer ver: 1.8.x
+(08:03:22) kons0las failed BadPackets check | timer (advantage: 5.929ms)() | vl:6(+1) ping:170 tps:19.99 component: bp.timer ver: 1.8.x
+(08:03:23) kons0las failed HitBox check | attack too far away(target: player, reach: 3.125, max: 3.00001, positions: 2/16, tk: 11, prep: true, strict: false) | vl:22(+0) ping:175 tps:20.0 component: hb.reach ver: 1.8.x
+(08:03:25) kons0las failed KillAura check | (npc) force field() | vl:9(+5) ping:175 tps:20.0 component: ka.ff ver: 1.8.x
+(08:03:26) kons0las failed KillAura check | (npc) force field() | vl:14(+5) ping:175 tps:19.99 component: ka.ff ver: 1.8.x
+(08:03:26) Execute command: matrix npc kons0las 100
+(08:03:28) kons0las failed KillAura check | (npc) force field() | vl:19(+5) ping:175 tps:19.99 component: ka.ff ver: 1.8.x
+(08:03:30) kons0las failed HitBox check | missed hitbox(target: player, positions: 8, all: 16, tk: 11, prep: false, strict: false) | vl:24(+2) ping:173 tps:20.0 component: hb.mis ver: 1.8.x
+(08:03:30) Execute command: matrix kick kons0las &b[AC] Skill Issue Detected
+(08:03:41) kons0las failed KillAura check | the player exhibits a flaw in combat | type D() | vl:10(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(08:03:41) Execute command: matrix npc kons0las 100
+(08:03:41) kons0las failed KillAura check | the player exhibits a flaw in combat | type D() | vl:20(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(08:03:41) Execute command: matrix notify &7[&b&l❀&7] &fkons0las failed &bKillaura #1 &7Ping: 0, TPS: 20.0, Version: 1.8.x
+(08:03:41) kons0las failed KillAura check | the player exhibits a flaw in combat | type D() | vl:30(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(08:03:41) kons0las failed HitBox check | attack too far away(target: player, reach: 3.079, max: 3.00001, positions: 1/16, tk: 13, prep: true, strict: false) | vl:3(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(08:03:41) kons0las failed HitBox check | attack too far away(target: player, reach: 3.135, max: 3.00001, positions: 1/16, tk: 13, prep: true, strict: false) | vl:6(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(08:03:41) kons0las failed HitBox check | attack too far away(target: player, reach: 3.17, max: 3.00001, positions: 1/16, tk: 13, prep: true, strict: false) | vl:9(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(08:03:41) kons0las failed HitBox check | attack too far away(target: player, reach: 3.099, max: 3.00001, positions: 1/16, tk: 13, prep: true, strict: false) | vl:12(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(08:03:41) Execute command: matrix notify &7[&b&l❀&7] &fkons0las failed &Reach/HitBox #1 &7Ping: 0, TPS: 20.0, Version: 1.8.x
+(08:03:41) Execute command: matrix npc kons0las 120
+(08:03:43) kons0las failed Click check | exhibiting suspicious clicks patterns during the combat // timing // avg: 1, diff: 0.15() | vl:8(+8) ping:130 tps:19.99 component: ka.clk.tim ver: 1.8.x
