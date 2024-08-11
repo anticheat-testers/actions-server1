@@ -15,7 +15,7 @@ regions:
         max: {x: 30000000, y: 319, z: 30000000}
         members: {}
         flags: {build: allow, fall-damage: allow, item-pickup: allow, block-break: allow,
-            nether-portals: allow, block-place: allow}
+            nether-portals: allow, block-place: allow, crop-growth: allow}
         owners: {}
         type: cuboid
         priority: 0
