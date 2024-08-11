@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.FINE_GRAINED_PAT }}  # Use fine-grained PAT for checkout
       - uses: graalvm/setup-graalvm@v1
         with:
-          java-version: '22'
+          java-version: '17'
           distribution: 'graalvm'
           github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Add Cloudflare repository
