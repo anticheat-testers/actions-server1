@@ -176,3 +176,9 @@
 (06:28:21) Matrix Enabled! Version: 7.7.26A
 (06:35:49) Matrix Enabled! Version: 7.7.26A
 (07:44:09) Matrix Enabled! Version: 7.7.26A
+(08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: glowstone, buf: 2.414)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
+(08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: wood_double_step, buf: 4.146)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
+(08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: wood_double_step, buf: 6.596)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
+(08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: wood_double_step, buf: 9.596)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
+(08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: double_step, buf: 13.06)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
+(08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: grass, buf: 17.183)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
