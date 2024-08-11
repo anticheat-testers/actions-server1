@@ -1816,3 +1816,7 @@
 [2024-08-11 23:45:31] [INFO   ] Calculated structure at -1,1 
 [2024-08-11 23:45:31] [INFO   ] Spawning LushClusterCavePopulator at 20,20,9 
 [2024-08-11 23:45:32] [INFO   ] Spawning DripstoneClusterCavePopulator at 15,-13,-17 
+[2024-08-11 23:45:47] [INFO   ] Spawning CaveFluidClusterPopulator at -88,-12,-38 
+[2024-08-11 23:45:55] [INFO   ] Spawning CrystallineClusterCavePopulator at -109,-21,108 
+[2024-08-11 23:45:58] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 6,-7 
+[2024-08-11 23:46:08] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 11,-7 
