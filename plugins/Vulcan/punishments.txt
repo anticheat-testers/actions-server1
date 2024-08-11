@@ -2195,3 +2195,50 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ xNotJames was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 12.565460094387108
+ - Y: 20.0
+ - Z: -0.5967335064908615
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 314
+ - Transaction Ping: 319
+ - Server TPS: 20
+ - Sensitivity: 130
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 17.85 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 357
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 357
+ - Since Firework Ticks: 362
+ - Ticks Existed: 257
+ - Since Vehicle Ticks: 262
+ - Since Liquid Ticks: 262
+ - Queued Transactions: 1
+ - Joined: 12 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [GRAVEL, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRAVEL, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

@@ -3163,7 +3163,7 @@ checks:
           multiple: 0.5
           decay: 0.25
       b:
-        enabled: true
+        enabled: false
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: true
