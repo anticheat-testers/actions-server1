@@ -162,3 +162,8 @@
 (02:55:55) Execute command: matrix notify Briiqn tried to click abnormally (Click) #1
 (02:55:55) Briiqn failed Click check | exhibiting suspicious clicks patterns during the combat // timing // avg: 1, diff: 0.1() | vl:20(+8) ping:332 tps:20.0 component: ka.clk.tim ver: 1.8.x
 (02:55:55) Execute command: matrix notify Briiqn tried to click abnormally (Click) #2
+(02:56:33) Briiqn failed Click check | reached 17/15 cps during the combat // cps (dynamic)() | vl:5(+5) ping:0 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(02:56:34) Briiqn failed Click check | reached 19/15 cps during the combat // cps (dynamic)() | vl:11(+6) ping:0 tps:19.99 component: ka.clk.cps ver: 1.8.x
+(02:56:34) Execute command: matrix notify Briiqn tried to click abnormally (Click) #1
+(02:56:35) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.234, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:3(+3) ping:0 tps:19.99 component: hb.reach ver: 1.8.x
+(02:56:40) Briiqn failed Chat check | chat too fast | delay: 2042() | vl:1(+1) ping:343 tps:20.0 component: chat.delay ver: 1.8.x
