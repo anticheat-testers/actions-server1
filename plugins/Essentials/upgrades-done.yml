@@ -4,7 +4,6 @@ updateJailsToNewJailsConfig: true
 warnMetrics: true
 movemotdToFile: true
 moverulesToFile: true
-deleteOldItemsCsv: true
 sanitizeAllUserFilenames: true
 updateUsersPowerToolsFormat: true
 updateUsersHomesFormat: true
@@ -13,4 +12,3 @@ updateUsersIgnoreListUUID: true
 updateUsersStupidLegacyPathNames: true
 updateUsersMailList: true
 updatePurgeBrokenNpcAccounts: true
-updateLegacyToAdventure: true
