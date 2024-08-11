@@ -73,6 +73,7 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
+    nerf-spawner-mobs: false
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -98,6 +99,7 @@ world-settings:
     hopper-amount: 1
     random-light-updates: false
     save-structure-info: true
+    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -118,8 +120,6 @@ world-settings:
       replace-blocks:
       - 1
       - 5
-    nerf-spawner-mobs: false
-    mob-spawn-range: 4
     max-bulk-chunks: 10
     max-entity-collisions: 8
     dragon-death-sound-radius: 0
