@@ -3164,7 +3164,7 @@ checks:
           decay: 0.25
       b:
         enabled: false
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: true
         max-violations: 1
