@@ -227,3 +227,4 @@
 (16:34:36) Matrix Enabled! Version: 7.7.26A
 (21:45:59) Matrix Enabled! Version: 7.7.26A
 (21:52:10) Matrix Enabled! Version: 7.7.26A
+(22:03:37) Briiqn failed BadPackets check | might using freecam (a: 4563, b: 19)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.8.x
