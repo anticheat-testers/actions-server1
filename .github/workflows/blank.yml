@@ -94,7 +94,7 @@ jobs:
           cancel_old_workflow_runs() {
             current_run_id=$GITHUB_RUN_ID
             workflow_runs=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
-              "https://api.github.com/repos/${REPO}/actions/runs?branch=bungeecord&status=in_progress")
+              "https://api.github.com/repos/${REPO}/actions/runs?branch=skywars&status=in_progress")
             
             echo "$workflow_runs" | jq -r ".workflow_runs[] | select(.id != $current_run_id) | .id" | while read -r run_id; do
               echo "Cancelling workflow run $run_id"
