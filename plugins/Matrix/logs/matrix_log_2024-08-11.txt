@@ -182,3 +182,4 @@
 (08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: wood_double_step, buf: 9.596)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
 (08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: double_step, buf: 13.06)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
 (08:02:12) kons0las failed Interact check | interact with an invisible block (block: wood_double_step, pass: grass, buf: 17.183)() | vl:0(+0) ping:200 tps:20.0 component: interact.vis ver: 1.8.x
+(08:02:35) kons0las failed HitBox check | attack too far away(target: player, reach: 3.062, max: 3.00001, positions: 1/16, tk: 11, prep: true, strict: false) | vl:3(+3) ping:155 tps:19.99 component: hb.reach ver: 1.8.x
