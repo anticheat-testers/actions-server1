@@ -2338,3 +2338,54 @@ Potion Effects: [SPEED:1612t-x1, FIRE_RESISTANCE:9457t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ Briiqn was punished for Bad Packets (Type M) ]--------------
+
+Location:
+ - World: world
+ - X: 9.589969696179653
+ - Y: 21.5
+ - Z: 3.7515494617115523
+
+Information:
+ - UUID: cb42ff6a-36b7-4ad8-8c9b-74d28b7b8973
+ - Keep Alive Ping: 296
+ - Transaction Ping: 300
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 159.85 seconds ago
+
+Total Violations: 14
+ - Combat Violations: 2
+ - Movement Violations: 4
+ - Player Violations: 8
+
+Misc Information:
+ - Since Teleport Ticks: 638
+ - Since Riptide Ticks: 200
+ - Flying Delay: 54
+ - Since Velocity Ticks: 3197
+ - Since Firework Ticks: 1102
+ - Ticks Existed: 3097
+ - Since Vehicle Ticks: 1002
+ - Since Liquid Ticks: 1002
+ - Queued Transactions: 1
+ - Joined: 164 seconds ago
+ - Holding Item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§bPlay Unranked}}
+
+All Violations:
+ - Kill Aura (Type B) [VL: 2] (Invalid acceleration.)
+ - Strafe (Type A) [VL: 4] (Moving incorrectly in the air.)
+ - Bad Packets (Type I) [VL: 1] (Sent EntityAction while attacking.)
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+ - Bad Packets (Type X) [VL: 2] (Post ArmAnimation packets.)
+
+Blocks Nearby: [AIR, AIR, AIR, STEP, STEP, STEP, AIR, AIR, AIR, AIR, AIR, AIR, STEP, STEP, AIR, AIR, AIR, STEP, AIR, AIR, AIR, AIR, AIR, AIR, STEP, STEP, SMOOTH_STAIRS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=xNotJames}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
