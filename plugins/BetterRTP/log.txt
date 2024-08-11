@@ -24,3 +24,6 @@
 2024-08-11 23:56:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=801.5,y=70.0,z=845.5,pitch=34.726982,yaw=-158.19829}
 2024-08-11 23:57:17 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 130, location= x: -954, y: 63, z: -614, world: spawn
 2024-08-11 23:57:23 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 131, location= x: -772, y: 142, z: 950, world: spawn
+2024-08-11 23:58:00 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 132, location= x: -907, y: 63, z: -738, world: spawn
+2024-08-11 23:58:01 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 133, location= x: -40, y: 66, z: -128, world: spawn
+2024-08-11 23:58:04 [INFO]: Max attempts to create a Queue reached for rtp_spawn (amount: 5)
