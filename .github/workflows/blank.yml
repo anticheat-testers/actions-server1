@@ -46,6 +46,8 @@ jobs:
           HOSTNAME_2: ${{secrets.CF_TUNNEL_HOSTNAME_2}}
           HOSTNAME_3: ${{secrets.CF_TUNNEL_HOSTNAME_3}}
           HOSTNAME_4: ${{secrets.CF_TUNNEL_HOSTNAME_4}}
+          HOSTNAME_5: ${{secrets.CF_TUNNEL_HOSTNAME_5}}
+
         run: |
           start_cloudflared() {
             cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
@@ -56,7 +58,9 @@ jobs:
             CLOUDFLARED_PID_3=$!
             cloudflared access tcp --hostname ${HOSTNAME_4} --url localhost:25571 > /dev/null &
             CLOUDFLARED_PID_4=$!
-            echo "Cloudflare Access started with PIDs $CLOUDFLARED_PID_1 $CLOUDFLARED_PID_2 $CLOUDFLARED_PID_3 $CLOUDFLARED_PID_4"
+            cloudflared access tcp --hostname ${HOSTNAME_5} --url localhost:25572 > /dev/null &
+            CLOUDFLARED_PID_5=$!
+            echo "Cloudflare Access started with PIDs $CLOUDFLARED_PID_1 $CLOUDFLARED_PID_2 $CLOUDFLARED_PID_3 $CLOUDFLARED_PID_4 $CLOUDFLARE_PID_5"
           }
 
           cd $GITHUB_WORKSPACE
