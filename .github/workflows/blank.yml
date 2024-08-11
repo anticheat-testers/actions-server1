@@ -83,7 +83,7 @@ jobs:
             git reset -- playit.log
             git reset -- logs/
             
-            if ! git commit -m "Auto commit every 30 seconds [no ci]"; then
+            if ! git commit -m "Auto commit every 30 seconds"; then
                 echo "No changes to commit or commit failed"
                 return 1
             fi
