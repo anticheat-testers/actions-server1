@@ -17,11 +17,11 @@ jobs:
           fetch-tags: false
           persist-credentials: true
           token: ${{ secrets.FINE_GRAINED_PAT }}  # Use fine-grained PAT for checkout
-      - name: Set up OpenJDK 8
-        uses: actions/setup-java@v3
+      - uses: graalvm/setup-graalvm@v1
         with:
-          java-version: '8'
-          distribution: 'adopt'
+          java-version: '22'
+          distribution: 'graalvm'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Debug - List directory contents
         run: ls -la
       - name: Run Spigot and Cloudflare Tunnel with auto-restart and workflow recreation
@@ -54,8 +54,7 @@ jobs:
             echo "Cloudflare Tunnel started with PID $CLOUDFLARED_PID"
           }
 
-          chmod +x playit-linux-amd64
-          echo "$PLAYIT_SECRET" > playit.toml
+
 
           start_spigot() {
             echo "Starting Spigot..."
