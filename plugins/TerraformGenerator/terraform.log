@@ -1889,3 +1889,8 @@
 [2024-08-11 23:53:31] [INFO   ] Spawning CrystallineClusterCavePopulator at -25,-21,-106 
 [2024-08-11 23:53:32] [INFO   ] Spawning LushClusterCavePopulator at -13,21,-19 
 [2024-08-11 23:53:33] [INFO   ] Spawning ForestedMountainsCavePopulator at -3,30,143 
+[2024-08-11 23:53:34] [INFO   ] Spawning FrozenCavePopulator at 156,3,-104 
+[2024-08-11 23:53:36] [INFO   ] Minecart with chest at: -156, 1, -146 
+[2024-08-11 23:53:36] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -5,10 
+[2024-08-11 23:53:36] [INFO   ] Spawning Underground Dungeon at -71,23,164 
+[2024-08-11 23:53:40] [INFO   ] Minecart with chest at: -149, 1, -180 
