@@ -17,3 +17,24 @@
 2024-08-11 23:13:22 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
 2024-08-11 23:13:25 [INFO]: Attempting to queue up some more safe locations...
 2024-08-11 23:13:25 [INFO]: Queueing paused, max queue limit reached!
+2024-08-11 23:20:32 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
+2024-08-11 23:20:37 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=205.0,y=69.0,z=-668.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:37 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-677.0,y=69.0,z=-263.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=669.0,y=69.0,z=-683.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-700.0,y=69.0,z=127.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-48.0,y=69.0,z=-695.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=353.0,y=69.0,z=-605.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:43 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=877.0,y=69.0,z=248.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:43 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-482.0,y=69.0,z=363.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:45 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-456.0,y=69.0,z=935.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:45 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-283.0,y=69.0,z=149.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:45 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=612.0,y=69.0,z=-638.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:46 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-28.0,y=69.0,z=-562.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:46 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-522.0,y=69.0,z=120.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:46 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=353.0,y=69.0,z=-384.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:47 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=909.0,y=69.0,z=138.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:47 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=485.0,y=69.0,z=-378.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:47 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-60.0,y=69.0,z=772.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:49 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=417.0,y=69.0,z=-893.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:49 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=417.0,y=69.0,z=-893.0,pitch=0.0,yaw=0.0}
+2024-08-11 23:20:51 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=990.5,y=72.0,z=643.5,pitch=-5.249992,yaw=125.341286}
