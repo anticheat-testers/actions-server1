@@ -2242,3 +2242,52 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ xNotJames was punished for Auto Block (Type B) ]--------------
+
+Location:
+ - World: Maps
+ - X: 550.6776089234945
+ - Y: 106.5444949116383
+ - Z: -579.1997132055302
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 433
+ - Transaction Ping: 388
+ - Server TPS: 20
+ - Sensitivity: 130
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 0.3 seconds ago
+
+Total Violations: 4
+ - Combat Violations: 4
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 2763
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 6
+ - Since Firework Ticks: 4915
+ - Ticks Existed: 8591
+ - Since Vehicle Ticks: 4815
+ - Since Liquid Ticks: 3872
+ - Queued Transactions: 1
+ - Joined: 456 seconds ago
+ - Holding Item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DAMAGE_ALL=3, FIRE_ASPECT=2}}}
+
+All Violations:
+ - Auto Block (Type B) [VL: 3] (Attacked while sending BlockDig packet.)
+ - Hitbox (Type B) [VL: 1] (Attacked while not looking at target.)
+ - Velocity (Type D) [VL: 11] (Horizontal velocity modifications.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:953t-x1, FIRE_RESISTANCE:6734t-x0]
+---------------------------------------------------------------------------
+
+
