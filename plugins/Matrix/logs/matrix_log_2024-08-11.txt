@@ -137,3 +137,24 @@
 (02:54:44) Briiqn failed Click check | reached 18/15 cps during the combat // cps (dynamic)() | vl:5(+5) ping:0 tps:20.0 component: ka.clk.cps ver: 1.8.x
 (02:54:45) Briiqn failed Click check | reached 20/15 cps during the combat // cps (dynamic)() | vl:11(+6) ping:823 tps:20.0 component: ka.clk.cps ver: 1.8.x
 (02:54:45) Execute command: matrix notify Briiqn tried to click abnormally (Click) #1
+(02:55:33) Briiqn failed Click check | reached 29/15 cps during the combat // cps (dynamic)() | vl:11(+11) ping:0 tps:19.99 component: ka.clk.cps ver: 1.8.x
+(02:55:33) Execute command: matrix notify Briiqn tried to click abnormally (Click) #1
+(02:55:34) Briiqn failed Click check | exhibiting suspicious clicks patterns during the combat // timing // avg: 1, diff: 0.0() | vl:19(+8) ping:0 tps:20.0 component: ka.clk.tim ver: 1.8.x
+(02:55:34) Execute command: matrix notify Briiqn tried to click abnormally (Click) #2
+(02:55:34) Briiqn failed Click check | reached 20/15 cps during the combat // cps (dynamic)() | vl:25(+6) ping:0 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(02:55:35) Briiqn failed Click check | exhibiting suspicious clicks patterns during the combat // timing // avg: 1, diff: 0.0() | vl:33(+8) ping:425 tps:20.0 component: ka.clk.tim ver: 1.8.x
+(02:55:35) Execute command: matrix kick Briiqn Click Abnormally
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:10(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Execute command: matrix npc Briiqn 100
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:20(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Execute command: matrix notify Briiqn might be using combat hacks (KillAura)
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:30(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:40(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Execute command: matrix notify Briiqn is using combat hacks (KillAura) #2
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:50(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Execute command: matrix delay 5 matrix kick Briiqn KillAura
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:60(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:70(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:80(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:52) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:90(+10) ping:0 tps:19.99 component: ka.flaw.d ver: 1.8.x
+(02:55:54) Briiqn failed Click check | reached 16/15 cps during the combat // cps (dynamic)() | vl:4(+4) ping:0 tps:19.99 component: ka.clk.cps ver: 1.8.x
