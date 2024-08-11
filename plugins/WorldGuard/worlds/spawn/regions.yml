@@ -10,6 +10,14 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    worldregion:
+        min: {x: -30000000, y: -64, z: -30000000}
+        max: {x: 30000000, y: 319, z: 30000000}
+        members: {}
+        flags: {build: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
     __global__:
         members: {}
         flags:
@@ -23,9 +31,9 @@ regions:
             coral-fade: deny
             mob-damage: deny
             ravager-grief: deny
+            use-anvil: deny
             respawn-anchors: deny
             mushroom-growth: deny
-            use-anvil: deny
             lightning: deny
             ice-form: deny
             wither-damage: deny
@@ -39,15 +47,15 @@ regions:
             damage-animals: deny
             snow-melt: deny
             tnt: deny
-            ghast-fireball: deny
             entity-item-frame-destroy: deny
+            ghast-fireball: deny
             natural-health-regen: allow
             frosted-ice-form: deny
             mycelium-spread: deny
             ice-melt: deny
             block-trampling: deny
-            vehicle-destroy: deny
             interact: deny
+            vehicle-destroy: deny
             chest-access: deny
             ride: deny
             fire-spread: deny
@@ -71,8 +79,8 @@ regions:
             item-drop: deny
             soil-dry: deny
             exp-drops: deny
-            copper-fade: deny
             build: deny
+            copper-fade: deny
             fall-damage: deny
             item-frame-rotation: deny
             item-pickup: deny
