@@ -1,16 +1,16 @@
 lastAccountName: Briiqn
 timestamps:
-  login: 1723364893024
+  login: 1723396451204
   logout: 1723364901474
   lastteleport: 1723264124538
 ipAddress: 127.30.38.147
 logoutlocation:
   world: world
-  x: -27.17565754672338
-  y: 70.0
-  z: -1.0151585930004972
-  yaw: -168.3339
-  pitch: 18.602407
+  x: -2.807678912710922
+  y: 67.0
+  z: -4.572781638245853
+  yaw: -125.133896
+  pitch: 9.902402
 money: '1725.0'
 lastlocation:
   world: bio-hazard
