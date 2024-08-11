@@ -3052,7 +3052,7 @@ checks:
         - kick %player% &c[AC] Skill Issue Detected
     timer:
       a:
-        enabled: true
+        enabled: false
         punishable: true
         discord-alert-interval: 1
         broadcast-punishment: true
