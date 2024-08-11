@@ -19,3 +19,6 @@
 2024-08-11 23:45:28 [INFO]: Queueing paused, max queue limit reached!
 2024-08-11 23:45:43 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
 2024-08-11 23:45:51 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=719.5,y=64.0,z=863.5,pitch=9.358294,yaw=117.78819}
+2024-08-11 23:47:59 [INFO]: Attempting to queue up some more safe locations...
+2024-08-11 23:47:59 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-926.5,y=63.0,z=-536.5,pitch=9.429552,yaw=123.34605}
+2024-08-11 23:48:19 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 128, location= x: -163, y: 113, z: 64, world: spawn
