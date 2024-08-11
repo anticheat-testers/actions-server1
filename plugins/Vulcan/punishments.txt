@@ -2291,3 +2291,50 @@ Potion Effects: [SPEED:953t-x1, FIRE_RESISTANCE:6734t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ Briiqn was punished for Kill Aura (Type B) ]--------------
+
+Location:
+ - World: Maps
+ - X: 74.29330307367502
+ - Y: 100.0
+ - Z: -560.2015827984158
+
+Information:
+ - UUID: cb42ff6a-36b7-4ad8-8c9b-74d28b7b8973
+ - Keep Alive Ping: 313
+ - Transaction Ping: 262
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 4.25 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 3
+ - Movement Violations: 0
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 86
+ - Since Riptide Ticks: 200
+ - Flying Delay: 48
+ - Since Velocity Ticks: 85
+ - Since Firework Ticks: 1723
+ - Ticks Existed: 2462
+ - Since Vehicle Ticks: 1623
+ - Since Liquid Ticks: 1623
+ - Queued Transactions: 1
+ - Joined: 130 seconds ago
+ - Holding Item: ItemStack{DIAMOND_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, enchants={DAMAGE_ALL=3, FIRE_ASPECT=2}}}
+
+All Violations:
+ - Kill Aura (Type B) [VL: 3] (Invalid acceleration.)
+
+Blocks Nearby: [SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:1612t-x1, FIRE_RESISTANCE:9457t-x0]
+---------------------------------------------------------------------------
+
+
