@@ -424,6 +424,18 @@ Gadgets:
         - '&7Spawns a scarecrow that'
         - '&7changes the head of nearby'
         - '&7players into a pumpkin.'
+      Piggy Bank:
+        Name: '&9Piggy Bank Gadget'
+        Material: head:198df42f477f213ff5e9d7fa5a4cc4a69f20d9cef2b90c4ae4f29bd17287b5
+        Cooldown: 40
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+        - '&7Explosion a piggy and get'
+        - '&7all the gold.'
   Movement:
     Name: '&eMovement'
     Material: GOLDEN_BOOTS

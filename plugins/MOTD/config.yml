@@ -1,0 +1,10 @@
+Server-MOTD: 
+  Line-1: "             &aHypixel Network  &c[1.8-1.16]"
+  Line-2: "        &6&lSKYBLOCK 0.11 - &5&lDWARVEN MINES"
+
+JoinGame-MOTD:
+  Enabled: false
+  Messages:
+    - 'default motd'
+
+Max-Players: 100

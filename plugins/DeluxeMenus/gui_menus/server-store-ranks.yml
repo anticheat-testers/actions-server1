@@ -1,0 +1,567 @@
+menu_title: 'Ranks'
+open_command:
+- store
+size: 54
+update_interval: 1
+items:
+      GREEN-SEPARATOR:
+        material: 160
+        data: 13
+        priority: 99
+        slots:
+        - 9
+        display_name: '&7'
+        lore: []
+        left_click_commands: []
+        right_click_commands: []
+
+      BLACK-SEPARATOR:
+        material: 160
+        data: 15
+        priority: 99
+        slots:
+        - 10
+        - 11
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        display_name: '&7'
+        lore: []
+        left_click_commands: []
+        right_click_commands: []
+
+      RANKS:
+        material: EMERALD
+        slot: 0
+        display_name: '&aCửa Hàng Mua Rank'
+        lore:
+        - '&cRank &7giúp nâng cấp &equyền lợi &7của bạn'
+        - '&7mà &ckhông &7gây mất &ecân bằng &7trong &btrò chơi'
+        - ''
+        - '&7Mỗi &cRank &7đều có tất cả các'
+        - '&equyền lợi &7từ các &cRank trước &7của bạn'
+        - ''
+        - '&7Di chuột qua từng &cRank &7trong &bdanh mục'
+        - '&7này để xem &equyền lợi &7của từng &crank&7!'
+        left_click_commands: []
+        right_click_commands: []
+
+      MYSTERY-BOXES:
+        material: ENDER_CHEST
+        slot: 1
+        display_name: '&aMystery Boxes'
+        lore:
+        - '&7Mystery Boxes contain'
+        - '&7various cool cosmetic'
+        - '&7features for your character'
+        - '&7and your housing plot.'
+        - '&7'
+        - '&7All Mystery Boxes purchased'
+        - '&7here do not require any'
+        - '&7rank to open including 4✫'
+        - '&7and 5✫!'
+        - '&7'
+        - '&7You can open your Mystery'
+        - '&7Boxes in Mystery Vaults'
+        - '&7found in lobbies.'
+        - '&7'
+        - '&eClick to view!'
+        left_click_commands:
+        - '[player] store2'
+        right_click_commands:
+        - '[player] store2'
+
+      VIP-RANK:
+        material: DIAMOND
+        priority: 1
+        slot: 27
+        view_requirement:
+          requirements:
+            level:
+              type: '>='
+              input: '%tm_tokens%'
+              output: 699
+        display_name: '&aVIP Rank'
+        lore:
+        - '&7VIP provides basic perks'
+        - '&7which improve the Server'
+        - '&7experience!'
+        - ''
+        - '&a✓ &7Chat Prefix: &a[VIP]'
+        - '&a✓ &7Name Color: &aGREEN'
+        - '&a✓ &7+30 Exclusive Cosmetics'
+        - '&a✓ &7Housing Mailbox'
+        - '&a✓ &7/fw Command'
+        - '&a✓ &7[Website] Avatar Frame'
+        - '&a✓ &7[Website] Background'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a699 Gold'
+        - ''
+        - '&eNhấp để mua!'
+        left_click_commands:
+        - '[console] tokenmanager remove %player_name% 699'
+        - '[message] &aBạn đã mua thành công &aVIP Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% VIP<delay=60>'
+        - '[close]'
+        right_click_commands:
+        - '[console] tokenmanager remove %player_name% 699'
+        - '[message] &aBạn đã mua thành công &aVIP Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% VIP<delay=60>'
+        - '[close]'
+
+      VIP-RANK-LOCKED:
+        material: DIAMOND
+        slot: 27
+        view_requirement:
+          requirements:
+            level:
+              type: '<'
+              input: '%tm_tokens%'
+              output: 699
+        display_name: '&aVIP Rank'
+        lore:
+        - '&7VIP provides basic perks'
+        - '&7which improve the Server'
+        - '&7experience!'
+        - ''
+        - '&a✓ &7Chat Prefix: &a[VIP]'
+        - '&a✓ &7Name Color: &aGREEN'
+        - '&a✓ &7+30 Exclusive Cosmetics'
+        - '&a✓ &7Housing Mailbox'
+        - '&a✓ &7/fw Command'
+        - '&a✓ &7[Website] Avatar Frame'
+        - '&a✓ &7[Website] Background'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a699 Gold'
+        - ''
+        - '&cKhông đủ Gold trong ví của bạn!'
+        left_click_commands: []
+        right_click_commands: []
+
+
+      VIP+-RANK:
+        material: DIAMOND
+        priority: 1
+        slot: 29
+        view_requirement:
+          requirements:
+            level:
+              type: '>='
+              input: '%tm_tokens%'
+              output: 1499
+        display_name: '&aVIP&6+&a Rank'
+        lore:
+        - '&7VIP+ contains every perk'
+        - '&7from VIP and then more!'
+        - ''
+        - '&a✓ &7Chat Prefix: &a[VIP&6+&a]'
+        - '&a✓ &7Name Color: &aGREEN'
+        - '&a✓ &7+60 Exclusive Cosmetics'
+        - '&a✓ &7Create Guilds'
+        - '&a✓ &7Baby Wild Ocelot Pet'
+        - '&a✓ &7Housing Mailbox'
+        - '&a✓ &7/fw Command'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a1499 Gold'
+        - ''
+        - '&eNhấp để mua!'
+        left_click_commands:
+        - '[console] tokenmanager remove %player_name% 1499'
+        - '[message] &aBạn đã mua thành công &aVIP&6+&a Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% VIP+<delay=60>'
+        - '[close]'
+        right_click_commands:
+        - '[console] tokenmanager remove %player_name% 1499'
+        - '[message] &aBạn đã mua thành công &aVIP&6+&a Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% VIP+<delay=60>'
+        - '[close]'
+        left_click_requirement:
+          requirements:
+            perm:
+              type: has permission
+              permission: 'tag.vip'
+          deny_commands:
+          - '[sound] ANVIL_USE'
+          - '[message] &cHãy mua &aVIP &ctrước khi mua &aVIP&6+'
+          - '[close]'
+        right_click_requirement:
+          requirements:
+            perm:
+              type: has permission
+              permission: 'tag.vip'
+          deny_commands:
+          - '[sound] ANVIL_USE'
+          - '[message] &cHãy mua &aVIP &ctrước khi mua &aVIP&6+'
+          - '[close]'
+
+      VIP+-RANK-LOCKED:
+        material: DIAMOND
+        slot: 29
+        view_requirement:
+          requirements:
+            level:
+              type: '<'
+              input: '%tm_tokens%'
+              output: 1499
+        display_name: '&aVIP&6+&a Rank'
+        lore:
+        - '&7VIP+ contains every perk'
+        - '&7from VIP and then more!'
+        - ''
+        - '&a✓ &7Chat Prefix: &a[VIP&6+&a]'
+        - '&a✓ &7Name Color: &aGREEN'
+        - '&a✓ &7+60 Exclusive Cosmetics'
+        - '&a✓ &7Create Guilds'
+        - '&a✓ &7Baby Wild Ocelot Pet'
+        - '&a✓ &7Housing Mailbox'
+        - '&a✓ &7/fw Command'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a1499 Gold'
+        - ''
+        - '&cKhông đủ Gold trong ví của bạn!'
+        left_click_commands: []
+        right_click_commands: []
+
+      MVP-RANK:
+        material: DIAMOND
+        priority: 1
+        slot: 31
+        view_requirement:
+          requirements:
+            level:
+              type: '>='
+              input: '%tm_tokens%'
+              output: 2999
+        display_name: '&bMVP Rank'
+        lore:
+        - '&7MVP contains every perk'
+        - '&7from VIP and VIP+, and then'
+        - '&7more!'
+        - ''
+        - '&a✓ &7Chat Prefix: &b[MVP]'
+        - '&a✓ &7Name Color: &bAQUA'
+        - '&a✓ &7+110 Exclusive Cosmetics'
+        - '&a✓ &7Game Replays'
+        - '&a✓ &7Create Guilds'
+        - '&a✓ &7Baby Wild Ocelot Pet'
+        - '&a✓ &7Housing Mailbox'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a2999 Gold'
+        - ''
+        - '&eNhấp để mua!'
+        left_click_commands:
+        - '[console] tokenmanager remove %player_name% 2999'
+        - '[message] &aBạn đã mua thành công &bMVP Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% MVP<delay=60>'
+        - '[close]'
+        right_click_commands:
+        - '[console] tokenmanager remove %player_name% 2999'
+        - '[message] &aBạn đã mua thành công &bMVP Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% MVP<delay=60>'
+        - '[close]'
+        left_click_requirement:
+          requirements:
+            perm:
+              type: has permission
+              permission: 'tag.vip+'
+          deny_commands:
+          - '[sound] ANVIL_USE'
+          - '[message] &cHãy mua &aVIP&6+ &ctrước khi mua &bMVP'
+          - '[close]'
+        right_click_requirement:
+          requirements:
+            perm:
+              type: has permission
+              permission: 'tag.vip+'
+          deny_commands:
+          - '[sound] ANVIL_USE'
+          - '[message] &cHãy mua &aVIP&6+ &ctrước khi mua &bMVP'
+          - '[close]'
+
+      MVP-RANK-LOCKED:
+        material: DIAMOND
+        slot: 31
+        view_requirement:
+          requirements:
+            level:
+              type: '<'
+              input: '%tm_tokens%'
+              output: 2999
+        display_name: '&bMVP&b Rank'
+        lore:
+        - '&7MVP contains every perk'
+        - '&7from VIP and VIP+, and then'
+        - '&7more!'
+        - ''
+        - '&a✓ &7Chat Prefix: &b[MVP]'
+        - '&a✓ &7Name Color: &bAQUA'
+        - '&a✓ &7+110 Exclusive Cosmetics'
+        - '&a✓ &7Game Replays'
+        - '&a✓ &7Create Guilds'
+        - '&a✓ &7Baby Wild Ocelot Pet'
+        - '&a✓ &7Housing Mailbox'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a2999 Gold'
+        - ''
+        - '&cKhông đủ Gold trong ví của bạn!'
+        left_click_commands: []
+        right_click_commands: []
+
+
+      MVP+-RANK:
+        material: DIAMOND
+        enchantments:
+        - 'SILK_TOUCH;1'
+        hide_enchantments: true
+        priority: 1
+        slot: 33
+        view_requirement:
+          requirements:
+            level:
+              type: '>='
+              input: '%tm_tokens%'
+              output: 4499
+        display_name: '&bMVP&c+&b Rank'
+        lore:
+        - '&7MVP+ contains every perk'
+        - '&7from VIP, VIP+ and MVP,'
+        - '&7and then more!'
+        - ''
+        - '&a✓ &7Chat Prefix: &b[MVP]'
+        - '&a✓ &7Name Color: &bAQUA'
+        - '&a✓ &7+130 Exclusive Cosmetics'
+        - '&a✓ &7Map Selectors'
+        - '&a✓ &7Achievement Tracking'
+        - '&a✓ &7Exclusive Particle Packs'
+        - '&a✓ &7Ride and Control Lobby Pets'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a4499 Gold'
+        - ''
+        - '&eNhấp để mua!'
+        left_click_commands:
+        - '[console] tokenmanager remove %player_name% 4499'
+        - '[message] &aBạn đã mua thành công &bMVP&c+&b Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% MVP+<delay=60>'
+        - '[close]'
+        right_click_commands:
+        - '[console] tokenmanager remove %player_name% 4499'
+        - '[message] &aBạn đã mua thành công &bMVP&c+&b Rank &avới vàng của bạn!<delay=60>'
+        - '[console] rank %player_name% MVP+<delay=60>'
+        - '[close]'
+        left_click_requirement:
+          requirements:
+            perm:
+              type: has permission
+              permission: 'tag.mvp'
+          deny_commands:
+          - '[sound] ANVIL_USE'
+          - '[message] &cHãy mua &bMVP &ctrước khi mua &bMVP&c+'
+          - '[close]'
+        right_click_requirement:
+          requirements:
+            perm:
+              type: has permission
+              permission: 'tag.mvp'
+          deny_commands:
+          - '[sound] ANVIL_USE'
+          - '[message] &cHãy mua &bMVP &ctrước khi mua &bMVP&c+'
+          - '[close]'
+
+      MVP+-RANK-LOCKED:
+        material: DIAMOND
+        enchantments:
+        - 'SILK_TOUCH;1'
+        hide_enchantments: true
+        slot: 33
+        view_requirement:
+          requirements:
+            level:
+              type: '<'
+              input: '%tm_tokens%'
+              output: 4499
+        display_name: '&bMVP&c+&b Rank'
+        lore:
+        - '&7MVP+ contains every perk'
+        - '&7from VIP, VIP+ and MVP,'
+        - '&7and then more!'
+        - ''
+        - '&a✓ &7Chat Prefix: &b[MVP]'
+        - '&a✓ &7Name Color: &bAQUA'
+        - '&a✓ &7+130 Exclusive Cosmetics'
+        - '&a✓ &7Map Selectors'
+        - '&a✓ &7Achievement Tracking'
+        - '&a✓ &7Exclusive Particle Packs'
+        - '&a✓ &7Ride and Control Lobby Pets'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - ''
+        - '&7Giá: &a4499 Gold'
+        - ''
+        - '&cKhông đủ Gold trong ví của bạn!'
+        left_click_commands: []
+        right_click_commands: []
+
+
+      MVP++-RANK:
+        material: GOLD_INGOT
+        enchantments:
+        - 'SILK_TOUCH;1'
+        hide_enchantments: true
+        priority: 1
+        slot: 35
+        display_name: '&6MVP&c++&6 Rank'
+        lore:
+        - '&7MVP++ is an exlusive Rank.'
+        - '&7Upgrade to your existing'
+        - '&7MVP+ Rank. MVP++ is the'
+        - '&7best way to support the'
+        - '&7Server.'
+        - ''
+        - '&a✓ &7Chat Prefix: &6[MVP&c++&6]'
+        - '&a✓ &7Name Color: &6GOLD'
+        - '&a✓ &7+150 Exclusive Cosmetics'
+        - '&a✓ &7Game Replays'
+        - '&a✓ &7/nick Command'
+        - '&a✓ &7Auto-tip'
+        - '&a✓ &7/stream Command'
+        - '&a✓ &7Gold Guild Tag Color'
+        - '&7and more...'
+        - '&7'
+        - '&eNhấp vào cuốn sách bên dưới để'
+        - '&exem thêm các quyền lợi của rank này'
+        - '&7'
+        - '&7Giá: &a0 Gold'
+        - ''
+        - '&cRank này hiện chưa được cập nhật!'
+        left_click_commands:
+        - '[message] &eServer Store link: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eServer Store link: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+
+      VIP-PREVIEW:
+        material: BOOK
+        slot: 36
+        display_name: '&eXem quyền lợi của &a[VIP]'
+        lore:
+        - '&7Nhấp vào đây để xem tất cả'
+        - '&7các quyền lợi đi kèm với rank này'
+        left_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+
+      VIP+-PREVIEW:
+        material: BOOK
+        slot: 38
+        display_name: '&eXem quyền lợi của &a[VIP&6+&a]'
+        lore:
+        - '&7Nhấp vào đây để xem tất cả'
+        - '&7các quyền lợi đi kèm với rank này'
+        left_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+
+      MVP-PREVIEW:
+        material: BOOK
+        slot: 40
+        display_name: '&eXem quyền lợi của &b[MVP]'
+        lore:
+        - '&7Nhấp vào đây để xem tất cả'
+        - '&7các quyền lợi đi kèm với rank này'
+        left_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+
+      MVP+-PREVIEW:
+        material: BOOK
+        slot: 42
+        display_name: '&eXem quyền lợi của &b[MVP&c+&b]'
+        lore:
+        - '&7Nhấp vào đây để xem tất cả'
+        - '&7các quyền lợi đi kèm với rank này'
+        left_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+
+      MVP++-PREVIEW:
+        material: BOOK
+        slot: 44
+        display_name: '&eXem quyền lợi của &6[MVP&c++&6]'
+        lore:
+        - '&7Nhấp vào đây để xem tất cả'
+        - '&7các quyền lợi đi kèm với rank này'
+        left_click_commands:
+        - '[message] &eLink liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+        right_click_commands:
+        - '[message] &Link liên kết với cửa hàng: &bhttp://store.luckymcvn.net/'
+        - '[close]'
+
+      GOLD-WALLET:
+        material: 371
+        slot: 53
+        display_name: '&eVí Của Bạn: &6%tm_tokens_commas% Tokens'
+        lore:
+        - '&2Tokens &7có thể dùng để mua'
+        - '&7tất cả những gì có trong &cMenu &7này'
+        - ''
+        - '&7Bạn sẽ nhận được &2Tokens &7từ'
+        - '&7Việc bạn &cDonate &7cho máy chủ tại &e/napthe'
+        left_click_commands: []
+        right_click_commands: []
+
+      CLOSE:
+        material: BARRIER
+        slot: 45
+        display_name: '&aĐóng'
+        lore: []
+        left_click_commands:
+        - '[close]'
+        right_click_commands:
+        - '[close]'

@@ -12,6 +12,7 @@ Player-Data:
     database: minecraft
     port: '3306'
     password: password
+    useSSL: false
 Cosmetic-Item-Purchase:
   # Set to true allows player to purchase cosmetic items.
   Enabled: true
@@ -74,6 +75,8 @@ Settings:
   # Sync player's selected cosmetics when they join the server.
   # Set to 'false' to reduce server lag.
   Sync-Cosmetics-On-Join: true
+  # Display player name above the mob disguise.
+  Show-Name-For-Mob-Disguise: true
 # The menu selector settings.
 Menu-Item:
   # The name of the selector.
@@ -89,21 +92,11 @@ Menu-Item:
   Able-To-Move: false
   Lore:
   - '&7Mystery Dust: &b{MYSTERY_DUST}'
-  - '&7Hypixel Credist: &b0'
   - ''
-  - '&7Collect fun cosmetic items!'
-  - '&7Get new items by opening'
-  - '&bMystery Boxes &7or hitting milestone rewards.'
-  - '&7Some can also be crafted using'
-  - '&bMystery Dust.'
-  - ''
-  - '&bMystery Dust can be earned by'
-  - '&7opening &bMystery Boxes.'
-  - ''
-  - '&7You can support the Hypixel server by'
-  - '&7buying &bMystery Boxes &7on our store.'
-  - ''
-  - '&ehttp://store.hypixel.net'
+  - '&7Enjoy fun cosmetic features!'
+  - '&7More stuff will be added over time,'
+  - '&7make sure to check our update forums!'
+  - '&7Thanks you for supporting our server.'
 # List of the worlds where cosmetics are enabled!
 Enabled-Worlds:
 - world
@@ -237,4 +230,4 @@ Check-Update: true
 # the latest plugin when it's released.
 Auto-Update: true
 # Do not edit this.
-Config-Version: 1.0.11
+Config-Version: 1.0.15

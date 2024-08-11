@@ -1,0 +1,21 @@
+lastAccountName: mad_pickaxe
+timestamps:
+  login: 1610676833284
+  logout: 1610677374453
+ipAddress: 192.168.0.60
+lastlocation:
+  world: RailRoad
+  x: -14.058205764747933
+  y: -65.40983136102312
+  z: -34.1463476077587
+  yaw: -0.47077414
+  pitch: -70.595856
+money: '1025.0'
+logoutlocation:
+  world: world
+  x: 0.5701352035439278
+  y: 65.0
+  z: 0.5337684215245446
+  yaw: -89.57925
+  pitch: 0.8917029
+afk: false

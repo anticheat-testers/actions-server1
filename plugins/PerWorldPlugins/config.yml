@@ -1,0 +1,89 @@
+# This config controls what plugins work on certain worlds.
+# Example
+# limit:
+#   WorldEdit:
+#     - world
+#     - world_nether
+#   Essentials: []
+# This will make it so worldedit will only work in world & world_nether, meaning in the end it is not usable.
+# When there is no worlds in the list it will allow it for any worlds, in this example allowing all worlds.
+# Whenever a plugin is added, this config will automatically add it!
+# exempt-login-events is for excluding login events when true, this means if a plugin uses PlayerLogin it will allow it for any world. We advise this to be enabled!
+# blocked-msg is the string displayed to a client when a command is blocked
+# check-for-updates is the controller for if updates should be alerted to the users with the permissions/op.
+exempt-login-events: true
+check-for-updates: true
+blocked-msg: '&c[Error] This command cannot be performed in this world.'
+limit:
+  WorldEdit: []
+  KitBattle: []
+  PerWorldTabList: []
+  Essentials: []
+  EssentialsChat: []
+  GroupManager: []
+  ViaVersion: []
+  Vault: []
+  PlayerPoints: []
+  Multiverse-Core: []
+  WorldGuard: []
+  Citizens: []
+  SkinsRestorer: []
+  ChestCommands: []
+  PerWorldInventory: []
+  CommandNPC: []
+  ServerSelectorX:
+  - world
+  Sudo: []
+  ServerTP: []
+  UltraCosmetics: []
+  CustomJoinItems:
+  - world
+  MyCommand: []
+  GadgetsMenu: []
+  CitizensCMD: []
+  PlayTime: []
+  TAB: []
+  HolographicDisplays: []
+  TouchscreenHolograms: []
+  PlayerVisibilityReborn: []
+  PermissionsEx: []
+  ProtocolLib: []
+  LibsDisguises: []
+  GCoreLegacy: []
+  CustomCommands: []
+  MySkin: []
+  VoidSpawn: []
+  UHCRun: []
+  FakePlayersOnline: []
+  NPC_Destinations: []
+  UltraDeliveryMan: []
+  ResourcePackDownloader: []
+  ServerResourcePacks: []
+  SetSpawn: []
+  Interactables: []
+  PortalCommands: []
+  Visibility: []
+  Skript: []
+  PartyAndFriendsGUI: []
+  AuthMe: []
+  AdvancedPortals: []
+  DeluxePlayerOptions: []
+  JPanel: []
+  BuildPortals: []
+  CustomScoreboard: []
+  Scoreboard-revision:
+  - world
+  AutoTrasher: []
+  BottleRecycling: []
+  PlaceholderAPI: []
+  NoteBlockAPI: []
+  JukeBox: []
+  BackToLobby: []
+  LostParties: []
+  LostBoxes: []
+  BlockParticles: []
+  LostSkyWars: []
+  DeluxeMenus: []
+  MOTD: []
+  ViaBackwards: []
+  ViaRewind: []

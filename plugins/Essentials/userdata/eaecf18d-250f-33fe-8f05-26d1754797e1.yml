@@ -1,0 +1,20 @@
+lastAccountName: MadPikaxe
+timestamps:
+  login: 1650137486256
+  logout: 1650137565159
+ipAddress: 127.0.0.1
+money: '5640.0'
+lastlocation:
+  world: Tundra
+  x: -30.80847873745296
+  y: -66.29309347484862
+  z: -63.56955760120255
+  yaw: -147.20454
+  pitch: -83.94469
+logoutlocation:
+  world: world
+  x: 0.6001380653942612
+  y: 65.0
+  z: 0.44188499618537863
+  yaw: -93.65213
+  pitch: 10.567357

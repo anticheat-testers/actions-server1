@@ -1,0 +1,154 @@
+menu_title: 'Mystery Boxes'
+open_command:
+- store2
+size: 54
+update_interval: 1
+items:
+      GREEN-SEPARATOR:
+        material: STAINED_GLASS_PANE
+        data: 13
+        priority: 99
+        slots:
+        - 10
+        display_name: '&7'
+        lore: []
+        left_click_commands: []
+        right_click_commands: []
+
+      BLACK-SEPARATOR:
+        material: STAINED_GLASS_PANE
+        data: 15
+        priority: 99
+        slots:
+        - 9
+        - 11
+        - 12
+        - 13
+        - 14
+        - 15
+        - 16
+        - 17
+        display_name: '&7'
+        lore: []
+        left_click_commands: []
+        right_click_commands: []
+
+      RANKS:
+        material: EMERALD
+        slot: 0
+        display_name: '&aRanks'
+        lore:
+        - '&7Ranks upgrade your Server'
+        - '&7experience without offering'
+        - '&7any in-game advantages.'
+        - '&7Each rank has all perk'
+        - '&7from previous ranks. Mouse'
+        - '&7over each rank in this'
+        - '&7category to see what they'
+        - '&7offer!'
+        - '&7'
+        - '&eYour current rank''s value'
+        - '&eis automatically deducted'
+        - '&efrom the future rank'
+        - '&eupgrade.'
+        - ''
+        - '&eClick to view!'
+        left_click_commands:
+        - '[openguimenu] server-store-ranks'
+        right_click_commands:
+        - '[openguimenu] server-store-ranks'
+
+      MYSTERY-BOXES:
+        material: ENDER_CHEST
+        slot: 1
+        display_name: '&aMystery Boxes'
+        lore:
+        - '&7Mystery Boxes contain'
+        - '&7various cool cosmetic'
+        - '&7features for your character'
+        - '&7and your housing plot.'
+        - '&7'
+        - '&7All Mystery Boxes purchased'
+        - '&7here do not require any'
+        - '&7rank to open including 4✫'
+        - '&7and 5✫!'
+        - '&7'
+        - '&7You can open your Mystery'
+        - '&7Boxes in Mystery Vaults'
+        - '&7found in lobbies.'
+        left_click_commands: []
+        right_click_commands: []
+
+
+      MYSTERY-BOXES-2:
+        material: ENDER_CHEST
+        slot: 30
+        display_name: '&aMystery Boxes'
+        lore:
+        - '&7Mystery Boxes contain'
+        - '&7various cool cosmetic'
+        - '&7features for your character'
+        - '&7and your housing plot.'
+        - '&7'
+        - '&7All Mystery Boxes purchased'
+        - '&7here do not require any'
+        - '&7rank to open including 4✫'
+        - '&7and 5✫!'
+        - '&7'
+        - '&7You can open your Mystery'
+        - '&7Boxes in Mystery Vaults'
+        - '&7found in lobbies.'
+        - '&7'
+        - '&eClick to view!'
+        left_click_commands:
+        - '[message] &eServer Store link: &b%customplaceholders_server_store%'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eServer Store link: &b%customplaceholders_server_store%'
+        - '[close]'
+
+      GIFTS:
+        material: 'basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDQxZmJlYTljMmQxOTA0MGU1NjdmMzg3YWI0NmIyZjhhM2ExZGE4ZWVjOWQzOTllMmU0YWRjZjA1YWRhOGEyYSJ9fX0='
+        slot: 32
+        display_name: '&aMystery Boxes'
+        lore:
+        - '&7Gifts are packs of Mystery'
+        - '&7Boxes that you can send to'
+        - '&7your friends! You cannot'
+        - '&7open your own gifts, they'
+        - '&7can only be sent to another'
+        - '&7person.'
+        - '&7' 
+        - '&eClick to view!'
+        left_click_commands:
+        - '[message] &eServer Store link: &b%customplaceholders_server_store%'
+        - '[close]'
+        right_click_commands:
+        - '[message] &eServer Store link: &b%customplaceholders_server_store%'
+        - '[close]'
+
+
+      GOLD-WALLET:
+        material: GOLD_NUGGET
+        slot: 53
+        display_name: '&eGold Wallet: &6%tm_tokens_commas% Gold'
+        lore:
+        - '&7The Gold Wallet contains'
+        - '&7currency you can use in'
+        - '&7this menu to purchase'
+        - '&7items. You can purchase'
+        - '&7currency for your Gold'
+        - '&7Wallet at'
+        - '&ahttp://store.luckymcvn.net/'
+        left_click_commands: []
+        right_click_commands: []
+
+      CLOSE:
+        material: BARRIER
+        slot: 45
+        display_name: '&aClose'
+        lore: []
+        left_click_commands:
+        - '[close]'
+        right_click_commands:
+        - '[close]'

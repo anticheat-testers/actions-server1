@@ -11,9 +11,16 @@ REASON_UNKNOWN: Unknown
 REASON_NOT_PREMIUM: Skin does not exist
 REASON_RATE_LIMITED: Skin was requested too many times
 SERVER_UNAVAILABLE: Skin server is currently unavailable
+PARSING_FAILED: Skin server sent corrupted data
 NOT_PLAYER: '&cYou have to be a player!'
 PLAYAER_DOES_NOT_EXIST: '&cPlayer does not exist!'
 MYSKINCOMMAND_RELOADED: '&eMySkin was reloaded!'
 MYSKINCOMMAND_CACHECLEARED: '&eSkin & UUID cache cleared!'
 SKINSEARCH_TITLE: '&a&lSkin Search'
 SKINSEARCH_SKIN_LOAD_FAILED: '&lCould not load this skin!'
+SKINSEARCH_NEXT_PAGE: '&l&eNext Page'
+SKINSEARCH_PREVIOUS_PAGE: '&l&ePrevious Page'
+SKINSEARCH_SEARCHING_FOR_SKINS: '&leSearching for skins... a menu will open once enough
+  skins are loaded.'
+SKINSEARCH_NOT_ENABLED: '&cSkin search is currently disabled. To enable it, edit the
+  MySkin configuration file.'

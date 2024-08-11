@@ -1,0 +1,30 @@
+KitPVP:
+  name: '&aKitPVP &7(Right Click)'
+  id: 268
+  slot: 2
+  lore:
+  - '&7Right Click to go to KitPVP'
+  command: 'op:kitbattle join invaded'
+  cooldown-seconds: 0
+  permission: ''
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-world: kitpvp
+  give-on-world-change: true
+Selector:
+  name: '&aGame Selector &7(Right Click)'
+  id: 345
+  slot 1
+  lore:
+  - '&7Right Click to select a game'
+  command: 'opgive-at-respawn: true: 0
+  permission: ''
+  cooldown-seconds: 0
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-world: kitpvp
+  give-on-world-change: true

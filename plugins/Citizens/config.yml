@@ -1,5 +1,16 @@
 # Citizens Configuration
 
+general:
+  authlib:
+    profile-url: https://sessionserver.mojang.com/session/minecraft/profile/
+  debug-file: ''
+  debug-mode: false
+  debug-pathfinding: false
+  color-scheme:
+    message-highlight: <e>
+    message: <a>
+  translation:
+    locale: ''
 npc:
   chat:
     options:
@@ -8,20 +19,22 @@ npc:
       multiple-targets-format: <target>|, <target>| & <target>| & others
       range: 5
       max-text-range: 500
-      talk-to-npcs: true
     format:
       no-targets: '[<npc>]: <text>'
       with-target-to-bystanders: '[<npc>] -> [<target>]: <text>'
       to-target: '[<npc>] -> You: <text>'
       with-targets-to-bystanders: '[<npc>] -> [<targets>]: <text>'
+  pathfinding:
+    default-distance-margin: 2
+    update-path-rate: 20
+    maximum-new-pathfinder-iterations: 50000
+    new-finder-open-doors: false
+    attack-range: 3.0625
+    use-new-finder: false
   default:
     look-close:
       enabled: false
       range: 5
-      random-look-enabled: false
-      random-look-delay: 3s
-      realistic-looking: false
-      disable-while-navigating: true
     pathfinding:
       range: 25.0
     random-talker: true
@@ -30,17 +43,8 @@ npc:
     talk-close:
       enabled: false
       range: 5
-      random-talker: false
-      text:
-        '0': Hi, I'm <npc>!
     text:
       '0': Hi, I'm <npc>!
-    bossbar-view-range: 64
-    block-breaker-radius: -1
-    waypoints:
-      cache-paths: false
-    spawn-nodamage-duration: 1s
-    stationary-duration: -1
   limits:
     default-limit: 10
     max-permission-checks: 100
@@ -48,41 +52,19 @@ npc:
     max-speed: 100
   tablist:
     disable: true
-    remove-packet-delay: 1t
   chunks:
     always-keep-loaded: false
   skins:
     max-retries: -1
-    use-latest: true
-    view-distance: 100.0
     retry-delay: 120
     rotation-update-degrees: 90.0
-    player-join-update-delay: 3s
     use-latest-by-default: false
-    placeholder-update-frequency: 5m
-  pathfinding:
-    new-finder-open-doors: false
-    attack-range: 3.0625
-    use-new-finder: false
-    new-finder:
-      iterations-per-tick: 250
-      maximum-iterations: 768
-      check-bounding-boxes: false
-      open-doors: false
-    default-destination-teleport-margin: -1
-    default-distance-margin: 1
-    default-path-distance-margin: 1
-    update-path-rate: 1s
-    default-range-blocks: 75.0
-    straight-line-targeting-distance: 5
-    disable-mc-fallback-navigation: true
-    maximum-visited-blocks: 768
-    allowed-fall-distance: -1
+    view-distance: 100.0
   packets:
     update-delay: 30
   selection:
     quick-select: false
-    item: '280'
+    item: stick
     message: <b>You selected <a><npc><b>!
   player:
     remove-from-list: true
@@ -90,54 +72,14 @@ npc:
   text:
     max-talk-cooldown: 5
     min-talk-cooldown: 10
-    talk-item: '340'
-    default-random-text-delay-max: 10s
-    default-random-text-delay-min: 5s
-    speech-bubble-duration: 50t
+    talk-item: book
+  teleport-delay: -1
   controllable:
     use-boat-controls: true
-    ground-direction-modifier: 1.0
-    max-ground-speed: 0.5
-  always-use-name-holograms: false
-  hologram:
-    default-line-height: 0.4
-    update-rate: 1s
-  follow:
-    teleport-across-worlds: true
-  commands:
-    global-cooldown: 1s
-    error-messages:
-      maximum-times-used: You have reached the maximum number of uses ({0}).
-      missing-item: Missing {1} {0}
-      no-permission: You don't have permission to do that.
-      not-enough-experience: You need at least {0} experience.
-      not-enough-money: You need at least ${0}.
-      on-cooldown: Please wait for {minutes} minutes and {seconds_over} seconds.
-      on-global-cooldown: Please wait for {minutes} minutes and {seconds_over} seconds.
-  movement:
-    water-speed-modifier: 1.15
-  use-packet-holograms: false
-  delay-player-teleport: -1
-  scoreboard-teams:
+  player-scoreboard-teams:
     enable: true
 advanced:
   check-minecraft-version: true
-general:
-  debug-mode: false
-  debug-pathfinding: false
-  color-scheme:
-    message-highlight: <e>
-    message: <a>
-    message-error: <red>
-  translation:
-    locale: ''
-  authlib:
-    profile-url: https://sessionserver.mojang.com/session/minecraft/profile/
-  debug-chunk-loads: false
-  debug-file: ''
-  wait-for-entity-spawn: 1s
-  resource-pack-path: plugins/Citizens/resourcepack
-  reload-warning-enabled: true
 economy:
   npc:
     cost: 100.0

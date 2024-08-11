@@ -1,0 +1,15 @@
+Selector:
+  name: '&a&lGame Menu &7(Right Click)'
+  id: 345
+  slot: 1
+  lore:
+  - '&7Right Click to open Game Menu'
+  command: 'menu'
+  cooldown-seconds: 0
+  permission: ''
+  give-at-respawn: true
+  first-join-only: false
+  allow-drop: false
+  block-movement: false
+  disabled-worlds: 
+  give-on-world-change: true

@@ -626,3 +626,44 @@ Suits:
         CanBeFound: true
         Purchasable: true
         Lore: ''
+  Firefighter:
+    Name: '&6Firefighter Suit'
+    Enabled: true
+    Cooldown: 0
+    Enabled-Ability: true
+    Lore:
+    - ''
+    - '&7Become an everyday hero when you'
+    - '&7equip this Firefighter Suit!'
+    - ''
+    - '&7Full Set Ability: Click to spray'
+    - '&7water.'
+    Equipments:
+      Firefighter Helmet:
+        Name: '&6Firefighter Suit Helmet'
+        Mystery Dust: 80
+        Rarity: Legendary
+        CanBeFound: true
+        Purchasable: true
+        Lore: ''
+      Firefighter Chestplate:
+        Name: '&5Firefighter Suit Chestplate'
+        Mystery Dust: 34
+        Rarity: Epic
+        CanBeFound: true
+        Purchasable: true
+        Lore: ''
+      Firefighter Leggings:
+        Name: '&9Firefighter Suit Leggings'
+        Mystery Dust: 19
+        Rarity: Rare
+        CanBeFound: true
+        Purchasable: true
+        Lore: ''
+      Firefighter Boots:
+        Name: '&aFirefighter Suit Boots'
+        Mystery Dust: 9
+        Rarity: Common
+        CanBeFound: true
+        Purchasable: true
+        Lore: ''

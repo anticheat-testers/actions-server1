@@ -1,0 +1,22 @@
+lastAccountName: Mad_Maniac
+timestamps:
+  login: 1609803974374
+  logout: 1609803996462
+  lastteleport: 1607465804902
+ipAddress: 192.168.0.72
+money: '315.0'
+logoutlocation:
+  world: DessertedIslands
+  x: -17.5
+  y: 39.0
+  z: -44.5
+  yaw: -114.01734
+  pitch: 56.278023
+lastlocation:
+  world: Submerged
+  x: -12.585945527613598
+  y: -67.44894981641741
+  z: -13.978266430335314
+  yaw: 79.74496
+  pitch: -84.90806
+afk: false

@@ -1,6 +1,6 @@
-Prefix: ''
+Prefix: '&3GadgetsMenu &6» &r'
 GUI-Menus:
-  Main: Collectibles
+  Main: Main
   Hats: Hats
   Animated Hats: Animated Hats
   Particles: Particles
@@ -749,5 +749,5 @@ Hour: hour
 Hours: hours
 Day: day
 Days: days
-None-Cosmetic-Has-Been-Selected: none
+No-Cosmetic-Equipped: none
 No-Recent-Loot-Found: none

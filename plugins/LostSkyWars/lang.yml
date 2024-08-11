@@ -2,69 +2,69 @@ scoreboards:
  animation:
   update: 1
   title:
-  - '&f&l&6&lS&e&lKYWARS'
-  - '&f&lS&6&lK&e&lYWARS'
-  - '&f&lSK&6&lY&e&lWARS'
-  - '&f&lSKY&6&lW&e&lARS'
-  - '&f&lSKYW&6&lA&e&lRS'
-  - '&f&lSKYWA&6&lR&e&lS'
-  - '&f&lSKYWAR&6&lS&e&l'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
+  - '&f&l&6&lS&a&lKYWARS'
+  - '&f&lS&6&lK&a&lYWARS'
+  - '&f&lSK&6&lY&a&lWARS'
+  - '&f&lSKY&6&lW&a&lARS'
+  - '&f&lSKYW&6&lA&a&lRS'
+  - '&f&lSKYWA&6&lR&a&lS'
+  - '&f&lSKYWAR&6&lS&a&l'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
   - '&f&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
-  - '&e&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
+  - '&a&lSKYWARS'
  lines:
   lobby:
   - ''
-  - 'Your Level: {level}✪'
+  - 'Your Level: {level}'
   - ''
   - 'Solo Kills: &a{solokills}'
   - 'Solo Wins: &a{solowins}'
@@ -74,18 +74,17 @@ scoreboards:
   - 'Coins: &6{coins}'
   - 'Souls: &b{souls}&7/{maxsouls}'
   - ''
-  - '&egithubservers.org'
+  - '&ewww.hypixel.net'
   waiting:
-  - '&7{date}'
+  - '&7{date} {world}'
   - ''
   - 'Players: &a{on}/{max}'
   - ''
   - '{replace}'
   - ''
   - 'Map: &a{map}'
-  - 'Mode: &cInsane'
   - ''
-  - '&ewww.githubservers.org'
+  - '&ewww.hypixel.net'
   ingame:
   - '&7{date} {world}'
   - ''
@@ -97,9 +96,8 @@ scoreboards:
   - 'Kills: &a{kills}'
   - ''
   - 'Map: &a{map}'
-  - 'Mode: &cInsane'
   - ''
-  - '&ewww.githubservers.org'
+  - '&ewww.hypixel.net'
   ingame-doubles:
   - '&7{date} {world}'
   - ''
@@ -112,9 +110,8 @@ scoreboards:
   - 'Kills: &a{kills}'
   - ''
   - 'Map: &a{map}'
-  - 'Mode: &cInsane'
   - ''
-  - '&ewww.githubservers.org'
+  - '&ewww.hypixel.net'
 scoreboard:
  replace:
   waiting: 'Waiting...'
@@ -141,27 +138,18 @@ options:
   hologram:
    lines:
    - '&a10. {10_name} &7- &e{10_playerstats}'
-   - ''
    - '&a9. {9_name} &7- &e{9_playerstats}'
-   - ''
    - '&a8. {8_name} &7- &e{8_playerstats}'
-   - ''
    - '&a7. {7_name} &7- &e{7_playerstats}'
-   - ''
    - '&a6. {6_name} &7- &e{6_playerstats}'
-   - ''
    - '&a5. {5_name} &7- &e{5_playerstats}'
-   - ''
    - '&a4. {4_name} &7- &e{4_playerstats}'
-   - ''
    - '&a3. {3_name} &7- &e{3_playerstats}'
-   - ''
    - '&a2. {2_name} &7- &e{2_playerstats}'
-   - ''
    - '&a1. {1_name} &7- &e{1_playerstats}'
    - ''
    - '&7All Modes'
-   - '&b&lLifetime {stats}'
+   - '&f&lLifetime {stats}'
 lobby:
  chat:
   enabled: true
@@ -191,22 +179,16 @@ lobby:
     skin-signature: 'a408vXEyIRgDZ+bY5ZW/cmhqd1N0VTKp0mc0Px46mwQ0bJWei7sKmlvh218uaiUmpPTJCLVlWPfimZVa59HDExeZKqaTZIIW8crwqw/KAcgZo8tDzIPg4x7/f0CMju8WL4yfHzLX8ny8ZNeXhP6gKhHyMF7AcL4gYlEBhaE+6gDPw7GHbJM08q38UvGzFQfmduv/0zT013P2uKFyAGgHpmSwlxPmG61vWscYrN55cd6qj8uoXY+OQf1CEQqeWuypm6POED+dYtHl4r1bMZMRCSX6345lM7o6TudlwND2HF+pUe0rpN8vRGelcvhC84yRUrKuyZWVFvA3PHgrNVh8s8BXR1GlbZ4r47PuPnb2jcTF3qFWKuHhcThYI5x1uMnLfYSeAtadt9dT/SiwgCZSk6SUQ1Tt3wSv/eh0ZVnFoEX9tmVEzhQqG8fekaGh5nYp6cyr8Y6jxTM1cnwST6b9slWFU3W2daTOCW4llnfIV2ghhGF6XhwuGxQU89y+4JVoUcdH4eMyEmT8K6526cREAnYC/mSH1vDU2gLVotBAIrfqs2gCIsANaaaO+Bv2T2r/zqazMfw/Dzq/QqzOxQomaHzX2LZrlCO9ozjIPXz5WkiUpMyj9LVxDiQ8ju+9MJTpP9O7cCjJg2go2Np+QvkaSZ38K3uR6Zikgn1rQrAg9i4='
     holograms:
     - '&e&lCLICK TO PLAY!'
-    - '&bSolo &7[Normal/Insane]'
-    - '&e&l{players} Players'
+    - '&fSolo &7[Normal/Insane]'
+    - '&a&l{players} Players'
    team:
     skin-value: 'eyJ0aW1lc3RhbXAiOjE1NTQ1MjUzNjc1NTksInByb2ZpbGVJZCI6IjVkMjRiYTBiMjg4YzQyOTM4YmExMGVjOTkwNjRkMjU5IiwicHJvZmlsZU5hbWUiOiIxbnYzbnQxdjN0NGwzbnQiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyNjlmNzdjNjdjOGIwMDE3MTkwOWZlYmE2ZjAxMzBmOTkwY2ZhNDA2MjZkZjE3ZWY1NTQwNWFiYzE3YTFlMTEifX19'
     skin-signature: 'DvyPAp8NVAwNHGATU0TqS9O8zh67u1iv9xkQ0V1c3lf5QNBeWmI/xKdMJ1jiFxEN3NCqNne6bHttsCUcDPxtwSS5M4DXIuOIf/pIlWKxh9SXqyAbeM0w68WOYbo5CWrhrO9q3Vgt/ahufDJl/HTiLCX1J02EFcQWF16EEke8cTOi0C6zPYz5a6AE4dMTH1SWHXGyF+xaD7YBioODQcODbkwr3Ku8s12zqIjLRRUwwj1KHTqVOlSyr46atb30KMWmlHSSTv4Q+dAUYn/g94kDoElyiyBuYTC6/VQJZJSFVZl44L+DP5y5kxtcU6anfRJa45ZnkBcPwgnOUWFPmWxaSNZz0ZnT6deJrsR4sZtFzSvXU7x4ThNNVr13+uS71gi7G8fkkCKZoYSGS/5f1AMNbI2RjfuYLEwrRJcqTIcAGIt2h9cLOQD6cTpl2/IiO4Obs/ckVN28KiZHQksyK+5ASSvNafNQMoFLOUgMrw39RuVQhhcxEid2iBMGipaw7Ri6OHky+GuAp+YkgGEjNV9CslP4JIDpLm8f0ecbv8OPkbpphk2FrQo6RUJmjWnmSiLdkGG3rCTnGNAjKEHdYxlKqmIBaajLpreriBB+xL5dXXNGPY55ZSZSsNfaJKNBQzyRdpmeQVz48P0hipCckwQ+Q68r5pWwqAyDsbtXzGR+Fmg='
     holograms:
     - '&e&lCLICK TO PLAY!'
     - '&fDoubles &7[Normal/Insane]'
-    - '&e&l{players} Players'
+    - '&a&l{players} Players'
    connecting: '&aSending you to {world}!\n \n '
-  deliveryman:
-   skin-value: 'eyJ0aW1lc3RhbXAiOjE1NzE1OTI3NjkzMjYsInByb2ZpbGVJZCI6ImU0MDE1NTBiZjNkNzRlMThiMzYxNWQzNDNjNTliMjA3IiwicHJvZmlsZU5hbWUiOiJaZWFsb2NrIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNDAyZDY4MGRhNjZjMmQyNTBiNjVlM2ZlNDZhNzE5YzM1MWFjMzQ2NzhkYTM5NjNmNzcxNjVmYWQzZWY2MzhjIiwibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn19fX0='
-   skin-signature: 'l8vl8BjvErK++4xnKharcxJv+Z71GqA0MYXxPbCYB2PAoKCxC+gYsIDm7aG2/cKZuz8RcANLxSp2NNMlqSUcMp8lBptVHdLtB7J+NG+QmGRvgZUd5S7wMU3jQu7VH5XIxn5qgZNZ9ef9naa9v3R9A66WmWOGuKjEJaSW4hKuxZ821zjS1QkeESAYgNzyU7EwSb3MSIuHXPvmAaYH7pUZyoZTh2sTqXTYOAZmJD5k6DWxqVuGinl1fbU07WNPJk/8frlgHWhuhtqYc7Zvx2RV9kDsWJ8Spcex6VQmEk+MJNB/VmPjXrke3YQKEF5udq3C9nJstiM6V/VgduYZTSSkTcP3lfcCwcvROYaVpsydCNS6Hn2Zp953lZseK/p3/W8Zic5zhcUbEwrNiPs37ZO9Ktz/O2YZR98djR95zqv+QImXi35mIelYuLdDEUeGZNPC41jHoeCR952T8i4l5ilN0hXoZPLPq+5NV/m4GP180gxGASVTwD4wkDmDtwjo22XT9d7dr92KTBdNndak2slJ5+hRukpNtUcRyJTsCDz8A3E6hFNjS4pIyCe0gSRIrx2xoDBwqV16ELDtrX2yv8ofQd2b6scxMBJ3zUW16mEDrbON/N8OWACYwD8jdtlExETXP7bDhtdotlaIRmd+pW7s1BZmShCKxKjrOiv/ZCMA5X0='
-   holograms:
-   - '&bThe Delivery Man'
-   - '&e&lRIGHT CLICK'
   well:
    holograms:
    - '&bSoul Well'
@@ -224,18 +206,17 @@ lobby:
   level: 1
  motd:
   enabled: true
-  header: '            &fOcto&0Net &c[1.8-1.13]'
+  header: '            &aHypixel Network &c[1.8-1.18]'
   footer: '        &aCome here and play the new SkyWars!'
  tablist:
   enabled: true
-  header: '&bYou are playing on &e&lgithubservers.org\n '
-  footer: ' \n&aPvP, Fun, gaming, AND MORE! githubservers.org!'
+  header: '&bYou are playing on &a&lwww.hypixel.net\n '
+  footer: ' \n&aRanks, Boosters & MORE! &c&lSTORE.HYPIXEL.NET'
  connecting:
   party:
    not-leader: '&cOnly the Party leader can find a match.'
 game:
  regen:
-  world-reload: false
   blocks-per-tick: 20000
  rewards:
   coins-per-play: 5
@@ -245,7 +226,7 @@ game:
   exp-per-kill: 5.0
   exp-per-win: 10.0
  countdown:
-  start: 45
+  start: 30
   full: 10
   game: 780
   refills:
@@ -265,24 +246,24 @@ game:
    slot: 0
    name: '&a&lTeleporter &7(Right Click)'
   quit-spectator:
-   slot: 5
+   slot: 8
    name: '&c&lReturn to Lobby &7(Right Click)'
   play-again:
-   slot: 3
-   name: '&bPlay Again &7(Right Click)'
+   slot: 7
+   name: '&b&lPlay Again &7(Right Click)'
  broadcast:
   starting:
-   join: '{colored} &ehas joined (&b{on}&e/&b{max}&a)!'
-   left: '{colored} &ehas quit'
+   join: '{colored} &ahas joined (&b{on}&a/&b{max}&a)!'
+   left: '{colored} &chas left (&b{on}&c/&b{max}&c)!'
    message: '&aThe game starts in {time} &asecond{s}!'
-   selected-kit: '&eSelected Kit: &a{kit}'
+   selected-kit: '&aSelected Kit: {kit}'
    title: '&c{time}'
    subtitle: '&aPrepare to fight!'
   started:
    teaming:
     solo: '&c&lTeaming is not allowed on Solo Mode!'
     doubles: '&c&lCross-Teaming is not allowed!'
-   tutorial: '&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n{centered}&f&lSkyWars\n \n{centered}&e&lGather resources and equipment on your island\n{centered}&e&lin order to eliminate every other player.\n{centered}&e&lGo to the center island for special chests\n{centered}&e&lwith special items!\n \n&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+   tutorial: '&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n{centered}&f&lSkyWars\n \n{centered}&a&lGather resources and equipment on your island\n{centered}&a&lin order to eliminate every other player.\n{centered}&a&lGo to the center island for special chests\n{centered}&a&lwith special items!\n \n&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
   ingame:
    action-bar:
     remaining: '&eThere are &c{alive} &eplayers remaining!'
@@ -312,7 +293,7 @@ game:
      up: '&c&lYOU WIN'
      bottom: '&7You are the last standing'
    leader-board:
-    template: '&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n{centered}&f&lSkyWars\n \n{centered}&aWinner &7- {winner}\n \n{centered}&e&l1st Killer &7- {top1} &7- {kills_top1}\n{centered}&6&l2nd Killer &7- {top2} &7- {kills_top2}\n{centered}&c&l3rd Killer &7- {top3} &7- {kills_top3}\n \n&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
+    template: '&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n{centered}&f&lSkyWars\n \n{centered}&aWinner &7- {winner}\n \n{centered}&a&l1st Killer &7- {top1} &7- {kills_top1}\n{centered}&6&l2nd Killer &7- {top2} &7- {kills_top2}\n{centered}&c&l3rd Killer &7- {top3} &7- {kills_top3}\n \n&a▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
    reward-summary:
     coins-per-play: '     &6+{coins} &7For play'
     coins-per-kill: '     &6+{coins} &7For killing {kills} players'

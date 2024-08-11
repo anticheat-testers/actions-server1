@@ -1,0 +1,59 @@
+name: FruitCake
+mode: solo
+cube: fruitcake, 79, -86, 120, 75, 85, -81
+min-players: 6
+spawns:
+- fruitcake; 0.5; 101.0; -51.5; 0.0; 0.0
+- fruitcake; -25.5; 101.0; -44.5; 0.0; 0.0
+- fruitcake; 26.5; 101.0; -44.5; 0.0; 0.0
+- fruitcake; -44.5; 101.0; -25.5; 0.0; 0.0
+- fruitcake; 45.5; 101.0; -25.5; 0.0; 0.0
+- fruitcake; -51.5; 101.0; 0.5; 0.0; 0.0
+- fruitcake; 52.5; 101.0; 0.5; 0.0; 0.0
+- fruitcake; -44.5; 101.0; 26.5; 0.0; 0.0
+- fruitcake; 45.5; 101.0; 26.5; 0.0; 0.0
+- fruitcake; -25.5; 101.0; 45.5; 0.0; 0.0
+- fruitcake; 26.5; 101.0; 45.5; 0.0; 0.0
+- fruitcake; 0.5; 101.0; 52.5; 0.0; 0.0
+chests:
+- fruitcake; 1.0; 93.0; -57.0; 0.0; 0.0; solo
+- fruitcake; -25.0; 93.0; -50.0; 0.0; 0.0; solo
+- fruitcake; 25.0; 93.0; -50.0; 0.0; 0.0; solo
+- fruitcake; 1.0; 88.0; -49.0; 0.0; 0.0; solo
+- fruitcake; 3.0; 93.0; -48.0; 0.0; 0.0; solo
+- fruitcake; -25.0; 88.0; -42.0; 0.0; 0.0; solo
+- fruitcake; 25.0; 88.0; -42.0; 0.0; 0.0; solo
+- fruitcake; -23.0; 93.0; -41.0; 0.0; 0.0; solo
+- fruitcake; 23.0; 93.0; -41.0; 0.0; 0.0; solo
+- fruitcake; -42.0; 88.0; -25.0; 0.0; 0.0; solo
+- fruitcake; 42.0; 88.0; -25.0; 0.0; 0.0; solo
+- fruitcake; -50.0; 93.0; -25.0; 0.0; 0.0; solo
+- fruitcake; 50.0; 93.0; -25.0; 0.0; 0.0; solo
+- fruitcake; -41.0; 93.0; -23.0; 0.0; 0.0; solo
+- fruitcake; 41.0; 93.0; -23.0; 0.0; 0.0; solo
+- fruitcake; 12.0; 90.0; -14.0; 0.0; 0.0; solo
+- fruitcake; -14.0; 90.0; -12.0; 0.0; 0.0; solo
+- fruitcake; -48.0; 93.0; -3.0; 0.0; 0.0; solo
+- fruitcake; -49.0; 88.0; -1.0; 0.0; 0.0; solo
+- fruitcake; -57.0; 93.0; -1.0; 0.0; 0.0; solo
+- fruitcake; 49.0; 88.0; 1.0; 0.0; 0.0; solo
+- fruitcake; 57.0; 93.0; 1.0; 0.0; 0.0; solo
+- fruitcake; 0.0; 103.0; 1.0; 0.0; 0.0; solo
+- fruitcake; 48.0; 93.0; 3.0; 0.0; 0.0; solo
+- fruitcake; 14.0; 90.0; 12.0; 0.0; 0.0; solo
+- fruitcake; -12.0; 90.0; 14.0; 0.0; 0.0; solo
+- fruitcake; -41.0; 93.0; 23.0; 0.0; 0.0; solo
+- fruitcake; 41.0; 93.0; 23.0; 0.0; 0.0; solo
+- fruitcake; -42.0; 88.0; 25.0; 0.0; 0.0; solo
+- fruitcake; 42.0; 88.0; 25.0; 0.0; 0.0; solo
+- fruitcake; -50.0; 93.0; 25.0; 0.0; 0.0; solo
+- fruitcake; 50.0; 93.0; 25.0; 0.0; 0.0; solo
+- fruitcake; -23.0; 93.0; 41.0; 0.0; 0.0; solo
+- fruitcake; 23.0; 93.0; 41.0; 0.0; 0.0; solo
+- fruitcake; -25.0; 88.0; 42.0; 0.0; 0.0; solo
+- fruitcake; 25.0; 88.0; 42.0; 0.0; 0.0; solo
+- fruitcake; -3.0; 93.0; 48.0; 0.0; 0.0; solo
+- fruitcake; -1.0; 88.0; 49.0; 0.0; 0.0; solo
+- fruitcake; -25.0; 93.0; 50.0; 0.0; 0.0; solo
+- fruitcake; 25.0; 93.0; 50.0; 0.0; 0.0; solo
+- fruitcake; -1.0; 93.0; 57.0; 0.0; 0.0; solo

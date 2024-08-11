@@ -1,0 +1,65 @@
+    menu_title: 'My Cosmetics'
+    open_command:
+    - select-cosmetic
+    open_requirement:
+    requirements:
+        permission:
+        type: has permission
+        permission: game.profile.bedwars
+    size: 54
+    items:
+      '1':
+        material: basehead-eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFiODMwZWI0MDgyYWNlYzgzNmJjODM1ZTQwYTExMjgyYmI1MTE5MzMxNWY5MTE4NDMzN2U4ZDM1NTU1ODMifX19
+        slot: 11
+        display_name: '&aShopkeeper Skins'
+        lore:
+        - ''
+        - '&7Select from various'
+        - '&7Shopkeeper skins, which'
+        - '&7will replace how the'
+        - '&7Shopkeepers look in-game!'
+        - '&7In Doubles and Team Modes'
+        - '&7a random player´s choice'
+        - '&7from each team is chosen.'
+        - ''
+        - '&eClick to view!'
+        left_click_commands:
+        - '[close]'
+        - '[message] &cThis option is currently under development.'
+        right_click_commands:
+        - '[close]'
+        - '[message] &cThis option is currently under development.'
+      '2':
+        material: IRON_SWORD
+        slot: 15
+        display_name: '&aFinal Kill Effects'
+        lore:
+        - ''
+        - '&7A selection of various '
+        - '&7effects to choose from that'
+        - '&7will trigger whenever you'
+        - '&7final kill an enemy!'
+        - ''
+        - '&eClick to view!'
+        left_click_commands:
+        - '[player] stn kill-effects'
+        right_click_commands:
+        - '[player] stn kill-effects'
+      '3':
+        material: ARROW
+        slot: 48
+        display_name: '&aGo Back'
+        lore:
+        - '&7To Bedwars Shop'
+        left_click_commands:
+        - '[console] dm open shop %player_name%'
+        right_click_commands:
+        - '[console] dm open shop %player_name%'
+      '4':
+        material: EMERALD
+        slot: 49
+        display_name: '&7Total Coins: &6%gadgetsmenu_mystery_dust%'
+        lore:
+        - '&6http://store.server.net/'
+        left_click_commands: []
+        right_click_commands: []

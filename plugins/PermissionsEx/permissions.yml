@@ -1,0 +1,373 @@
+groups:
+  default:
+    options:
+      default: 'true'
+      prefix: '&7'
+    permissions:
+    - essentials.msg
+    - gadgetsmenu.menuselector
+    - gadgetsmenu.mysteryboxes.open.*
+    - gadgetsmenu.animations.normal
+  VIP:
+    options:
+      default: 'false'
+      prefix: '&a[VIP] &7'
+    permissions:
+    - lostskywars.rank.vip
+    inheritance:
+    - default
+  VIP+:
+    options:
+      default: 'false'
+      prefix: '&a[VIP&6+&a] &7'
+    permissions:
+    - lostskywars.rank.vip+
+    inheritance:
+    - default
+  MVP:
+    options:
+      default: 'false'
+      prefix: '&b[MVP] &7'
+    permissions:
+    - lostskywars.rank.mvp
+    inheritance:
+    - default
+  MVP+:
+    options:
+      default: 'false'
+      prefix: '&b[MVP&c+&b] &7'
+    permissions:
+    - lostskywars.rank.mvp+
+    inheritance:
+    - default
+  MVP++:
+    inheritance:
+    - Default
+    - VIP
+    - VIP+
+    - MVP
+    - MVP+
+    permissions:
+    - vipfeatures.spells.explosive
+    - vipfeatures.spells.fire
+    - vipfeatures.spells.web
+    - vipfeatures.spells.zombie
+    - vipfeatures.spells.poison
+    - modifyworld.*
+    - gadgetsmenu.cosmetics.*
+    - chatexpressions.useall
+    worlds:
+      world:
+        permissions:
+        - essentials.fly
+        - itemjoin.1
+        - no.hunger
+    options:
+      prefix: '&6[MVP&c++&6] '
+  ADMIN:
+    inheritance:
+    - Default
+    - VIP
+    - VIP+
+    - MVP
+    - MVP+
+    - MVP++
+    permissions:
+    - chatexpressions.reload
+    - chatexpressions.useall
+    - fawe.admin
+    - cc.clear
+    - StaffChat.use
+    - broadcast.2
+    - simplekaboom.command.admin
+    - gadgetsmenu.cosmetics.*
+    - Mik1313.giftcode.add
+    - Mik1313.giftcode.del
+    - essentials.*
+    - vanish.use
+    - vanish.other
+    - vanish.list
+    - vanish.silentchest
+    - litebans.ban
+    - litebans.tempban
+    - litebans.ipban
+    - litebans.unban.own
+    - litebans.unban
+    - litebans.mute
+    - litebans.tempmute
+    - litebans.ipmute
+    - litebans.unmute.own
+    - litebans.warn
+    - litebans.unwarn.own
+    - litebans.unwarn
+    - litebans.kick
+    - litebans.kick.global
+    - litebans.history
+    - litebans.staffhistory
+    - litebans.banlist
+    - litebans.warnings
+    - litebans.dupeip
+    - litebans.ipreport
+    - litebans.geoip
+    - litebans.checkban
+    - litebans.checkmute
+    - litebans.lockdown
+    - litebans.clearchat
+    - litebans.mutechat
+    - litebans.lastuuid
+    - admin.color
+    - multiverse.*
+    - multiverse.access.*
+    - worldedit.*
+    - worldguard.*
+    - skinsrestorer.cmds
+    - skinsrestorer.admincommand
+    - skinsrestorer.command
+    options:
+      prefix: '&c[ADMIN] '
+  YOUTUBE:
+    inheritance:
+    - Default
+    - VIP
+    - VIP+
+    - MVP
+    - MVP+
+    permissions:
+    - autosmelt.mine
+    - gadgetsmenu.cosmetics.*
+    - deliveryman.reward.mvp+
+    - deliveryman.reward.mvp+.coins
+    - deliveryman.reward.mvp
+    - deliveryman.reward.mvp.coins
+    - deliveryman.reward.vip
+    - deliveryman.reward.vip.coins
+    - deliveryman.reward.vip+
+    - deliveryman.reward.vip+.coins
+    worlds:
+      world:
+        permissions:
+        - essentials.fly
+        - itemjoin.1
+        - no.hunger
+    options:
+      prefix: '&6[YT] '
+  Owner:
+    inheritance:
+    - Default
+    - VIP
+    - VIP+
+    - MVP
+    - MVP+
+    - MVP++
+    - YOUTUBE
+    - ADMIN
+    permissions:
+    - essentials.*
+    - minecraft.*
+    - worldedit.*
+    - worldguard.*
+    - bukkit.*
+    worlds:
+      '&7':
+        options:
+          prefix: '&8[&4Owner&8]'
+      '&4OWNER':
+        options:
+          prefix: '&8[&4Owner&8]'
+      '&7world':
+        options:
+          prefix: '&8[&4Owner&8]'
+      world:
+        options:
+          prefix: '&8[&4Owner&8]'
+    options:
+      prefix: '&7[&4Owner&7] &7'
+schema-version: 1
+users:
+  3d482406-7d31-3611-bc19-a6116a17484a:
+    group:
+    - ADMIN
+    options:
+      name: MiniFlexJAV
+  63e17396-31ce-366c-9175-0662d8b1bab7:
+    group:
+    - MVP++
+    options:
+      name: Clocker
+  b816feab-9266-3eaf-a451-65021536de84:
+    group:
+    - MVP++
+    options:
+      name: DarkWeider_
+  08eeb2a8-a806-39d4-8306-e466bd4819a0:
+    group:
+    - YOUTUBE
+    options:
+      name: KhangFromVietNam
+  8d49ac05-8414-3f66-a02a-b244c93a8364:
+    group:
+    - MVP+
+  6b94afde-86e7-3c22-be1c-873967b4498b:
+    group:
+    - ADMIN
+    options:
+      name: HasagiYasuo
+  7b178383-2a22-3af5-be0b-79a73ee6f4a2:
+    group:
+    - MVP
+    options:
+      name: RKY_VN_Hero
+  2b97ab13-1d11-3eff-aa55-e89e86cdcb4a:
+    group:
+    - YOUTUBE
+    options:
+      name: poddamebozkov
+  0da488f3-06ed-3266-9ad3-f7d89b9c222d:
+    group:
+    - MVP+
+  9a94a792-9904-34f5-a212-a60a77af425c:
+    group:
+    - VIP+
+  ceb39817-5ab3-3753-9897-c932c455d8b2:
+    group:
+    - VIP+
+    options:
+      name: TylerRun_VN
+  4610c41c-1781-3535-a0fd-9e58195ccae7:
+    group:
+    - VIP
+    options:
+      name: riccoitsme
+  71d415fe-f0e7-3d4d-b841-64c25b0b8254:
+    group:
+    - MVP
+    options:
+      name: IDTS
+  498e134f-0b2e-3e99-b91d-52b2995c2794:
+    group:
+    - MVP+
+    options:
+      name: TuiTenKhang
+  ff3ebc8e-efc7-38ac-936e-59c3f19798de:
+    group:
+    - MVP++
+    options:
+      name: FlamerDetector9
+  4a1e76b7-be88-3a8b-8efb-9e500cd03f8c:
+    group:
+    - MVP+
+    options:
+      name: Hubie_TV
+  f2884730-046a-3353-b8db-e67eb6400870:
+    group:
+    - VIP+
+    options:
+      name: Gila_bor
+  b2d6d29b-0b92-3179-99a4-c0c9611e4565:
+    group:
+    - VIP
+    options:
+      name: Yui2k
+  915c867a-6d49-39c9-9a12-e6e043334994:
+    group:
+    - ADMIN
+    options:
+      name: Mad_Maniac
+  e63c9801-19f9-3ff1-9775-3fbe8869401d:
+    group:
+    - Owner
+    options:
+      name: Mad_Pickaxe
+  48279207-b825-3f80-b424-3ee443db923f:
+    group:
+    - MVP++
+    options:
+      name: CrazyGamer_X
+  a5da92dd-006b-3072-9003-c5af3417f044:
+    group:
+    - MVP++
+    options:
+      name: booghammer
+  456c94f7-d2d1-319e-b951-ea963b560eca:
+    group:
+    - MVP++
+    options:
+      name: _Sharplex_
+  dd0153eb-13dc-30e4-aba2-8cb318caa44a:
+    group:
+    - ADMIN
+    options:
+      name: mad_pickaxe
+  4dbb03c5-5714-3189-a03a-b8f8368cf78f:
+    group:
+    - MVP
+    options:
+      name: Blankthedoctor
+  ead073f9-12e8-3c11-8d9a-4a3a46c2cf53:
+    group:
+    - VIP+
+    options:
+      name: Cobra
+  ae40dee8-4e86-3226-ac2e-e0792c5e3f43:
+    group:
+    - MVP
+    options:
+      name: gamerpro4731234
+  f7b9fdfa-8ad0-3c66-b49c-604ec38322e3:
+    group:
+    - ADMIN
+    options:
+      name: OG_Ninja_Gamer
+  f9d92b3d-c1e4-3688-aec8-7089b4a0f319:
+    group:
+    - MVP++
+    options:
+      name: cooljoebob
+  30fe1d4a-dd47-3edd-9b67-23a0eca334be:
+    group:
+    - MVP++
+    options:
+      name: pixel_gamer_boy
+  12728f16-67b2-3632-95e8-334af45e54e4:
+    group:
+    - VIP
+    options:
+      name: Red_Windows
+  27965999-a44b-3733-9560-cdf52530cd80:
+    group:
+    - MOD
+    options:
+      name: slayfoxjr7
+  fd0d47da-b0f2-3a2b-aab2-e9b572498355:
+    group:
+    - ADMIN
+    options:
+      name: Ninja481
+  4a82681f-fd2b-3f7b-bdcf-3dac3b48a8af:
+    group:
+    - ADMIN
+    options:
+      name: Wholesome_Frog
+  fa6a96f7-68ec-3e9d-ad32-2f80925cf3e0:
+    group:
+    - ADMIN
+    options:
+      name: Lil_Twisted_6
+  04cdec20-a84d-3f8c-ae68-10ce6b67492e:
+    group:
+    - VIP+
+    options:
+      name: Spiderplase05
+  ra1z5623:
+    group:
+    - MVP+
+  2d871c98-8504-3b0e-912f-5734c3dabfe7:
+    group:
+    - MVP+
+    options:
+      name: Ms_Adian
+  6fb7ad43-0214-3639-93d7-83e9bd29932e:
+    group:
+    - MVP+
+    options:
+      name: Maniaxe
