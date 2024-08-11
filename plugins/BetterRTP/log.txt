@@ -1,34 +1,19 @@
-2024-08-11 23:26:10 [INFO]: Loading Overrides...
-2024-08-11 23:26:10 [INFO]: Loading World Types...
-2024-08-11 23:26:10 [INFO]: - World Type for 'world' set to 'NORMAL'
-2024-08-11 23:26:10 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2024-08-11 23:26:10 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2024-08-11 23:26:10 [INFO]: Loading Defaults...
-2024-08-11 23:26:10 [INFO]: Loading Custom Worlds...
-2024-08-11 23:26:10 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2024-08-11 23:26:10 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2024-08-11 23:26:10 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2024-08-11 23:26:11 [INFO]: Database PLAYERS:Players configured and loaded!
-2024-08-11 23:26:11 [INFO]: Database COOLDOWN:world configured and loaded!
-2024-08-11 23:26:11 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2024-08-11 23:26:11 [INFO]: Database QUEUE:Queue configured and loaded!
-2024-08-11 23:26:11 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2024-08-11 23:26:11 [INFO]: Database COOLDOWN:spawn configured and loaded!
-2024-08-11 23:26:11 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2024-08-11 23:26:14 [INFO]: Attempting to queue up some more safe locations...
-2024-08-11 23:26:14 [INFO]: Queueing paused, max queue limit reached!
-2024-08-11 23:26:55 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
-2024-08-11 23:31:25 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=489.0,y=69.0,z=643.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:25 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-483.0,y=69.0,z=25.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:25 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-483.0,y=69.0,z=25.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:25 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=762.0,y=69.0,z=-91.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:25 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=683.0,y=69.0,z=-268.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:26 [INFO]: Attempting to queue up some more safe locations...
-2024-08-11 23:31:26 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-159.0,y=69.0,z=904.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:26 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-159.0,y=69.0,z=904.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:26 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=332.0,y=69.0,z=749.0,pitch=0.0,yaw=0.0}
-2024-08-11 23:31:26 [INFO]: -Removed a queue Location{world=CraftWorld{name=spawn},x=-967.5,y=73.0,z=590.5,pitch=9.001964,yaw=129.47429}
-2024-08-11 23:32:00 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 125, location= x: 801, y: 70, z: 845, world: spawn
-2024-08-11 23:32:29 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 126, location= x: 719, y: 64, z: 863, world: spawn
-2024-08-11 23:32:33 [INFO]: Queue position generated: id= rtp_spawn, database_ID= 127, location= x: -927, y: 63, z: -537, world: spawn
-2024-08-11 23:32:38 [INFO]: Max attempts to create a Queue reached for rtp_spawn (amount: 3)
+2024-08-11 23:45:23 [INFO]: Loading Overrides...
+2024-08-11 23:45:23 [INFO]: Loading World Types...
+2024-08-11 23:45:23 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-08-11 23:45:23 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-08-11 23:45:23 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-08-11 23:45:23 [INFO]: Loading Defaults...
+2024-08-11 23:45:23 [INFO]: Loading Custom Worlds...
+2024-08-11 23:45:23 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-08-11 23:45:23 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-08-11 23:45:23 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2024-08-11 23:45:24 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-08-11 23:45:24 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-08-11 23:45:24 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-08-11 23:45:24 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-08-11 23:45:24 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-08-11 23:45:24 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-08-11 23:45:24 [INFO]: Database COOLDOWN:spawn configured and loaded!
+2024-08-11 23:45:27 [INFO]: Attempting to queue up some more safe locations...
+2024-08-11 23:45:28 [INFO]: Queueing paused, max queue limit reached!
