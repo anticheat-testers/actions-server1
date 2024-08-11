@@ -2440,3 +2440,50 @@ Potion Effects: [SPEED:19999959t-x200, FIRE_RESISTANCE:7905t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ Briiqn was punished for Bad Packets (Type C) ]--------------
+
+Location:
+ - World: Maps
+ - X: 1178.3846861509726
+ - Y: 164.0
+ - Z: -405.5206343405485
+
+Information:
+ - UUID: cb42ff6a-36b7-4ad8-8c9b-74d28b7b8973
+ - Keep Alive Ping: 333
+ - Transaction Ping: 327
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 42.95 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 51
+ - Since Riptide Ticks: 200
+ - Flying Delay: 52
+ - Since Velocity Ticks: 859
+ - Since Firework Ticks: 5257
+ - Ticks Existed: 10409
+ - Since Vehicle Ticks: 37
+ - Since Liquid Ticks: 4627
+ - Queued Transactions: 1
+ - Joined: 568 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type C) [VL: 1] (Impossible pitch.)
+
+Blocks Nearby: [STAINED_CLAY, STAINED_CLAY, STAINED_CLAY, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STAINED_CLAY, STAINED_CLAY, STAINED_CLAY, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STAINED_CLAY, STAINED_CLAY, STAINED_CLAY, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftHorse{variant=HORSE, owner=null}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
