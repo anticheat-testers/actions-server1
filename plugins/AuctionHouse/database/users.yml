@@ -18,3 +18,13 @@ cb42ff6a-36b7-4ad8-8c9b-74d28b7b8973:
   Alert Listing Bought: false
   Auto Confirm Listing: false
   Sounds: true
+bc4f5a10-e49d-4b95-b50e-5e5b108166dd:
+  Username: kons0las
+  Alert Create Listings: true
+  Open Admin Mode: false
+  Alert Near Expire:
+    Status: false
+    Time: 300
+  Alert Listing Bought: false
+  Auto Confirm Listing: false
+  Sounds: true
