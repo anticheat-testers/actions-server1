@@ -62,3 +62,7 @@ servers:
     motd: '&1Hypixel.networking'
     address: localhost:25571
     restricted: false
+  survival:
+    motd: '&1Hypixel.networking'
+    address: localhost:25572
+    restricted: false
