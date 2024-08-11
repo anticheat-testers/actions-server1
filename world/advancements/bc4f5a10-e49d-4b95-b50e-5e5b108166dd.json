@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna": "2024-08-11 23:13:31 +0000"
+      "minecraft:stony_shore": "2024-08-11 23:31:27 +0000",
+      "minecraft:savanna": "2024-08-11 23:13:31 +0000",
+      "minecraft:plains": "2024-08-11 23:31:35 +0000"
     },
     "done": false
   },
