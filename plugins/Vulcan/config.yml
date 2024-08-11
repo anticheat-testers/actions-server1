@@ -1011,8 +1011,8 @@ checks:
           minimum-vl-to-randomly-rotate: 2
           rotate-every: 2
       b:
-        enabled: true
-        punishable: true
+        enabled: false
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: true
         max-violations: 3
@@ -1755,8 +1755,8 @@ checks:
           multiple: 0.25
           decay: 0.175
       d:
-        enabled: true
-        punishable: true
+        enabled: false
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: true
         max-violations: 15
