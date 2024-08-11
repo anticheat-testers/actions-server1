@@ -40,3 +40,13 @@ bc4f5a10-e49d-4b95-b50e-5e5b108166dd:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+be6d2a29-3a11-40c4-a4fb-7b970d6aa48f:
+  name: xNotJames
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
