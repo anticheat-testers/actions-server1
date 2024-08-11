@@ -3053,7 +3053,7 @@ checks:
     timer:
       a:
         enabled: false
-        punishable: true
+        punishable: false
         discord-alert-interval: 1
         broadcast-punishment: true
         max-violations: 15
