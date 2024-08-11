@@ -62,3 +62,78 @@
 (02:48:53) Briiqn failed Move check | strafe (s: 0.283, d: 0.096)() | vl:10(+5) ping:258 tps:20.0 component: move.stf ver: 1.8.x
 (02:48:53) Briiqn failed Move check | strafe (s: 0.283, d: 0.074)() | vl:15(+5) ping:258 tps:20.0 component: move.stf ver: 1.8.x
 (02:48:54) Briiqn failed Move check | strafe (s: 0.314, d: 0.033)() | vl:20(+5) ping:258 tps:20.0 component: move.stf ver: 1.8.x
+(02:54:19) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:10(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:19) Execute command: matrix npc Briiqn 100
+(02:54:19) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:20(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:19) Execute command: matrix notify Briiqn might be using combat hacks (KillAura)
+(02:54:19) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:30(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:19) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:40(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:19) Execute command: matrix notify Briiqn is using combat hacks (KillAura) #2
+(02:54:19) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:50(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:19) Execute command: matrix delay 5 matrix kick Briiqn KillAura
+(02:54:19) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.662, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:5(+5) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:19) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.511, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:8(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:19) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.275, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:11(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:19) Execute command: matrix notify Briiqn tried to reach entity outside max reach distance (HitBox)
+(02:54:19) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:60(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:20) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:70(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:20) Briiqn failed Click check | reached 16/15 cps during the combat // cps (dynamic)() | vl:4(+4) ping:778 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(02:54:21) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.315, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:14(+3) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:21) Execute command: matrix npc Briiqn 120
+(02:54:21) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.499, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+1) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:21) Execute command: matrix notify Briiqn tried to reach entity outside max reach distance (HitBox) #2
+(02:54:21) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.711, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:21) Briiqn failed Click check | reached 16/15 cps during the combat // cps (dynamic)() | vl:8(+4) ping:778 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(02:54:21) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.643, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:21) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.396, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:22) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.372, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:22) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.184, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:22) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.157, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:22) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.215, max: 3.15, positions: 1/16, tk: 23, prep: true, strict: false) | vl:15(+0) ping:778 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:75(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:80(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:85(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:90(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:95(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:100(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:105(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:110(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:22) Briiqn failed KillAura check | (npc) force field() | vl:115(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:120(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:125(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:130(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:135(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:140(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:145(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:150(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:155(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:160(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:165(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:170(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:23) Briiqn failed KillAura check | (npc) force field() | vl:175(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:24) Briiqn failed KillAura check | (npc) force field() | vl:180(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:24) Briiqn failed KillAura check | (npc) force field() | vl:185(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:24) Briiqn failed KillAura check | (npc) force field() | vl:190(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:24) Briiqn failed KillAura check | (npc) force field() | vl:195(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:24) Briiqn failed KillAura check | (npc) force field() | vl:200(+5) ping:778 tps:20.0 component: ka.ff ver: 1.8.x
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:10(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Execute command: matrix npc Briiqn 100
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:20(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Execute command: matrix notify Briiqn might be using combat hacks (KillAura)
+(02:54:44) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.429, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:3(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:30(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:40(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Execute command: matrix notify Briiqn is using combat hacks (KillAura) #2
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:50(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Execute command: matrix delay 5 matrix kick Briiqn KillAura
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:60(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.615, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:7(+4) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:44) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.624, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:11(+4) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:44) Execute command: matrix notify Briiqn tried to reach entity outside max reach distance (HitBox)
+(02:54:44) Briiqn failed HitBox check | attack too far away(target: player, reach: 3.248, max: 3.15, positions: 1/16, tk: 13, prep: true, strict: false) | vl:14(+3) ping:0 tps:20.0 component: hb.reach ver: 1.8.x
+(02:54:44) Execute command: matrix npc Briiqn 120
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:70(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Briiqn failed KillAura check | the player exhibits a flaw in combat | type D() | vl:80(+10) ping:0 tps:20.0 component: ka.flaw.d ver: 1.8.x
+(02:54:44) Briiqn failed Click check | reached 18/15 cps during the combat // cps (dynamic)() | vl:5(+5) ping:0 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(02:54:45) Briiqn failed Click check | reached 20/15 cps during the combat // cps (dynamic)() | vl:11(+6) ping:823 tps:20.0 component: ka.clk.cps ver: 1.8.x
+(02:54:45) Execute command: matrix notify Briiqn tried to click abnormally (Click) #1
