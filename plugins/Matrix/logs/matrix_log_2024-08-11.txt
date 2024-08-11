@@ -1,1 +1,15 @@
 (01:31:12) Matrix Enabled! Version: 7.7.26A
+(02:21:18) xNotJames failed Block check | break block too fast(digs: 7, expect: 18, block: grass, j: true) | vl:4(+4) ping:291 tps:20.0 component: blk.fb.exp ver: 1.8.x
+(02:21:22) xNotJames failed Phase check | moved into block (block: grass, move: -0.411,0.000,0.000, at: 20.889,15.000,-1.700, dist: 0.411, loop: false)() | vl:4(+4) ping:391 tps:20.0 component: phase.main ver: 1.8.x
+(02:21:22) xNotJames failed Move check | unexpected horizontal movement (motion: 0.997/0.44, buffer: 0.556/false, vet: 0.0, vec: 0.11, ground: +,+, spr: -, add: 0.33, past: 0.0,0.201, fr: 0.6, setback: +, vel: none, from: 15.0, rv: empty, ptags: collision, tags: collision,hor_jump_fix,hor_fast_setback)() | vl:5(+5) ping:391 tps:20.0 component: move.hor ver: 1.8.x
+(02:21:29) xNotJames failed Phase check | moved into block (block: grass, move: -0.195,0.000,-0.053, at: 19.530,15.000,-0.753, dist: 0.202, loop: false)() | vl:6(+2) ping:509 tps:20.0 component: phase.main ver: 1.8.x
+(02:21:29) xNotJames failed Phase check | moved into block (block: grass, move: 0.387,0.000,-0.037, at: 19.917,15.000,-0.790, dist: 0.388, loop: false)() | vl:10(+4) ping:509 tps:19.98 component: phase.main ver: 1.8.x
+(02:21:29) Execute command: matrix notify xNotJames is phase into block (Phase)
+(02:21:29) xNotJames failed Phase check | moved into block (block: grass, move: 0.387,0.000,0.020, at: 19.703,15.000,-0.830, dist: 0.387, loop: false)() | vl:14(+4) ping:509 tps:19.98 component: phase.main ver: 1.8.x
+(02:21:29) Execute command: matrix notify xNotJames is phase into block (Phase) #2
+(02:21:40) xNotJames failed Phase check | moved into block (block: grass, move: -0.251,0.000,0.160, at: 21.049,15.000,-1.284, dist: 0.298, loop: false)() | vl:16(+2) ping:414 tps:19.99 component: phase.main ver: 1.8.x
+(02:21:40) xNotJames failed Phase check | moved into block (block: grass, move: -0.081,0.000,0.235, at: 21.219,15.000,-1.327, dist: 0.249, loop: false)() | vl:18(+2) ping:414 tps:19.99 component: phase.main ver: 1.8.x
+(02:21:41) xNotJames failed Phase check | moved into block (block: grass, move: -0.184,0.000,0.126, at: 21.116,15.000,-1.436, dist: 0.223, loop: false)() | vl:20(+2) ping:414 tps:19.99 component: phase.main ver: 1.8.x
+(02:21:41) xNotJames failed Phase check | moved into block (block: grass, move: -0.097,0.000,-0.082, at: 21.203,15.000,-1.644, dist: 0.127, loop: false)() | vl:22(+2) ping:414 tps:19.99 component: phase.main ver: 1.8.x
+(02:21:42) xNotJames failed Block check | break block too fast(digs: 3, expect: 18, block: grass, j: false) | vl:8(+4) ping:414 tps:20.0 component: blk.fb.exp ver: 1.8.x
+(02:21:46) xNotJames failed Phase check | moved into block (block: grass, move: -0.428,0.000,-0.021, at: 20.872,15.000,-1.700, dist: 0.429, loop: false)() | vl:26(+4) ping:525 tps:20.0 component: phase.main ver: 1.8.x
