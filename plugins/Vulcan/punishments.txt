@@ -2101,3 +2101,50 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ xNotJames was punished for Baritone (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 17.808439156714485
+ - Y: 16.0
+ - Z: -6.645108778553051
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 462
+ - Transaction Ping: 353
+ - Server TPS: 20
+ - Sensitivity: 130
+ - Gamemode: SURVIVAL
+ - Client Brand: Lunarclient:v2.16.6-2432
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 377.55 seconds ago
+
+Total Violations: 20
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 20
+
+Misc Information:
+ - Since Teleport Ticks: 3
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 7551
+ - Since Firework Ticks: 2937
+ - Ticks Existed: 7451
+ - Since Vehicle Ticks: 2837
+ - Since Liquid Ticks: 2837
+ - Queued Transactions: 2
+ - Joined: 375 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Baritone (Type B) [VL: 20] (Checks for Baritone like rotations.)
+
+Blocks Nearby: [SMOOTH_BRICK, SMOOTH_BRICK, COBBLESTONE, STONE, SMOOTH_BRICK, COBBLESTONE, AIR, STONE, GRASS, AIR, AIR, AIR, COBBLESTONE, COBBLESTONE, COBBLESTONE, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, COBBLESTONE, AIR, AIR, STONE, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
