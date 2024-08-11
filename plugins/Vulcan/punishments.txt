@@ -2389,3 +2389,54 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Briiqn was punished for Invalid (Type E) ]--------------
+
+Location:
+ - World: Maps
+ - X: 513.4763101897631
+ - Y: 105.0
+ - Z: -551.3520623402354
+
+Information:
+ - UUID: cb42ff6a-36b7-4ad8-8c9b-74d28b7b8973
+ - Keep Alive Ping: 340
+ - Transaction Ping: 275
+ - Server TPS: 20
+ - Sensitivity: 63
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 17.0 seconds ago
+
+Total Violations: 16
+ - Combat Violations: 8
+ - Movement Violations: 0
+ - Player Violations: 8
+
+Misc Information:
+ - Since Teleport Ticks: 1
+ - Since Riptide Ticks: 200
+ - Flying Delay: 56
+ - Since Velocity Ticks: 340
+ - Since Firework Ticks: 2212
+ - Ticks Existed: 3008
+ - Since Vehicle Ticks: 2112
+ - Since Liquid Ticks: 2112
+ - Queued Transactions: 1
+ - Joined: 158 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type Y) [VL: 1] (Generic rotation analysis heuristic.)
+ - Hitbox (Type B) [VL: 4] (Attacked while not looking at target.)
+ - Kill Aura (Type B) [VL: 1] (Invalid acceleration.)
+ - Reach (Type A) [VL: 2] (Hit from too far away.)
+ - Invalid (Type E) [VL: 8] (Too large X/Z-Axis movement.)
+
+Blocks Nearby: [SNOW_BLOCK, SNOW_BLOCK, SNOW_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SNOW_BLOCK, SNOW_BLOCK, SNOW_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SNOW_BLOCK, SNOW_BLOCK, SNOW_BLOCK, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Bxrl}]
+Potion Effects: [SPEED:19999959t-x200, FIRE_RESISTANCE:7905t-x0]
+---------------------------------------------------------------------------
+
+
