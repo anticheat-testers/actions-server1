@@ -1,0 +1,6 @@
+[2024-06-02 15:37:20] - MrErrorX bought 1 x Allay Spawner(Spawners.page1.items.1) for $225,000 with the buy screen.
+[2024-06-02 16:16:18] - MrErrorX bought 1 x Squid Spawner(Spawners.page1.items.32) for $100,000 with the buy screen.
+[2024-06-06 13:47:43] - MrErrorX bought 64 x Diamond(Ores.page1.items.9) for $3,360 with the buy stacks screen.
+[2024-06-06 13:47:58] - MrErrorX bought 64 x Emerald(Ores.page1.items.11) for $2,520.32 with the buy stacks screen.
+[2024-06-06 13:49:19] - MrErrorX sold 58 x Diamond(Ores.page1.items.9) for $761.54 with the sell screen.
+[2024-06-06 13:49:23] - MrErrorX sold 62 x Emerald(Ores.page1.items.11) for $610.69 with the sell screen.

@@ -1,0 +1,7 @@
+name: MrErrorX
+banks:
+  bank:
+    level: 3
+    money: '200000.00'
+    debt: '0.00'
+    interest: '0.00'

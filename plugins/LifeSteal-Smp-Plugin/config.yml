@@ -1,0 +1,43 @@
+autoConfigReload: false
+elimination:
+  reviveHearts: 10.0
+  perWorldHearts: false
+  useReviveHearts: true
+  healthScale: 1.0
+  alwaysDropHearts: false
+  bans:
+    broadcastMessage: §c%player% has lost all of their hearts and has been banned.
+    banTime: 00:00:00.0000
+    broadcastBan: false
+    banMessage: §cYou have been eliminated!
+    useBanTime: false
+  playersDropHearts: false
+  totemWorksInInventory: false
+  allowSelfElimination: false
+  environmentStealsHearts: true
+  environmentDropHearts: false
+  environmentHealthScale: 1.0
+  fullInventoryHeartDrop: true
+  banAtMinHealth: true
+  defaultHearts: 10.0
+  maxHearts: 20.0
+  useMinHealth: false
+  useMaxHealth: true
+  minHearts: 5.0
+doNotTouch_configVersion: 11
+messages:
+  errors:
+    notFound: §c%s not found!
+    requiresPlayer: §cA player is required to perform this command!
+    specifyAtLeastOne: §cYou must specify at least one %s!
+    requiresArgument: §cThe argument "%s" is required to perform this command!
+items:
+  heart:
+    displayName: §c❤ §fExtra heart.
+    customModelData: 931
+  beacon:
+    displayName: §fRevive Beacon.
+    customModelData: 932
+  heartFragment:
+    displayName: §c§lHeart Fragment.
+    customModelData: 933

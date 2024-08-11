@@ -1,0 +1,7 @@
+13:47:19 | MrErrorX -> DEPOSIT - 50000.00 [bank] -> Bank bal before/after: [0.00/50000.00] -> Vault bal before/after: [10B/10B]
+13:47:21 | MrErrorX -> INTEREST - 2500.00 [bank] -> Bank bal before/after: [50000.00/50000.00] -> Vault bal before/after: [10B/10B]
+13:47:22 | MrErrorX -> WITHDRAW - 50000.00 [bank] -> Bank bal before/after: [50000.00/0.00] -> Vault bal before/after: [10B/10B]
+13:47:25 | MrErrorX -> DEPOSIT - 50000.00 [bank] -> Bank bal before/after: [0.00/50000.00] -> Vault bal before/after: [10B/10B]
+13:47:48 | MrErrorX -> REMOVE - 5000.00 [bank] -> Bank bal before/after: [50000.00/45000.00] -> Vault bal before/after: [10B/10B]
+13:48:03 | MrErrorX -> REMOVE - 10000.00 [bank] -> Bank bal before/after: [45000.00/35000.00] -> Vault bal before/after: [10B/10B]
+13:48:06 | MrErrorX -> DEPOSIT - 165000.00 [bank] -> Bank bal before/after: [35000.00/200000.00] -> Vault bal before/after: [10B/10B]
