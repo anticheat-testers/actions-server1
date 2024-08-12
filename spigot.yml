@@ -14,15 +14,6 @@ config-version: 8
 settings:
   debug: false
   save-user-cache-on-stop-only: false
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-threshold: 100.0
-  bungeecord: true
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
-  user-cache-size: 1000
-  int-cache-limit: 1024
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -34,6 +25,15 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-threshold: 100.0
+  bungeecord: true
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
   moved-too-quickly-multiplier: 10.0
 messages:
   whitelist: You are not whitelisted on this server!
@@ -69,7 +69,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    nerf-spawner-mobs: false
     mob-spawn-range: 6
     anti-xray:
       enabled: true
@@ -91,6 +90,7 @@ world-settings:
       replace-blocks:
       - 1
       - 5
+    nerf-spawner-mobs: false
     entity-activation-range:
       animals: 32
       monsters: 32
