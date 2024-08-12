@@ -3873,3 +3873,55 @@
 [2024-08-12 04:47:07] [INFO   ] Spawning shipwreck at 1385, 19, -1326 with rotation of SOUTH 
 [2024-08-12 04:47:12] [INFO   ] Minecart with chest at: 1385, -6, -213 
 [2024-08-12 04:47:12] [INFO   ] Minecart with chest at: 1389, -6, -192 
+[2024-08-12 04:47:24] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 84,116 
+[2024-08-12 04:47:28] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,116 
+[2024-08-12 04:47:31] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -140,116 
+[2024-08-12 04:47:31] [INFO   ] Spawning ancient city at: -2240,-13,1856 
+[2024-08-12 04:47:47] [INFO   ] Spawning sculk... 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -2291 -13 1882 in a room of size 21x22 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -2300 -13 1855 in a room of size 21x24 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -2188 -13 1868 in a room of size 18x21 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -2230 -13 1892 in a room of size 25x17 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -2272 -13 1806 in a room of size 21x26 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -2241 -13 1806 in a room of size 24x21 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -2205 -13 1904 in a room of size 25x18 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -2282 -13 1848 in a room of size 16x22 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -2240 -13 1856 in a room of size 50x50 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -2260 -13 1892 in a room of size 16x18 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -2183 -13 1839 in a room of size 26x25 
+[2024-08-12 04:47:51] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -2282 -13 1901 in a room of size 22x16 
+[2024-08-12 04:47:52] [INFO   ] Small Schematic 
+[2024-08-12 04:47:52] [INFO   ] Medium Schematic 
+[2024-08-12 04:47:52] [INFO   ] Medium Schematic 
+[2024-08-12 04:47:53] [INFO   ] Large Schematic 
+[2024-08-12 04:47:55] [INFO   ] Generating org.terraform.structure.catacombs.CatacombsPopulator at chunk: -172,116 
+[2024-08-12 04:47:55] [INFO   ] Spawning catacombs at: -2752,1856 
+[2024-08-12 04:47:55] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStairwayPopulator at -2754 27 1870 in a room of size 10x10 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneCavern at -2747 27 1850 in a room of size 10x8 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -2763 27 1849 in a room of size 9x7 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2736 27 1856 in a room of size 8x8 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -2744 27 1871 in a room of size 7x9 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -2745 27 1833 in a room of size 10x7 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2772 27 1839 in a room of size 8x9 
+[2024-08-12 04:47:56] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -2731 27 1837 in a room of size 8x7 
+[2024-08-12 04:47:57] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-08-12 04:47:57] [INFO   ] Additional Catacombs Level at: -2752,1856 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStairwayBasePopulator at -2754 12 1870 in a room of size 10x8 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStairwayPopulator at -2762 12 1861 in a room of size 9x8 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneCavern at -2740 12 1867 in a room of size 9x10 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -2774 12 1839 in a room of size 10x7 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at -2774 12 1856 in a room of size 8x8 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -2740 12 1877 in a room of size 9x10 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2775 12 1871 in a room of size 8x10 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneBasinPopulator at -2747 12 1850 in a room of size 10x8 
+[2024-08-12 04:47:57] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-08-12 04:47:57] [INFO   ] Additional Catacombs Level at: -2752,1856 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at -2749 -3 1877 in a room of size 7x8 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -2727 -3 1832 in a room of size 8x9 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -2752 -3 1836 in a room of size 8x7 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2772 -3 1881 in a room of size 8x10 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStairwayBasePopulator at -2762 -3 1861 in a room of size 9x8 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneBasinPopulator at -2740 -3 1867 in a room of size 9x11 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2738 -3 1831 in a room of size 7x8 
+[2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2740 -3 1851 in a room of size 10x7 
