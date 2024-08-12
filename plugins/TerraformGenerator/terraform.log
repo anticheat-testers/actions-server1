@@ -5896,3 +5896,6 @@
 [2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at 3000104 0 4999464 in a room of size 19x17 
 [2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at 3000129 0 4999526 in a room of size 15x18 
 [2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at 3000120 0 4999472 in a room of size 7x9 
+[2024-08-12 21:21:56] [INFO   ] Large Cave at 2999616,19,4999488 has water level > -15 with populator LargeLushCavePopulator 
+[2024-08-12 21:21:56] [INFO   ] Calculated structure at 187487,312472 
+[2024-08-12 21:22:15] [INFO   ] Spawning FrozenCavePopulator at 2999748,33,4999679 
