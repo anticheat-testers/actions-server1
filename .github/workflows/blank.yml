@@ -17,11 +17,11 @@ jobs:
           fetch-tags: false
           persist-credentials: true
           token: ${{ secrets.FINE_GRAINED_PAT }}  # Use fine-grained PAT for checkout
-      - uses: graalvm/setup-graalvm@v1
+      - uses: actions/setup-java@v3
         with:
-          java-version: '17'
-          distribution: 'graalvm'
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          java-version: '8'
+          distribution: 'temurin'
+          
       - name: Add Cloudflare repository
         run: |
           sudo mkdir -p --mode=0755 /usr/share/keyrings
