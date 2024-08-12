@@ -38,3 +38,13 @@ be6d2a29-3a11-40c4-a4fb-7b970d6aa48f:
   Alert Listing Bought: false
   Auto Confirm Listing: false
   Sounds: true
+986b22e3-d4d4-4fab-88b2-01d5a975b505:
+  Username: odragclicker
+  Alert Create Listings: true
+  Open Admin Mode: false
+  Alert Near Expire:
+    Status: false
+    Time: 300
+  Alert Listing Bought: false
+  Auto Confirm Listing: false
+  Sounds: true
