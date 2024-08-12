@@ -9,3 +9,4 @@
 (18:09:03) Matrix Enabled! Version: 7.7.26A
 (18:15:17) Matrix Enabled! Version: 7.7.26A
 (18:17:47) Matrix Enabled! Version: 7.7.26A
+(20:25:06) Briiqn failed Move check | unexpected horizontal movement (motion: 1.038/0.25, buffer: 0.788/false, vet: 0.0, vec: 0.053, ground: +,+, spr: +, add: 0.13, past: 0.0,0.097, fr: 0.6, setback: +, vel: none, from: 22.0, rv: empty, ptags: collision, tags: collision,hor_fast_setback)() | vl:5(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
