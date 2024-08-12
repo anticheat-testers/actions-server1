@@ -20,6 +20,14 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    spawn:
+        min: {x: -209, y: -3, z: -174}
+        max: {x: 100, y: 280, z: 199}
+        members: {}
+        flags: {build: deny, use: allow, block-break: deny, chest-access: allow, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
     __global__:
         members: {}
         flags:
@@ -27,18 +35,18 @@ regions:
             lava-fire: deny
             water-flow: deny
             use: deny
-            snow-fall: deny
             leaf-decay: deny
+            snow-fall: deny
             firework-damage: deny
             coral-fade: deny
             mob-damage: deny
             ravager-grief: deny
-            use-anvil: deny
             respawn-anchors: deny
+            use-anvil: deny
             mushroom-growth: deny
             lightning: deny
-            ice-form: deny
             wither-damage: deny
+            ice-form: deny
             enderman-grief: deny
             pvp: deny
             mob-spawning: deny
@@ -56,8 +64,8 @@ regions:
             mycelium-spread: deny
             ice-melt: deny
             block-trampling: deny
-            interact: deny
             vehicle-destroy: deny
+            interact: deny
             chest-access: deny
             ride: deny
             fire-spread: deny
