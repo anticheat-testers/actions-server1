@@ -17,3 +17,5 @@
 2024-08-12 00:29:18 [INFO]: Database PLAYERS:Players configured and loaded!
 2024-08-12 00:29:20 [INFO]: Attempting to queue up some more safe locations...
 2024-08-12 00:29:20 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
+2024-08-12 00:29:31 [INFO]: Queue position generated: id= default_spawn, database_ID= 134, location= x: 954, y: 66, z: -859, world: spawn
+2024-08-12 00:29:39 [INFO]: Queue position generated: id= default_spawn, database_ID= 135, location= x: -975, y: 86, z: 824, world: spawn
