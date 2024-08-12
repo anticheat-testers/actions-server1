@@ -3832,3 +3832,5 @@
 [2024-08-12 04:43:58] [INFO   ] Spawning Desert Well at -2768,20,-1692 
 [2024-08-12 04:44:01] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -172,-140 
 [2024-08-12 04:44:09] [INFO   ] Minecart with chest at: -132, 15, -2282 
+[2024-08-12 04:44:19] [INFO   ] Minecart with chest at: 1350, 19, -2285 
+[2024-08-12 04:44:47] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -142,115 
