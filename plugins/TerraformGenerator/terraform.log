@@ -3764,3 +3764,11 @@
 [2024-08-12 04:38:04] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 40,-138 
 [2024-08-12 04:38:04] [INFO   ] Spawning Underground Dungeon at 650,35,-2199 
 [2024-08-12 04:38:05] [INFO   ] Minecart with chest at: 828, 12, -2194 
+[2024-08-12 04:38:13] [INFO   ] Minecart with chest at: 1278, 29, -1158 
+[2024-08-12 04:38:20] [INFO   ] Generating org.terraform.structure.small.WitchHutPopulator at chunk: 79,-17 
+[2024-08-12 04:38:21] [INFO   ] Spawning Swamp Hut at 1278,65,-268 
+[2024-08-12 04:39:11] [INFO   ] Minecart with chest at: -123, 15, -2217 
+[2024-08-12 04:40:00] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -170,-17 
+[2024-08-12 04:40:00] [INFO   ] Spawning Underground Dungeon at -2715,26,-263 
+[2024-08-12 04:40:02] [INFO   ] Minecart with chest at: -2715, 20, -751 
+[2024-08-12 04:40:03] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -170,-59 
