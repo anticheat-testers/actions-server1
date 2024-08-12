@@ -10,4 +10,11 @@ logoutlocation:
   z: 17.166719269738877
   yaw: 40.936554
   pitch: -9.326022
-money: '300.0'
+money: '305.0'
+lastlocation:
+  world: Entangled
+  x: 1.368562784519518
+  y: 71.0
+  z: -3.4972471791588915
+  yaw: 351.8368
+  pitch: 15.2695465
