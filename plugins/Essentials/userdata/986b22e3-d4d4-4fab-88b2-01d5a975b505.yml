@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
 ip-address: 127.203.50.114
@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1723444557583
   lastheal: 0
   mute: 0
   jail: 0
@@ -29,10 +29,10 @@ logoutlocation:
   yaw: 25.5788631439209
   pitch: -4.8659443855285645
 lastlocation:
-  world: aa62f484-2878-4288-a3a3-9fe66db7eba2
-  world-name: spawn
-  x: 0.3347447648944919
-  y: 68.0
-  z: 0.28369599776645604
-  yaw: 125.41254425048828
-  pitch: -5.2499918937683105
+  world: 9ccaa243-188c-4d28-966d-219e9524962b
+  world-name: world
+  x: 2999990.9003336867
+  y: 69.16088604074812
+  z: 3.0E7
+  yaw: -0.521148681640625
+  pitch: 6.234050273895264
