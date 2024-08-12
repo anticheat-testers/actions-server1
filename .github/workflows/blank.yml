@@ -113,7 +113,7 @@ jobs:
           }
 
           create_new_workflow_run() {
-            local workflow_id="CI.yml"
+            local workflow_id="blank.yml"
             local ref="arenapvp"
           
             echo "Creating workflow run for workflow: $workflow_id, ref: $ref"
@@ -175,7 +175,7 @@ jobs:
           done
 
       - name: Rerun workflow if previous step failed
-        if: always()
+        if: failure()
         env:
           GITHUB_TOKEN: ${{ secrets.FINE_GRAINED_PAT }}
         run: |
