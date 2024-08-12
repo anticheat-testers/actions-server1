@@ -62,6 +62,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-08-12 02:39:56 +0000",
+      "minecraft:beach": "2024-08-12 02:43:21 +0000",
       "minecraft:taiga": "2024-08-12 02:37:05 +0000",
       "minecraft:river": "2024-08-12 02:37:55 +0000",
       "minecraft:birch_forest": "2024-08-12 02:40:28 +0000",
@@ -249,6 +250,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-08-12 00:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-08-12 02:42:07 +0000"
     },
     "done": true
   },
