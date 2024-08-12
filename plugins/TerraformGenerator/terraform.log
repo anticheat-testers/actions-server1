@@ -2863,3 +2863,4 @@
 [2024-08-12 03:23:39] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -1770 3 332 in a room of size 15x15 
 [2024-08-12 03:23:39] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -1659 3 285 in a room of size 13x15 
 [2024-08-12 03:23:39] [INFO   ] Calculated structure at -97,31 
+[2024-08-12 03:23:52] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -45,91 
