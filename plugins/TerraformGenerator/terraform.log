@@ -6011,3 +6011,4 @@
 [2024-08-12 22:01:07] [INFO   ] Spawning DripstoneClusterCavePopulator at 3000020,-25,4999499 
 [2024-08-12 22:01:22] [INFO   ] Large Cave at 2999616,19,4999488 has water level > -15 with populator LargeLushCavePopulator 
 [2024-08-12 22:01:22] [INFO   ] Calculated structure at 187487,312478 
+[2024-08-12 22:02:16] [INFO   ] Spawning FrozenCavePopulator at 2999748,33,4999679 
