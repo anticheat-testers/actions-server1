@@ -6006,3 +6006,8 @@
 [2024-08-12 22:00:59] [INFO   ] Spawning MossyCavePopulator at 3000064,52,4999488 
 [2024-08-12 22:00:59] [INFO   ] Spawning DeepCavePopulator at 3000064,-37,4999494 
 [2024-08-12 22:00:59] [INFO   ] Spawning CaveFluidClusterPopulator at 3000047,43,4999516 
+[2024-08-12 22:01:05] [INFO   ] Spawning CrystallineClusterCavePopulator at 3000383,26,4999466 
+[2024-08-12 22:01:05] [INFO   ] Spawning LushClusterCavePopulator at 3000461,13,4999470 
+[2024-08-12 22:01:07] [INFO   ] Spawning DripstoneClusterCavePopulator at 3000020,-25,4999499 
+[2024-08-12 22:01:22] [INFO   ] Large Cave at 2999616,19,4999488 has water level > -15 with populator LargeLushCavePopulator 
+[2024-08-12 22:01:22] [INFO   ] Calculated structure at 187487,312478 
