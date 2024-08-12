@@ -263,3 +263,58 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ xNotJames was punished for Improbable (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 15.595844662588746
+ - Y: 63.0
+ - Z: -7.716570776584135
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 659
+ - Transaction Ping: 535
+ - Server TPS: 19.98
+ - Sensitivity: 74
+ - Gamemode: ADVENTURE
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 77.45 seconds ago
+
+Total Violations: 37
+ - Combat Violations: 0
+ - Movement Violations: 36
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 430
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 1549
+ - Since Firework Ticks: 1409
+ - Ticks Existed: 1449
+ - Since Vehicle Ticks: 1309
+ - Since Liquid Ticks: 1309
+ - Queued Transactions: 2
+ - Joined: 76 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type B) [VL: 10] (Invalid Y-Axis movement.)
+ - Flight (Type C) [VL: 3] (Invalid Y-Axis movement.)
+ - Jump (Type A) [VL: 5] (Invalid jump motion.)
+ - Jump (Type C) [VL: 1] (Invalid jump motion.)
+ - Motion (Type A) [VL: 6] (Repeated vertical motions.)
+ - Speed (Type B) [VL: 5] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 2] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 5] (Moving too quickly on the ground.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(2147482274t-x0)]
+---------------------------------------------------------------------------
+
+
