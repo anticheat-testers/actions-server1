@@ -3221,3 +3221,7 @@
 [2024-08-12 04:00:48] [INFO   ] Calculated structure at -129,31 
 [2024-08-12 04:00:58] [INFO   ] Large Cave at -2240,6,-704 has water level > -26 with populator GenericLargeCavePopulator 
 [2024-08-12 04:00:58] [INFO   ] Calculated structure at -129,-33 
+[2024-08-12 04:01:53] [INFO   ] Large Cave at 1344,21,320 has water level > -26 with populator GenericLargeCavePopulator 
+[2024-08-12 04:01:54] [INFO   ] Calculated structure at 64,17 
+[2024-08-12 04:01:55] [INFO   ] Large Cave at 1344,26,832 has water level > -14 with populator MushroomCavePopulator 
+[2024-08-12 04:01:56] [INFO   ] Calculated structure at 64,32 
