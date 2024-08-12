@@ -4949,3 +4949,5 @@
 [2024-08-12 05:09:20] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2681 27 2405 in a room of size 15x15 
 [2024-08-12 05:09:20] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -2784 27 2370 in a room of size 14x7 
 [2024-08-12 05:09:20] [INFO   ] Calculated structure at -161,128 
+[2024-08-12 05:10:01] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -105,-157 
+[2024-08-12 05:10:19] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 51,-157 
