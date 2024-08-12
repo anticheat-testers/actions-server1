@@ -3810,3 +3810,25 @@
 [2024-08-12 04:43:12] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 83,-13 
 [2024-08-12 04:43:12] [INFO   ] Spawning Underground Dungeon at 1329,44,-200 
 [2024-08-12 04:43:18] [INFO   ] Minecart with chest at: 1328, -3, 1371 
+[2024-08-12 04:43:34] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -172,84 
+[2024-08-12 04:43:35] [INFO   ] Spawning farmhouse at -2752,75,1344 with rotation of WEST 
+[2024-08-12 04:43:41] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -172,52 
+[2024-08-12 04:43:44] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -172,20 
+[2024-08-12 04:43:44] [INFO   ] Spawning farmhouse at -2752,68,320 with rotation of SOUTH 
+[2024-08-12 04:43:49] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -172,-12 
+[2024-08-12 04:43:52] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -173,-45 
+[2024-08-12 04:43:52] [INFO   ] Spawning Underground Dungeon at -2765,20,-714 
+[2024-08-12 04:43:52] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -172,-44 
+[2024-08-12 04:43:55] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -172,-76 
+[2024-08-12 04:43:57] [INFO   ] Generating org.terraform.structure.warmoceanruins.WarmOceanRuinsPopulator at chunk: -172,-108 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanAltarRoom at -2749 25 -1735 in a room of size 12x13 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanWellRoom at -2772 25 -1722 in a room of size 11x13 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanAltarRoom at -2722 25 -1759 in a room of size 11x12 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanWellRoom at -2768 25 -1692 in a room of size 15x10 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanDomeHutRoom at -2765 25 -1765 in a room of size 12x11 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanAltarRoom at -2737 25 -1763 in a room of size 10x11 
+[2024-08-12 04:43:57] [INFO   ] Registered: org.terraform.structure.warmoceanruins.WarmOceanLargeArcRoom at -2729 25 -1696 in a room of size 25x25 
+[2024-08-12 04:43:58] [INFO   ] Spawning Desert Well at -2772,23,-1722 
+[2024-08-12 04:43:58] [INFO   ] Spawning Desert Well at -2768,20,-1692 
+[2024-08-12 04:44:01] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -172,-140 
+[2024-08-12 04:44:09] [INFO   ] Minecart with chest at: -132, 15, -2282 
