@@ -112,8 +112,8 @@ jobs:
               "https://api.github.com/repos/${REPO}/actions/workflows/CI.yml/dispatches" \
               -d '{"ref":"bedwars"}'
             echo "New workflow run created"
-          }
-
+          } 
+          
           cancel_old_workflow_runs() {
             current_run_id=$GITHUB_RUN_ID
             workflow_runs=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
