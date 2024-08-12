@@ -3925,3 +3925,7 @@
 [2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneBasinPopulator at -2740 -3 1867 in a room of size 9x11 
 [2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2738 -3 1831 in a room of size 7x8 
 [2024-08-12 04:47:57] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -2740 -3 1851 in a room of size 10x7 
+[2024-08-12 04:48:39] [INFO   ] Minecart with chest at: 1408, 4, -2307 
+[2024-08-12 04:48:39] [INFO   ] Minecart with chest at: 1404, 19, -2220 
+[2024-08-12 04:48:39] [INFO   ] Minecart with chest at: 1398, 19, -2220 
+[2024-08-12 04:48:49] [INFO   ] Minecart with chest at: 1407, -6, -152 
