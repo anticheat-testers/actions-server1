@@ -3834,3 +3834,14 @@
 [2024-08-12 04:44:09] [INFO   ] Minecart with chest at: -132, 15, -2282 
 [2024-08-12 04:44:19] [INFO   ] Minecart with chest at: 1350, 19, -2285 
 [2024-08-12 04:44:47] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -142,115 
+[2024-08-12 04:45:22] [INFO   ] Generating org.terraform.structure.small.DesertWellPopulator at chunk: -11,-144 
+[2024-08-12 04:45:22] [INFO   ] Spawning Desert Well at -170,68,-2296 
+[2024-08-12 04:45:31] [INFO   ] Minecart with chest at: 1350, 19, -2288 
+[2024-08-12 04:45:31] [INFO   ] Minecart with chest at: 1368, 19, -2256 
+[2024-08-12 04:45:31] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 84,-140 
+[2024-08-12 04:45:34] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 84,-108 
+[2024-08-12 04:45:37] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 84,-76 
+[2024-08-12 04:45:37] [INFO   ] Minecart with chest at: 1362, 29, -1175 
+[2024-08-12 04:45:39] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: 84,-44 
+[2024-08-12 04:45:39] [INFO   ] Spawning ancient city at: 1344,-18,-704 
+[2024-08-12 04:45:55] [INFO   ] Spawning sculk... 
