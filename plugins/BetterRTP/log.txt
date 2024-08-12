@@ -38,3 +38,4 @@
 2024-08-12 00:22:18 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-72.0,y=69.0,z=-150.0,pitch=0.0,yaw=0.0}
 2024-08-12 00:22:18 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=70.0,y=69.0,z=-397.0,pitch=0.0,yaw=0.0}
 2024-08-12 00:22:18 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-789.5,y=72.0,z=-677.5,pitch=32.643612,yaw=-147.41197}
+2024-08-12 00:23:08 [INFO]: kons0las executed: /rtp help
