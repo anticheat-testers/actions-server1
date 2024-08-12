@@ -5480,3 +5480,10 @@
 [2024-08-12 06:31:15] [INFO   ] Spawning DeepCavePopulator at 2999991,-33,29999991 
 [2024-08-12 06:31:15] [INFO   ] Large Cave at 3000128,25,29999936 has water level > -12 with populator GenericLargeCavePopulator 
 [2024-08-12 06:31:15] [INFO   ] Calculated structure at 187499,1874999 
+[2024-08-12 06:31:16] [INFO   ] Spawning CaveFluidClusterPopulator at 3000000,24,29999968 
+[2024-08-12 06:31:17] [INFO   ] Spawning LushClusterCavePopulator at 3000012,-28,29999956 
+[2024-08-12 06:31:21] [INFO   ] Spawning CrystallineClusterCavePopulator at 3000003,-4,29999920 
+[2024-08-12 06:31:21] [INFO   ] Spawning DripstoneClusterCavePopulator at 3000049,11,29999952 
+[2024-08-12 06:31:22] [INFO   ] Spawning FrozenCavePopulator at 3000076,-4,29999971 
+[2024-08-12 06:31:28] [INFO   ] Large Cave at 3000128,20,30000448 has water level > -24 with populator LargeLushCavePopulator 
+[2024-08-12 06:31:28] [INFO   ] Calculated structure at 187498,1875008 
