@@ -13,6 +13,14 @@
       "minecraft:taiga": "2024-08-12 06:46:45 +0000",
       "minecraft:river": "2024-08-12 06:51:55 +0000",
       "minecraft:stony_shore": "2024-08-12 23:05:15 +0000",
+      "minecraft:snowy_plains": "2024-08-12 23:24:12 +0000",
+      "minecraft:lush_caves": "2024-08-12 23:25:13 +0000",
+      "minecraft:snowy_taiga": "2024-08-12 23:24:04 +0000",
+      "minecraft:ice_spikes": "2024-08-12 23:25:33 +0000",
+      "minecraft:frozen_ocean": "2024-08-12 23:26:46 +0000",
+      "minecraft:frozen_river": "2024-08-12 23:24:16 +0000",
+      "minecraft:deep_frozen_ocean": "2024-08-12 23:24:33 +0000",
+      "minecraft:snowy_beach": "2024-08-12 23:24:24 +0000",
       "minecraft:savanna": "2024-08-12 06:51:36 +0000",
       "minecraft:plains": "2024-08-12 06:50:27 +0000"
     },
@@ -537,6 +545,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-08-12 23:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-08-12 23:24:34 +0000"
     },
     "done": true
   },
