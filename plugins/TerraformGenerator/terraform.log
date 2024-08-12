@@ -5015,3 +5015,17 @@
 [2024-08-12 05:18:39] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1826 37 -2816 in a room of size 14x14 
 [2024-08-12 05:18:39] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1917 37 -2773 in a room of size 14x14 
 [2024-08-12 05:18:39] [INFO   ] Calculated structure at 96,-161 
+[2024-08-12 05:19:45] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -188,133 
+[2024-08-12 05:19:45] [INFO   ] Spawning Underground Dungeon at -3003,40,2139 
+[2024-08-12 05:19:49] [INFO   ] Large Cave at 2368,15,1344 has water level > -32 with populator MushroomCavePopulator 
+[2024-08-12 05:19:49] [INFO   ] Calculated structure at 142,84 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 2295 27 1823 in a room of size 14x13 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2421 27 1923 in a room of size 15x14 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2415 27 1904 in a room of size 13x13 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 2328 27 1790 in a room of size 14x14 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2407 27 1781 in a room of size 15x15 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 2370 27 1858 in a room of size 13x15 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2326 27 1903 in a room of size 14x14 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2388 27 1787 in a room of size 13x13 
+[2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2375 27 1840 in a room of size 15x15 
+[2024-08-12 05:19:50] [INFO   ] Calculated structure at 142,96 

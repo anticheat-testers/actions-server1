@@ -54,3 +54,4 @@
 2024-08-12 02:45:14 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-558.5,y=69.0,z=713.5,pitch=37.709946,yaw=174.53615}
 2024-08-12 03:50:01 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-707.5,y=63.0,z=-220.5,pitch=31.477547,yaw=-82.39929}
 2024-08-12 03:58:13 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-526.5,y=63.0,z=230.5,pitch=7.3672705,yaw=124.19587}
+2024-08-12 05:19:44 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=566.5,y=84.0,z=-209.5,pitch=37.950325,yaw=-78.85022}
