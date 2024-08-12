@@ -33,7 +33,7 @@ skills:
   auraskills/foraging:
     level: 0
     xp: 13.6
-mana: 34.0
+mana: 33.55999999999997
 action_bar:
   idle: true
 stat_modifiers:
