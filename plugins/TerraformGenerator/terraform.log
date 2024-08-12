@@ -2683,3 +2683,5 @@
 [2024-08-12 02:43:36] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1730 0 -2211 in a room of size 18x15 
 [2024-08-12 02:43:36] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1751 0 -2221 in a room of size 16x19 
 [2024-08-12 02:43:36] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -1735 0 -2224 in a room of size 8x9 
+[2024-08-12 02:44:57] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -140,-140 
+[2024-08-12 02:44:57] [INFO   ] Spawning farmhouse at -2240,66,-2240 with rotation of EAST 
