@@ -2022,3 +2022,139 @@
 [2024-08-12 00:06:03] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -41,19 
 [2024-08-12 00:06:23] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 9,42 
 [2024-08-12 00:06:32] [INFO   ] Minecart with chest at: -687, 11, -678 
+[2024-08-12 00:06:56] [INFO   ] Minecart with chest at: -681, 11, -699 
+[2024-08-12 00:07:20] [INFO   ] Minecart with chest at: -714, 11, -704 
+[2024-08-12 00:07:20] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -44,-44 
+[2024-08-12 00:07:21] [INFO   ] Minecart with chest at: -255, 18, -721 
+[2024-08-12 00:07:22] [INFO   ] Minecart with chest at: -164, 18, -705 
+[2024-08-12 00:07:22] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -12,-44 
+[2024-08-12 00:07:24] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 20,-44 
+[2024-08-12 00:07:40] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -44,20 
+[2024-08-12 00:07:42] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -44,-12 
+[2024-08-12 00:07:47] [INFO   ] Minecart with chest at: -150, 18, -731 
+[2024-08-12 00:07:49] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 18,-46 
+[2024-08-12 00:07:49] [INFO   ] Spawning Underground Dungeon at 298,22,-732 
+[2024-08-12 00:07:56] [INFO   ] Generating org.terraform.structure.small.WitchHutPopulator at chunk: 46,39 
+[2024-08-12 00:07:56] [INFO   ] Spawning Swamp Hut at 745,65,625 
+[2024-08-12 00:08:07] [INFO   ] Minecart with chest at: -732, 21, -168 
+[2024-08-12 00:08:08] [INFO   ] Minecart with chest at: -732, 21, -250 
+[2024-08-12 00:08:10] [INFO   ] Minecart with chest at: -723, 11, -666 
+[2024-08-12 00:08:10] [INFO   ] Minecart with chest at: -739, 11, -738 
+[2024-08-12 00:08:10] [INFO   ] Minecart with chest at: -687, 11, -751 
+[2024-08-12 00:08:24] [INFO   ] Minecart with chest at: 363, 37, 764 
+[2024-08-12 00:08:24] [INFO   ] Minecart with chest at: 362, 22, 762 
+[2024-08-12 00:08:24] [INFO   ] Minecart with chest at: 340, 22, 762 
+[2024-08-12 00:08:24] [INFO   ] Minecart with chest at: 312, 37, 756 
+[2024-08-12 00:08:35] [INFO   ] Minecart with chest at: -737, 11, -666 
+[2024-08-12 00:08:36] [INFO   ] Minecart with chest at: -687, 11, -764 
+[2024-08-12 00:08:36] [INFO   ] Minecart with chest at: -687, 11, -754 
+[2024-08-12 00:08:38] [INFO   ] Minecart with chest at: -213, 18, -762 
+[2024-08-12 00:08:41] [INFO   ] Minecart with chest at: 354, 1, -761 
+[2024-08-12 00:08:41] [INFO   ] Minecart with chest at: 354, 1, -756 
+[2024-08-12 00:08:43] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 46,-48 
+[2024-08-12 00:08:43] [INFO   ] Spawning Underground Dungeon at 736,47,-754 
+[2024-08-12 00:09:01] [INFO   ] Minecart with chest at: -758, 21, -129 
+[2024-08-12 00:09:09] [INFO   ] Minecart with chest at: 347, 1, -777 
+[2024-08-12 00:09:21] [INFO   ] Minecart with chest at: 315, 37, 795 
+[2024-08-12 00:09:24] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -22,49 
+[2024-08-12 00:09:24] [INFO   ] Spawning Underground Dungeon at -352,32,787 
+[2024-08-12 00:09:38] [INFO   ] [NativeGeneratorPatcher] Flushing repairs (101 chunks), pushed by cache size 
+[2024-08-12 00:09:42] [INFO   ] Minecart with chest at: 341, 37, 813 
+[2024-08-12 00:09:52] [INFO   ] Minecart with chest at: 810, 43, 804 
+[2024-08-12 00:09:53] [INFO   ] Minecart with chest at: 325, 22, 801 
+[2024-08-12 00:09:58] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -50,41 
+[2024-08-12 00:10:09] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 20,-51 
+[2024-08-12 00:10:09] [INFO   ] Spawning Underground Dungeon at 333,55,-810 
+[2024-08-12 00:10:20] [INFO   ] Minecart with chest at: 816, 28, 788 
+[2024-08-12 00:10:21] [INFO   ] Minecart with chest at: 825, 28, 824 
+[2024-08-12 00:10:24] [INFO   ] Minecart with chest at: 330, 37, 831 
+[2024-08-12 00:10:24] [INFO   ] Minecart with chest at: 315, 37, 823 
+[2024-08-12 00:10:58] [INFO   ] Minecart with chest at: 346, 22, 840 
+[2024-08-12 00:11:16] [INFO   ] Generating org.terraform.structure.pillager.mansion.MansionPopulator at chunk: 52,-44 
+[2024-08-12 00:11:18] [INFO   ] MansionGrandStairwayPopulator generating at 832,62,-704 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundLevelWarroomPopulator generating at 859,62,-713 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundLevelBrewingRoomPopulator generating at 832,62,-686 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundLevelDiningRoomPopulator generating at 832,62,-722 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundLevelForgePopulator generating at 850,62,-713 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundLevelKitchenPopulator generating at 859,62,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 832,62,-677 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 823,62,-686 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 823,62,-722 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 814,62,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 859,62,-722 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 832,62,-731 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 850,62,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 868,62,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionGroundFloorHallwayPopulator generating at 814,62,-713 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorBedroomPopulator generating at 850,70,-713 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorLoungePopulator generating at 868,70,-704 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorPianoRoomPopulator generating at 859,70,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorPianoRoomPopulator generating at 832,70,-686 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorBunkPopulator generating at 832,70,-722 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 814,70,-713 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 859,70,-722 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 823,70,-686 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 841,70,-686 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 823,70,-722 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 868,70,-713 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 814,70,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 850,70,-695 
+[2024-08-12 00:11:18] [INFO   ] MansionSecondFloorHallwayPopulator generating at 832,70,-731 
+[2024-08-12 00:11:18] [INFO   ] Kitchen at 859,62,-695 picking face: SOUTH 
+[2024-08-12 00:11:18] [INFO   ] Piano at 832,70,-686 picking face: SOUTH 
+[2024-08-12 00:11:18] [INFO   ] Piano at 859,70,-695 picking face: SOUTH 
+[2024-08-12 00:11:18] [INFO   ] Lounge at 868,70,-704 picking face: NORTH 
+[2024-08-12 00:11:18] [INFO   ] Mansion spawned 60 vindicators and evokers 
+[2024-08-12 00:11:20] [INFO   ] Generating org.terraform.structure.pillager.outpost.OutpostPopulator at chunk: 52,-12 
+[2024-08-12 00:11:20] [INFO   ] Spawning outpost at 832,63,-192 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostLogpile at 816 63 -178 in a room of size 12x12 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostCampfire at 815 63 -194 in a room of size 12x12 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostStakeCage at 834 63 -175 in a room of size 12x12 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostTent at 838 63 -209 in a room of size 12x12 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostTent at 848 63 -183 in a room of size 12x12 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostTent at 848 63 -195 in a room of size 12x12 
+[2024-08-12 00:11:21] [INFO   ] Registered: org.terraform.structure.pillager.outpost.OutpostTent at 821 63 -208 in a room of size 12x12 
+[2024-08-12 00:11:23] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,20 
+[2024-08-12 00:11:26] [INFO   ] Minecart with chest at: 855, 43, 802 
+[2024-08-12 00:11:26] [INFO   ] Minecart with chest at: 850, 43, 852 
+[2024-08-12 00:11:26] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 52,52 
+[2024-08-12 00:11:29] [INFO   ] Minecart with chest at: 315, 22, 848 
+[2024-08-12 00:11:29] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 20,52 
+[2024-08-12 00:11:29] [INFO   ] Minecart with chest at: 264, 37, 860 
+[2024-08-12 00:11:31] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -12,52 
+[2024-08-12 00:11:31] [INFO   ] Spawning ancient city at: -192,-9,832 
+[2024-08-12 00:11:40] [INFO   ] Spawning sculk... 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -248 -9 863 in a room of size 19x20 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -244 -9 841 in a room of size 25x21 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -148 -9 795 in a room of size 25x23 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -149 -9 830 in a room of size 17x19 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -153 -9 866 in a room of size 26x17 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -146 -9 772 in a room of size 24x16 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -238 -9 888 in a room of size 23x20 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -150 -9 892 in a room of size 17x23 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -188 -9 788 in a room of size 26x24 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -192 -9 870 in a room of size 24x25 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -192 -9 832 in a room of size 50x50 
+[2024-08-12 00:11:43] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -239 -9 803 in a room of size 23x24 
+[2024-08-12 00:11:43] [INFO   ] Medium Schematic 
+[2024-08-12 00:11:43] [INFO   ] Medium Schematic 
+[2024-08-12 00:11:43] [INFO   ] Small Schematic 
+[2024-08-12 00:11:43] [INFO   ] Small Schematic 
+[2024-08-12 00:11:43] [INFO   ] Small Schematic 
+[2024-08-12 00:11:43] [INFO   ] Small Schematic 
+[2024-08-12 00:11:43] [INFO   ] Large Schematic 
+[2024-08-12 00:11:46] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -44,52 
+[2024-08-12 00:12:00] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 54,-54 
+[2024-08-12 00:12:04] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 54,13 
+[2024-08-12 00:12:06] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 54,40 
+[2024-08-12 00:12:06] [INFO   ] Minecart with chest at: 876, 43, 777 
+[2024-08-12 00:12:06] [INFO   ] Minecart with chest at: 865, 43, 777 
+[2024-08-12 00:12:07] [INFO   ] Minecart with chest at: 825, 43, 868 
+[2024-08-12 00:12:09] [INFO   ] Minecart with chest at: 336, 37, 870 
+[2024-08-12 00:12:35] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 50,55 
+[2024-08-12 00:12:35] [INFO   ] Spawning Underground Dungeon at 807,31,882 
+[2024-08-12 00:12:36] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 45,55 
+[2024-08-12 00:12:36] [INFO   ] Spawning Underground Dungeon at 722,46,887 
+[2024-08-12 00:13:28] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 40,-57 
+[2024-08-12 00:13:28] [INFO   ] Spawning Underground Dungeon at 640,15,-911 
+[2024-08-12 00:13:40] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 56,57 

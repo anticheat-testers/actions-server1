@@ -80,7 +80,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-08-11 23:58:14 +0000",
+      "minecraft:frozen_ocean": "2024-08-12 00:05:18 +0000",
+      "minecraft:beach": "2024-08-12 00:10:50 +0000",
       "minecraft:forest": "2024-08-12 00:01:29 +0000",
+      "minecraft:river": "2024-08-12 00:10:45 +0000",
+      "minecraft:snowy_taiga": "2024-08-12 00:10:33 +0000",
+      "minecraft:snowy_beach": "2024-08-12 00:05:59 +0000",
       "minecraft:savanna": "2024-08-11 23:56:34 +0000",
       "minecraft:plains": "2024-08-11 23:56:48 +0000"
     },
