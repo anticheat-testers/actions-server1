@@ -2884,3 +2884,5 @@
 [2024-08-12 03:25:52] [INFO   ] Calculated structure at -65,96 
 [2024-08-12 03:25:54] [INFO   ] Large Cave at -1728,49,1856 has water level > -14 with populator MushroomCavePopulator 
 [2024-08-12 03:25:55] [INFO   ] Calculated structure at -97,96 
+[2024-08-12 03:26:37] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 9,73 
+[2024-08-12 03:26:37] [INFO   ] Spawning Underground Dungeon at 151,48,1177 
