@@ -6,11 +6,11 @@ timestamps:
 ipAddress: 127.30.38.147
 logoutlocation:
   world: world
-  x: -19.175915196885263
-  y: 69.0
-  z: 0.4946755069799452
-  yaw: -89.88387
-  pitch: 2.8524027
+  x: 2.891849947108977
+  y: 67.0
+  z: 1.4273583716961336
+  yaw: -95.075325
+  pitch: -15.126824
 money: '1725.0'
 lastlocation:
   world: bio-hazard
