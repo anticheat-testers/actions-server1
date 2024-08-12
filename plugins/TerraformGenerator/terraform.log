@@ -5324,3 +5324,7 @@
 [2024-08-12 05:32:40] [INFO   ] Spawning Underground Dungeon at -3159,19,328 
 [2024-08-12 05:32:44] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -198,-15 
 [2024-08-12 05:33:03] [INFO   ] Minecart with chest at: -1766, 18, -2676 
+[2024-08-12 05:33:21] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 9,-168 
+[2024-08-12 05:33:21] [INFO   ] Spawning Underground Dungeon at 155,55,-2676 
+[2024-08-12 05:33:34] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 109,-140 
+[2024-08-12 05:33:34] [INFO   ] Spawning Underground Dungeon at 1757,27,-2227 
