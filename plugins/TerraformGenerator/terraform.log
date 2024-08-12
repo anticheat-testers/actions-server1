@@ -4328,3 +4328,59 @@
 [2024-08-12 04:56:34] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 1403 27 1397 in a room of size 14x15 
 [2024-08-12 04:56:34] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 1308 27 1377 in a room of size 14x5 
 [2024-08-12 04:56:34] [INFO   ] Calculated structure at 91,64 
+[2024-08-12 04:56:38] [INFO   ] Large Cave at 1344,17,1856 has water level > -27 with populator MushroomCavePopulator 
+[2024-08-12 04:56:38] [INFO   ] Calculated structure at 91,96 
+[2024-08-12 04:56:46] [INFO   ] Large Cave at 832,24,1856 has water level > -17 with populator MushroomCavePopulator 
+[2024-08-12 04:56:46] [INFO   ] Calculated structure at 63,122 
+[2024-08-12 04:56:50] [INFO   ] Large Cave at 320,54,1856 has water level > -11 with populator LargeLushCavePopulator 
+[2024-08-12 04:56:50] [INFO   ] Calculated structure at 31,122 
+[2024-08-12 04:56:53] [INFO   ] Large Cave at -192,12,1856 has water level > -27 with populator MushroomCavePopulator 
+[2024-08-12 04:56:53] [INFO   ] Calculated structure at -1,122 
+[2024-08-12 04:56:55] [INFO   ] [Locate Command] Completed Locate task (272ms) 
+[2024-08-12 04:56:55] [INFO   ] [Locate Command] [OutpostPopulator] Located at X: 832 Z: -192 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1262 3 1914 in a room of size 15x15 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1186 3 1810 in a room of size 15x15 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -1278 3 1869 in a room of size 15x15 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1213 3 1832 in a room of size 14x14 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -1191 3 1930 in a room of size 13x13 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1205 3 1791 in a room of size 14x15 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1223 3 1910 in a room of size 15x15 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1223 3 1864 in a room of size 14x14 
+[2024-08-12 04:56:59] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -1187 3 1792 in a room of size 13x15 
+[2024-08-12 04:56:59] [INFO   ] Calculated structure at -65,122 
+[2024-08-12 04:57:17] [INFO   ] Large Cave at -2752,50,832 has water level > -14 with populator GenericLargeCavePopulator 
+[2024-08-12 04:57:18] [INFO   ] Calculated structure at -181,63 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2795 -9 -653 in a room of size 13x14 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2742 -9 -671 in a room of size 13x15 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2759 -9 -701 in a room of size 13x13 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2804 -9 -693 in a room of size 14x13 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2718 -9 -644 in a room of size 15x14 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2796 -9 -755 in a room of size 13x14 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2772 -9 -749 in a room of size 14x14 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2715 -9 -773 in a room of size 13x13 
+[2024-08-12 04:57:28] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2719 -9 -685 in a room of size 15x15 
+[2024-08-12 04:57:28] [INFO   ] Calculated structure at -181,-33 
+[2024-08-12 04:57:30] [INFO   ] [Locate Command] Completed Locate task (2210ms) 
+[2024-08-12 04:57:30] [INFO   ] [Locate Command] [CatacombsPopulator] Located at X: 1856 Z: 1344 
+[2024-08-12 04:57:36] [INFO   ] Generating org.terraform.structure.catacombs.CatacombsPopulator at chunk: 116,84 
+[2024-08-12 04:57:36] [INFO   ] Spawning catacombs at: 1856,1344 
+[2024-08-12 04:57:36] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStairwayPopulator at 1842 30 1359 in a room of size 8x10 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneCavern at 1854 30 1352 in a room of size 9x7 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 1868 30 1320 in a room of size 8x9 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 1832 30 1344 in a room of size 9x9 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at 1869 30 1356 in a room of size 7x8 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 1853 30 1331 in a room of size 10x7 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 1844 30 1332 in a room of size 8x10 
+[2024-08-12 04:57:40] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-08-12 04:57:40] [INFO   ] Additional Catacombs Level at: 1856,1344 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at 1833 15 1332 in a room of size 10x10 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStairwayBasePopulator at 1842 15 1359 in a room of size 8x10 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsDripstoneBasinPopulator at 1854 15 1352 in a room of size 9x7 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 1877 15 1368 in a room of size 9x7 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at 1864 15 1361 in a room of size 7x8 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at 1854 15 1319 in a room of size 10x7 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at 1838 15 1346 in a room of size 8x9 
+[2024-08-12 04:57:40] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 1865 15 1333 in a room of size 9x9 
+[2024-08-12 04:57:49] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 116,77 
+[2024-08-12 04:57:49] [INFO   ] Spawning Underground Dungeon at 1866,26,1238 
