@@ -4,13 +4,13 @@ timestamps:
   logout: 1723414121068
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Fossil
-  x: -12.937061172606823
-  y: -64.1768963798221
-  z: -47.77648593442911
-  yaw: -71.534546
-  pitch: 55.367805
-money: '180.0'
+  world: Entangled
+  x: -15.18015648178949
+  y: 64.21360000610352
+  z: -61.69999998807907
+  yaw: 181.88896
+  pitch: -1.4990915
+money: '185.0'
 logoutlocation:
   world: world
   x: 7.17783679052151
