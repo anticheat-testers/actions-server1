@@ -1,7 +1,7 @@
 lastAccountName: Briiqn
 timestamps:
-  login: 1723428946098
-  logout: 1723414121068
+  login: 1723429454923
+  logout: 1723429447913
 ipAddress: 127.30.38.147
 lastlocation:
   world: fruitcake
@@ -10,11 +10,11 @@ lastlocation:
   z: 13.702077864432486
   yaw: -1.1244178
   pitch: 20.112726
-money: '190.0'
+money: '195.0'
 logoutlocation:
-  world: world
-  x: 7.17783679052151
-  y: 63.0
-  z: -5.246675867064701
-  yaw: 228.68994
-  pitch: 15.249742
+  world: RailRoad
+  x: -13.911964954474964
+  y: 99.0
+  z: -29.261529253542772
+  yaw: -20.862272
+  pitch: 39.22609
