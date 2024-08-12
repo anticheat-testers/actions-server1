@@ -5315,3 +5315,6 @@
 [2024-08-12 05:27:31] [INFO   ] Spawning Underground Dungeon at 1201,10,-2639 
 [2024-08-12 05:27:51] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 106,43 
 [2024-08-12 05:27:51] [INFO   ] Spawning Underground Dungeon at 1698,74,697 
+[2024-08-12 05:30:04] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 13,138 
+[2024-08-12 05:30:04] [INFO   ] Spawning Drowned Dungeon at 222,2222 
+[2024-08-12 05:30:07] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -14,138 
