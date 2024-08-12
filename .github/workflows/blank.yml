@@ -123,7 +123,7 @@ jobs:
               "https://api.github.com/repos/${REPO}/actions/workflows/CI.yml/dispatches" \
               -d '{"ref":"bungeecord"}'
             echo "New workflow run created"
-          }
+          } 
 
           cancel_old_workflow_runs() {
             current_run_id=$GITHUB_RUN_ID
