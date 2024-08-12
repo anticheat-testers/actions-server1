@@ -31,9 +31,4 @@ dynamic:
   medium_ms_color: "&e"
   high_ms_color: "&c"
 
-permissions:
 
-  ping: cleanping.ping
-  others_ping: cleanping.ping.others
-  difference_ping: cleanping.ping.difference
-  reload: cleanping.reload
