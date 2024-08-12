@@ -70,20 +70,6 @@ world-settings:
   default:
     verbose: true
     nerf-spawner-mobs: false
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-      beetroot-modifier: 100
-      carrot-modifier: 100
-      potato-modifier: 100
-      vine-modifier: 100
-      cocoa-modifier: 100
     mob-spawn-range: 6
     anti-xray:
       enabled: true
@@ -141,6 +127,20 @@ world-settings:
     max-tick-time:
       tile: 50
       entity: 50
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      beetroot-modifier: 100
+      carrot-modifier: 100
+      potato-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
