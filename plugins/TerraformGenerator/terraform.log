@@ -2960,3 +2960,4 @@
 [2024-08-12 03:38:18] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -108,116 
 [2024-08-12 03:38:35] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -102,-36 
 [2024-08-12 03:38:35] [INFO   ] Spawning Underground Dungeon at -1619,93,-569 
+[2024-08-12 03:38:58] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -77,118 
