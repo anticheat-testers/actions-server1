@@ -5333,3 +5333,13 @@
 [2024-08-12 05:36:36] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -200,137 
 [2024-08-12 05:36:38] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -200,116 
 [2024-08-12 05:36:38] [INFO   ] Spawning shipwreck at -3185, 44, 1862 with rotation of EAST 
+[2024-08-12 05:36:54] [INFO   ] [NativeGeneratorPatcher] Flushing repairs (101 chunks), pushed by cache size 
+[2024-08-12 05:37:17] [INFO   ] Minecart with chest at: 1822, 9, -2703 
+[2024-08-12 05:37:17] [INFO   ] Minecart with chest at: 1816, 24, -2703 
+[2024-08-12 05:38:05] [INFO   ] Minecart with chest at: 1791, 28, -2236 
+[2024-08-12 05:38:19] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 111,15 
+[2024-08-12 05:38:19] [INFO   ] Spawning Underground Dungeon at 1789,26,248 
+[2024-08-12 05:38:22] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 111,43 
+[2024-08-12 05:38:22] [INFO   ] Spawning Underground Dungeon at 1784,84,692 
+[2024-08-12 05:38:55] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -166,142 
+[2024-08-12 05:38:55] [INFO   ] Spawning Underground Dungeon at -2655,39,2278 
