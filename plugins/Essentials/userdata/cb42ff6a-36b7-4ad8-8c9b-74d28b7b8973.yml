@@ -1,7 +1,7 @@
 lastAccountName: Briiqn
 timestamps:
   login: 1723429454923
-  logout: 1723429447913
+  logout: 1723429703155
 ipAddress: 127.30.38.147
 lastlocation:
   world: Onionring
@@ -12,9 +12,9 @@ lastlocation:
   pitch: 21.486895
 money: '320.0'
 logoutlocation:
-  world: RailRoad
-  x: -13.911964954474964
-  y: 99.0
-  z: -29.261529253542772
-  yaw: -20.862272
-  pitch: 39.22609
+  world: world
+  x: 13.601144699685362
+  y: 63.0
+  z: 6.728693251968853
+  yaw: -134.427
+  pitch: 15.008091
