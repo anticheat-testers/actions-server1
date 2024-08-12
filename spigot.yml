@@ -69,7 +69,26 @@ stats:
 world-settings:
   default:
     verbose: true
-    nerf-spawner-mobs: false
+    anti-xray:
+      enabled: true
+      engine-mode: 1
+      hide-blocks:
+      - 14
+      - 15
+      - 16
+      - 21
+      - 48
+      - 49
+      - 54
+      - 56
+      - 73
+      - 74
+      - 82
+      - 129
+      - 130
+      replace-blocks:
+      - 1
+      - 5
     entity-activation-range:
       animals: 32
       monsters: 32
@@ -120,27 +139,8 @@ world-settings:
       potato-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    anti-xray:
-      enabled: true
-      engine-mode: 1
-      hide-blocks:
-      - 14
-      - 15
-      - 16
-      - 21
-      - 48
-      - 49
-      - 54
-      - 56
-      - 73
-      - 74
-      - 82
-      - 129
-      - 130
-      replace-blocks:
-      - 1
-      - 5
     mob-spawn-range: 6
+    nerf-spawner-mobs: false
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
