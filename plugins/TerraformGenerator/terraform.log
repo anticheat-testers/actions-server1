@@ -2951,3 +2951,12 @@
 [2024-08-12 03:37:15] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 27,91 
 [2024-08-12 03:37:22] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -14,116 
 [2024-08-12 03:37:28] [INFO   ] Minecart with chest at: -1199, 4, 1869 
+[2024-08-12 03:38:03] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 20,116 
+[2024-08-12 03:38:06] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,116 
+[2024-08-12 03:38:09] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -44,116 
+[2024-08-12 03:38:09] [INFO   ] Spawning farmhouse at -704,72,1856 with rotation of SOUTH 
+[2024-08-12 03:38:11] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -44,119 
+[2024-08-12 03:38:15] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -76,116 
+[2024-08-12 03:38:18] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -108,116 
+[2024-08-12 03:38:35] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -102,-36 
+[2024-08-12 03:38:35] [INFO   ] Spawning Underground Dungeon at -1619,93,-569 
