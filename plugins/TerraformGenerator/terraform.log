@@ -5310,3 +5310,8 @@
 [2024-08-12 05:26:05] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 1853 6 765 in a room of size 14x7 
 [2024-08-12 05:26:05] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 1931 6 850 in a room of size 13x14 
 [2024-08-12 05:26:05] [INFO   ] Calculated structure at 105,32 
+[2024-08-12 05:27:29] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 58,-165 
+[2024-08-12 05:27:31] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 75,-165 
+[2024-08-12 05:27:31] [INFO   ] Spawning Underground Dungeon at 1201,10,-2639 
+[2024-08-12 05:27:51] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 106,43 
+[2024-08-12 05:27:51] [INFO   ] Spawning Underground Dungeon at 1698,74,697 
