@@ -120,7 +120,7 @@ jobs:
           create_new_workflow_run() {
             curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
               -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/${REPO}/actions/workflows/CI.yml/dispatches" \
+              "https://api.github.com/repos/${REPO}/actions/workflows/blank.yml/dispatches" \
               -d '{"ref":"bungeecord"}'
             echo "New workflow run created"
           } 
