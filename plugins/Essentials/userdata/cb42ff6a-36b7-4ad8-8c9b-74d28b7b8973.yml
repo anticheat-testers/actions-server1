@@ -4,13 +4,13 @@ timestamps:
   logout: 1723414121068
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Entangled
-  x: -15.18015648178949
-  y: 64.21360000610352
-  z: -61.69999998807907
-  yaw: 181.88896
-  pitch: -1.4990915
-money: '185.0'
+  world: fruitcake
+  x: -7.059101279284211
+  y: 102.1707870772188
+  z: 13.702077864432486
+  yaw: -1.1244178
+  pitch: 20.112726
+money: '190.0'
 logoutlocation:
   world: world
   x: 7.17783679052151
