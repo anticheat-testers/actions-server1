@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1723430400227
+  lastteleport: 1723430418311
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723429824777
+  logout: 1723430417818
   login: 1723430153276
 money: '0'
 last-account-name: Briiqn
 lastlocation:
   world: 9ccaa243-188c-4d28-966d-219e9524962b
   world-name: world
-  x: -1291.5
-  y: 177.31612629999992
-  z: -1348.5
-  yaw: 129.51461791992188
-  pitch: 60.65064239501953
+  x: -1319.8178335375123
+  y: 176.83111077584263
+  z: -1380.1947995944404
+  yaw: 108.79360961914062
+  pitch: 32.53506851196289
 logoutlocation:
   world: 9ccaa243-188c-4d28-966d-219e9524962b
   world-name: world
