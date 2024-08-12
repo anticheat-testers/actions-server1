@@ -4,13 +4,13 @@ timestamps:
   logout: 1723429447913
 ipAddress: 127.30.38.147
 lastlocation:
-  world: fruitcake
-  x: -7.059101279284211
-  y: 102.1707870772188
-  z: 13.702077864432486
-  yaw: -1.1244178
-  pitch: 20.112726
-money: '195.0'
+  world: Submerged
+  x: -3.6838995326575166
+  y: 50.07999224293162
+  z: 0.441263447712025
+  yaw: 16.395193
+  pitch: 18.79347
+money: '200.0'
 logoutlocation:
   world: RailRoad
   x: -13.911964954474964
