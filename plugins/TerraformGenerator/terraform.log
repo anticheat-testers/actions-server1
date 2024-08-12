@@ -3758,3 +3758,9 @@
 [2024-08-12 04:35:40] [INFO   ] Spawning Underground Dungeon at 1220,31,-2166 
 [2024-08-12 04:35:49] [INFO   ] [NativeGeneratorPatcher] Flushing repairs (101 chunks), pushed by cache size 
 [2024-08-12 04:36:54] [INFO   ] Minecart with chest at: 828, 12, -2181 
+[2024-08-12 04:37:27] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -168,103 
+[2024-08-12 04:37:55] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -57,-138 
+[2024-08-12 04:37:55] [INFO   ] Spawning Underground Dungeon at -902,15,-2200 
+[2024-08-12 04:38:04] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 40,-138 
+[2024-08-12 04:38:04] [INFO   ] Spawning Underground Dungeon at 650,35,-2199 
+[2024-08-12 04:38:05] [INFO   ] Minecart with chest at: 828, 12, -2194 
