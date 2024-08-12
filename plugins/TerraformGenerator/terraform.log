@@ -5811,3 +5811,8 @@
 [2024-08-12 18:20:49] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000158 9 4999957 in a room of size 15x13 
 [2024-08-12 18:20:49] [INFO   ] Calculated structure at 187519,312482 
 [2024-08-12 18:20:49] [INFO   ] Spawning DeepCavePopulator at 3000256,-49,4999703 
+[2024-08-12 20:07:05] [INFO   ] Spawning CrystallineClusterCavePopulator at 3000040,27,4999669 
+[2024-08-12 20:07:06] [INFO   ] Spawning CaveFluidClusterPopulator at 2999960,39,4999648 
+[2024-08-12 20:07:06] [INFO   ] Spawning LushClusterCavePopulator at 2999894,-4,4999675 
+[2024-08-12 20:07:08] [INFO   ] Large Cave at 2999616,19,4999488 has water level > -15 with populator LargeLushCavePopulator 
+[2024-08-12 20:07:08] [INFO   ] Calculated structure at 187487,312479 
