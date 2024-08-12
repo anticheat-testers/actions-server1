@@ -5029,3 +5029,5 @@
 [2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2388 27 1787 in a room of size 13x13 
 [2024-08-12 05:19:50] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 2375 27 1840 in a room of size 15x15 
 [2024-08-12 05:19:50] [INFO   ] Calculated structure at 142,96 
+[2024-08-12 05:20:38] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 145,92 
+[2024-08-12 05:20:47] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 148,84 
