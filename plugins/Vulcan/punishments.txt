@@ -318,3 +318,50 @@ Potion Effects: [SPEED:(2147482274t-x0)]
 ---------------------------------------------------------------------------
 
 
+--------------[ odragclicker was punished for Ground Spoof (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 28.683937450151575
+ - Y: 64.24918707874468
+ - Z: -13.246532259250614
+
+Information:
+ - UUID: 986b22e3-d4d4-4fab-88b2-01d5a975b505
+ - Keep Alive Ping: 142
+ - Transaction Ping: 254
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 11.4 seconds ago
+
+Total Violations: 5
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 5
+
+Misc Information:
+ - Since Teleport Ticks: 125
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1
+ - Since Velocity Ticks: 228
+ - Since Firework Ticks: 312
+ - Ticks Existed: 128
+ - Since Vehicle Ticks: 212
+ - Since Liquid Ticks: 212
+ - Queued Transactions: 1
+ - Joined: 6 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Ground Spoof (Type B) [VL: 5] (Spoofed OnGround value.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: [SPEED:(2147483523t-x0)]
+---------------------------------------------------------------------------
+
+
