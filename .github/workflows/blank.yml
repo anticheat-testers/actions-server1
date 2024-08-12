@@ -4,7 +4,7 @@ on:
     branches: [ "skywars" ]
   pull_request:
     branches: [ "skywars" ]
-
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-24.04
