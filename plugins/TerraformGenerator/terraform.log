@@ -3776,3 +3776,29 @@
 [2024-08-12 04:40:29] [INFO   ] Minecart with chest at: 864, 12, -2237 
 [2024-08-12 04:40:29] [INFO   ] Minecart with chest at: 894, 12, -2226 
 [2024-08-12 04:40:32] [INFO   ] Minecart with chest at: 1303, 4, -2169 
+[2024-08-12 04:41:29] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -76,-140 
+[2024-08-12 04:41:29] [INFO   ] Spawning plains village at -1216,50,-2240 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -1235 0 -2249 in a room of size 8x8 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1275 0 -2303 in a room of size 7x9 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -1216 69 -2240 in a room of size 24x24 
+[2024-08-12 04:41:31] [INFO   ] Spawning farmhouse at -1216,69,-2240 with rotation of WEST 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1249 0 -2258 in a room of size 16x16 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1255 0 -2295 in a room of size 8x10 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -1268 0 -2269 in a room of size 10x8 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1230 0 -2278 in a room of size 17x17 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -1250 0 -2280 in a room of size 19x20 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at -1271 0 -2282 in a room of size 16x16 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1219 0 -2261 in a room of size 17x16 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1286 0 -2292 in a room of size 8x7 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1267 0 -2304 in a room of size 7x10 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1241 0 -2237 in a room of size 20x16 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1234 0 -2257 in a room of size 7x8 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1287 0 -2307 in a room of size 18x16 
+[2024-08-12 04:41:31] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1238 0 -2219 in a room of size 15x15 
+[2024-08-12 04:41:34] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -44,-140 
+[2024-08-12 04:41:34] [INFO   ] Spawning animal farm at -704,87,-2240 with rotation of SOUTH 
+[2024-08-12 04:41:40] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -12,-140 
+[2024-08-12 04:41:43] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 20,-140 
+[2024-08-12 04:41:46] [INFO   ] Minecart with chest at: 803, 12, -2256 
+[2024-08-12 04:41:46] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 52,-140 
+[2024-08-12 04:41:49] [INFO   ] Minecart with chest at: 1319, 4, -2169 
