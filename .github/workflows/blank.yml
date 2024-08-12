@@ -113,19 +113,12 @@ jobs:
           }
 
           create_new_workflow_run() {
-            local workflow_id="blank.yml"
-            local ref="arenapvp"
-          
-            echo "Creating workflow run for workflow: $workflow_id, ref: $ref"
-          
-            gh workflow run "$workflow_id" --ref "$ref"
-          
-            if [ $? -eq 0 ]; then
-              echo "New workflow run created successfully"
-            else
-              echo "Error creating workflow run. Please check the workflow ID and branch name."
-            fi
-          }
+            curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${REPO}/actions/workflows/blank.yml/dispatches" \
+              -d '{"ref":"arenapvp"}'
+            echo "New workflow run created"
+          } 
 
           cancel_old_workflow_runs() {
             current_run_id=$GITHUB_RUN_ID
