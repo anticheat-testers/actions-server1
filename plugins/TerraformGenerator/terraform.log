@@ -2927,3 +2927,6 @@
 [2024-08-12 03:34:47] [INFO   ] Spawning Underground Dungeon at -1889,10,572 
 [2024-08-12 03:35:28] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -120,3 
 [2024-08-12 03:35:28] [INFO   ] Spawning Underground Dungeon at -1916,29,59 
+[2024-08-12 03:36:04] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -178,-180 
+[2024-08-12 03:36:07] [INFO   ] Large Cave at -3264,30,-2240 has water level > -5 with populator MushroomCavePopulator 
+[2024-08-12 03:36:07] [INFO   ] Calculated structure at -200,-156 
