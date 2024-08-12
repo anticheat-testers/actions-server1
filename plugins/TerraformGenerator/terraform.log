@@ -3739,3 +3739,5 @@
 [2024-08-12 04:29:39] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2757 4 -1243 in a room of size 15x13 
 [2024-08-12 04:29:39] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2814 4 -1226 in a room of size 13x15 
 [2024-08-12 04:29:39] [INFO   ] Calculated structure at -161,-65 
+[2024-08-12 04:31:20] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 73,-42 
+[2024-08-12 04:31:20] [INFO   ] Spawning Underground Dungeon at 1177,55,-672 
