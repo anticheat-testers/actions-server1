@@ -151,7 +151,7 @@ jobs:
               start_spigot
             fi
 
-            if ! kill -0 $CLOUDFLARED_PID 2>/dev/null || [ $ELAPSED_TIME -ge 18000 ]; then
+            if ! kill -0 $CLOUDFLARED_PID 2>/dev/null || [ $ELAPSED_TIME -ge 60 ]; then
               if ! kill -0 $CLOUDFLARED_PID 2>/dev/null; then
                 echo "Cloudflare Tunnel process has stopped."
               else
