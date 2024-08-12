@@ -2691,3 +2691,7 @@
 [2024-08-12 02:45:06] [INFO   ] Spawning Underground Dungeon at -1973,34,-2390 
 [2024-08-12 02:45:29] [INFO   ] Large Cave at -2240,26,-2752 has water level > -11 with populator MushroomCavePopulator 
 [2024-08-12 02:45:29] [INFO   ] Calculated structure at -137,-161 
+[2024-08-12 02:45:49] [INFO   ] Large Cave at -2752,17,-2240 has water level > -16 with populator MushroomCavePopulator 
+[2024-08-12 02:45:50] [INFO   ] Calculated structure at -161,-152 
+[2024-08-12 02:45:59] [INFO   ] Large Cave at -2752,14,-2752 has water level > -27 with populator GenericLargeCavePopulator 
+[2024-08-12 02:46:00] [INFO   ] Calculated structure at -161,-161 
