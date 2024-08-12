@@ -5426,3 +5426,6 @@
 [2024-08-12 05:49:34] [INFO   ] Spawning DripstoneClusterCavePopulator at 2260,16,1739 
 [2024-08-12 05:49:35] [INFO   ] Minecart with chest at: 2373, 9, 1817 
 [2024-08-12 05:49:40] [INFO   ] Spawning ForestedMountainsCavePopulator at 2447,-27,1919 
+[2024-08-12 05:50:21] [INFO   ] Large Cave at 2368,15,1344 has water level > -32 with populator MushroomCavePopulator 
+[2024-08-12 05:50:21] [INFO   ] Calculated structure at 158,81 
+[2024-08-12 05:50:25] [INFO   ] Spawning FrozenCavePopulator at 2818,-18,1486 
