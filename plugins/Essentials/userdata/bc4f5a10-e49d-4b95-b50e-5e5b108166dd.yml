@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723441305721
+  logout: 1723441853049
   login: 1723441431187
 money: '0'
 last-account-name: kons0las
 logoutlocation:
   world: aa62f484-2878-4288-a3a3-9fe66db7eba2
   world-name: spawn
-  x: -39.808731267523406
-  y: 67.5
-  z: -19.713622809314177
-  yaw: -177.22415161132812
-  pitch: 29.66745948791504
+  x: -20.347725322334256
+  y: 67.0
+  z: -25.48535771108656
+  yaw: -69.26580047607422
+  pitch: 14.631641387939453
 lastlocation:
   world: aa62f484-2878-4288-a3a3-9fe66db7eba2
   world-name: spawn
