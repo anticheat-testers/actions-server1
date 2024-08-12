@@ -136,6 +136,7 @@ CustomWorlds:
 Overrides:
 - master_world: world
 - creative_world: world
+- spawn: world
 
 WorldType: # Available types are NORMAL, NETHER
   - world: NORMAL
