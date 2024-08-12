@@ -3,7 +3,7 @@ teleportauto: false
 godmode: true
 muted: false
 jailed: false
-ip-address: 127.62.104.112
+ip-address: 127.30.38.147
 afk: false
 socialspy: false
 npc: false
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1723446974492
-  login: 1723446356436
+  login: 1723486823306
 money: '0'
 last-account-name: Briiqn
 lastlocation:
