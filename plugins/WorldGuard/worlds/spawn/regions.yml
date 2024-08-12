@@ -24,7 +24,8 @@ regions:
         min: {x: -209, y: -3, z: -174}
         max: {x: 100, y: 280, z: 199}
         members: {}
-        flags: {build: deny, use: allow, block-break: deny, chest-access: allow, block-place: deny}
+        flags: {build: deny, use: allow, fall-damage: deny, block-break: deny, chest-access: allow,
+            block-place: deny}
         owners: {}
         type: cuboid
         priority: 0
@@ -41,12 +42,12 @@ regions:
             coral-fade: deny
             mob-damage: deny
             ravager-grief: deny
-            respawn-anchors: deny
             use-anvil: deny
+            respawn-anchors: deny
             mushroom-growth: deny
             lightning: deny
-            wither-damage: deny
             ice-form: deny
+            wither-damage: deny
             enderman-grief: deny
             pvp: deny
             mob-spawning: deny
@@ -89,8 +90,8 @@ regions:
             item-drop: deny
             soil-dry: deny
             exp-drops: deny
-            build: deny
             copper-fade: deny
+            build: deny
             fall-damage: deny
             item-frame-rotation: deny
             item-pickup: deny
