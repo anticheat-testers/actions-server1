@@ -4,7 +4,7 @@ on:
     branches: [ "survival" ]
   pull_request:
     branches: [ "survival" ]
-
+  workflow_dispatch:
 
 jobs:
   build:
