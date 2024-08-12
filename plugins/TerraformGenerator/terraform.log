@@ -5622,3 +5622,7 @@
 [2024-08-12 06:39:46] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000093 37 15000416 in a room of size 14x14 
 [2024-08-12 06:39:46] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000147 37 15000390 in a room of size 14x14 
 [2024-08-12 06:39:46] [INFO   ] Calculated structure at 187497,937504 
+[2024-08-12 06:39:55] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 187493,937494 
+[2024-08-12 06:39:55] [INFO   ] Spawning Underground Dungeon at 2999897,27,14999917 
+[2024-08-12 06:40:31] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 187483,312493 
+[2024-08-12 06:40:31] [INFO   ] Spawning Underground Dungeon at 2999729,11,4999901 
