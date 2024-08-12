@@ -5,7 +5,7 @@ skills:
     xp: 0.0
   auraskills/excavation:
     level: 0
-    xp: 20.999999999999986
+    xp: 22.19999999999998
   auraskills/fighting:
     level: 0
     xp: 14.0
@@ -33,11 +33,6 @@ skills:
   auraskills/foraging:
     level: 0
     xp: 13.6
-mana: 34.0
+mana: 32.0
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: AbilityModifier-WiseEffect
-    stat: auraskills/wisdom
-    value: 1.0
