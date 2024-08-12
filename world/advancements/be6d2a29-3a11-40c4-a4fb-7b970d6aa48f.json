@@ -61,7 +61,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:savanna": "2024-08-12 00:55:52 +0000"
+      "minecraft:snowy_slopes": "2024-08-12 02:39:56 +0000",
+      "minecraft:taiga": "2024-08-12 02:37:05 +0000",
+      "minecraft:river": "2024-08-12 02:37:55 +0000",
+      "minecraft:birch_forest": "2024-08-12 02:40:28 +0000",
+      "minecraft:stony_shore": "2024-08-12 02:38:15 +0000",
+      "minecraft:snowy_taiga": "2024-08-12 02:39:02 +0000",
+      "minecraft:savanna": "2024-08-12 00:55:52 +0000",
+      "minecraft:plains": "2024-08-12 02:36:58 +0000"
     },
     "done": false
   },
