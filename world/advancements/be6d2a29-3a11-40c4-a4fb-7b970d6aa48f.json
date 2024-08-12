@@ -61,13 +61,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-08-12 02:47:44 +0000",
       "minecraft:snowy_slopes": "2024-08-12 02:39:56 +0000",
       "minecraft:beach": "2024-08-12 02:43:21 +0000",
+      "minecraft:dark_forest": "2024-08-12 02:45:17 +0000",
+      "minecraft:forest": "2024-08-12 02:44:52 +0000",
       "minecraft:taiga": "2024-08-12 02:37:05 +0000",
+      "minecraft:mangrove_swamp": "2024-08-12 02:45:18 +0000",
+      "minecraft:deep_ocean": "2024-08-12 02:47:48 +0000",
       "minecraft:river": "2024-08-12 02:37:55 +0000",
-      "minecraft:birch_forest": "2024-08-12 02:40:28 +0000",
       "minecraft:stony_shore": "2024-08-12 02:38:15 +0000",
       "minecraft:snowy_taiga": "2024-08-12 02:39:02 +0000",
+      "minecraft:jungle": "2024-08-12 02:45:34 +0000",
+      "minecraft:birch_forest": "2024-08-12 02:40:28 +0000",
       "minecraft:savanna": "2024-08-12 00:55:52 +0000",
       "minecraft:plains": "2024-08-12 02:36:58 +0000"
     },
