@@ -4,9 +4,7 @@ on:
     branches: [ "survival" ]
   pull_request:
     branches: [ "survival" ]
-  workflow_dispatch:
-  schedule:
-    - cron: '0 */5 * * *'  # Run every 5 hours
+
 
 jobs:
   build:
