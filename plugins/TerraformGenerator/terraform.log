@@ -3384,3 +3384,9 @@
 [2024-08-12 04:12:08] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -140,-76 
 [2024-08-12 04:12:08] [INFO   ] Spawning farmhouse at -2240,70,-1216 with rotation of SOUTH 
 [2024-08-12 04:12:14] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -140,-108 
+[2024-08-12 04:12:24] [INFO   ] Minecart with chest at: -255, -4, -1766 
+[2024-08-12 04:12:24] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -14,-111 
+[2024-08-12 04:12:24] [INFO   ] Spawning Underground Dungeon at -218,21,-1767 
+[2024-08-12 04:13:00] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -46,-112 
+[2024-08-12 04:13:03] [INFO   ] Minecart with chest at: -210, -4, -1788 
+[2024-08-12 04:13:03] [INFO   ] Minecart with chest at: -182, 11, -1791 
