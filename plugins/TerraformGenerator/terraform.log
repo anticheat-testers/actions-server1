@@ -3290,3 +3290,97 @@
 [2024-08-12 04:10:12] [INFO   ] Minecart with chest at: -199, 11, -1722 
 [2024-08-12 04:10:12] [INFO   ] Minecart with chest at: -199, 11, -1713 
 [2024-08-12 04:10:12] [INFO   ] Minecart with chest at: -178, -4, -1725 
+[2024-08-12 04:10:31] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -139,50 
+[2024-08-12 04:10:31] [INFO   ] Spawning shipwreck at -2209, 40, 806 with rotation of SOUTH 
+[2024-08-12 04:10:46] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -76,-108 
+[2024-08-12 04:10:50] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -44,-108 
+[2024-08-12 04:10:51] [INFO   ] Spawning mountainhouse at -704,116,-1728 with rotation of SOUTH 
+[2024-08-12 04:10:54] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -12,-108 
+[2024-08-12 04:10:56] [INFO   ] Generating org.terraform.structure.pyramid.PyramidPopulator at chunk: 20,-108 
+[2024-08-12 04:10:57] [INFO   ] Spawning Pyramid at: 320,-1728 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 303 47 -1718 in a room of size 12x13 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CryptRoom at 343 47 -1763 in a room of size 12x14 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 301 47 -1741 in a room of size 5x5 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 315 47 -1723 in a room of size 12x15 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 328 47 -1718 in a room of size 14x14 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 289 47 -1762 in a room of size 13x12 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 355 47 -1754 in a room of size 12x14 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 309 47 -1762 in a room of size 13x14 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 339 47 -1694 in a room of size 13x12 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.GuardianChamberPopulator at 352 47 -1695 in a room of size 11x10 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 350 47 -1714 in a room of size 13x13 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 310 47 -1745 in a room of size 14x14 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 336 47 -1706 in a room of size 12x11 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 322 47 -1699 in a room of size 13x11 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 307 47 -1693 in a room of size 15x11 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 325 47 -1707 in a room of size 5x5 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.HuskTombPopulator at 325 47 -1740 in a room of size 11x11 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 290 47 -1736 in a room of size 10x14 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.MainEntrancePopulator at 320 47 -1688 in a room of size 9x9 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 312 47 -1711 in a room of size 5x5 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 286 47 -1750 in a room of size 13x12 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 311 47 -1704 in a room of size 5x5 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 303 47 -1731 in a room of size 10x12 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 338 47 -1733 in a room of size 15x12 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 290 47 -1718 in a room of size 14x11 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.CursedChamber at 331 47 -1753 in a room of size 13x12 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.TrapChestChamberPopulator at 355 47 -1737 in a room of size 10x11 
+[2024-08-12 04:11:00] [INFO   ] Registered: org.terraform.structure.pyramid.SilverfishNestPopulator at 291 47 -1697 in a room of size 12x12 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 349 55 -1751 in a room of size 5x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 325 55 -1707 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 312 55 -1711 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 330 55 -1716 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 337 55 -1737 in a room of size 6x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 300 55 -1732 in a room of size 6x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 301 55 -1723 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 320 55 -1707 in a room of size 6x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 350 55 -1729 in a room of size 6x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 307 55 -1745 in a room of size 5x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 332 55 -1706 in a room of size 5x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 301 55 -1741 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.HuskTombPopulator at 309 55 -1754 in a room of size 6x8 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 334 55 -1723 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 302 55 -1701 in a room of size 6x6 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayRoomPopulator at 320 55 -1741 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.MazeLevelMonsterRoom at 342 55 -1742 in a room of size 6x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 311 55 -1704 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 320 63 -1741 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 334 63 -1723 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.GenericAntechamber at 339 63 -1746 in a room of size 9x7 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.WarAntechamber at 330 63 -1748 in a room of size 7x9 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.TreasureAntechamber at 328 63 -1710 in a room of size 10x8 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.EnchantmentAntechamber at 314 63 -1710 in a room of size 8x9 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.TerracottaRoom at 306 63 -1732 in a room of size 9x9 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.TreasureAntechamber at 300 63 -1745 in a room of size 10x9 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.ElderGuardianChamber at 320 63 -1728 in a room of size 20x20 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.GenericAntechamber at 300 63 -1711 in a room of size 9x10 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.GenericAntechamber at 314 63 -1746 in a room of size 8x8 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.WarAntechamber at 303 63 -1722 in a room of size 7x10 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.PyramidStairwayTopPopulator at 330 63 -1716 in a room of size 5x5 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.TreasureAntechamber at 337 63 -1738 in a room of size 10x9 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.TreasureAntechamber at 339 63 -1729 in a room of size 10x7 
+[2024-08-12 04:11:01] [INFO   ] Registered: org.terraform.structure.pyramid.WarAntechamber at 338 63 -1713 in a room of size 8x7 
+[2024-08-12 04:11:07] [INFO   ] Minecart with chest at: 813, 29, -1213 
+[2024-08-12 04:11:16] [INFO   ] Minecart with chest at: -2234, 17, 852 
+[2024-08-12 04:11:30] [INFO   ] Minecart with chest at: -2256, 30, -1746 
+[2024-08-12 04:11:37] [INFO   ] Minecart with chest at: -153, 11, -1758 
+[2024-08-12 04:11:53] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -141,74 
+[2024-08-12 04:11:55] [INFO   ] Minecart with chest at: -2254, 17, 879 
+[2024-08-12 04:11:55] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -140,52 
+[2024-08-12 04:11:58] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -140,20 
+[2024-08-12 04:12:00] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -140,-12 
+[2024-08-12 04:12:00] [INFO   ] Spawning plains village at -2240,50,-192 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -2246 0 -213 in a room of size 10x10 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -2279 0 -177 in a room of size 16x16 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -2240 56 -193 in a room of size 24x24 
+[2024-08-12 04:12:03] [INFO   ] Spawning farmhouse at -2240,64,-193 with rotation of WEST 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -2263 0 -194 in a room of size 17x16 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -2275 0 -244 in a room of size 8x8 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -2264 0 -232 in a room of size 18x16 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -2265 0 -212 in a room of size 15x16 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -2293 0 -248 in a room of size 20x16 
+[2024-08-12 04:12:03] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -2260 0 -178 in a room of size 10x10 
+[2024-08-12 04:12:05] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -140,-44 
+[2024-08-12 04:12:08] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -140,-76 
+[2024-08-12 04:12:08] [INFO   ] Spawning farmhouse at -2240,70,-1216 with rotation of SOUTH 
+[2024-08-12 04:12:14] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -140,-108 
