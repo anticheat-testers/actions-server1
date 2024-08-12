@@ -4,7 +4,7 @@ on:
     branches: [ "arenapvp" ]
   pull_request:
     branches: [ "arenapvp" ]
-
+  workflow_dispatch:
 
 jobs:
   build:
