@@ -5330,3 +5330,6 @@
 [2024-08-12 05:33:34] [INFO   ] Spawning Underground Dungeon at 1757,27,-2227 
 [2024-08-12 05:34:26] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -138,140 
 [2024-08-12 05:34:26] [INFO   ] Spawning Underground Dungeon at -2202,35,2243 
+[2024-08-12 05:36:36] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -200,137 
+[2024-08-12 05:36:38] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -200,116 
+[2024-08-12 05:36:38] [INFO   ] Spawning shipwreck at -3185, 44, 1862 with rotation of EAST 
