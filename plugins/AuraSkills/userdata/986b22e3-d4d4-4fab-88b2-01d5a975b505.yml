@@ -5,7 +5,7 @@ skills:
     xp: 0.0
   auraskills/defense:
     level: 0
-    xp: 22.96399974822998
+    xp: 25.043999671936035
   auraskills/excavation:
     level: 0
     xp: 2.4
@@ -32,7 +32,7 @@ skills:
     xp: 0.0
   auraskills/alchemy:
     level: 0
-    xp: 0.0
+    xp: 60.0
 mana: 20.0
 action_bar:
   idle: true
