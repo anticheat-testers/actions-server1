@@ -2719,3 +2719,9 @@
 [2024-08-12 02:47:49] [INFO   ] Large Cave at -3264,30,-2240 has water level > -5 with populator MushroomCavePopulator 
 [2024-08-12 02:47:49] [INFO   ] Calculated structure at -193,-160 
 [2024-08-12 02:57:46] [INFO   ] Minecart with chest at: -3255, 22, -2722 
+[2024-08-12 03:16:15] [INFO   ] Large Cave at -704,18,320 has water level > -7 with populator LargeLushCavePopulator 
+[2024-08-12 03:16:15] [INFO   ] Calculated structure at -64,27 
+[2024-08-12 03:16:17] [INFO   ] Large Cave at -704,19,832 has water level > -20 with populator GenericLargeCavePopulator 
+[2024-08-12 03:16:17] [INFO   ] Calculated structure at -64,57 
+[2024-08-12 03:16:24] [INFO   ] Large Cave at -1216,16,320 has water level > -29 with populator GenericLargeCavePopulator 
+[2024-08-12 03:16:24] [INFO   ] Calculated structure at -65,26 
