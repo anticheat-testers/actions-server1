@@ -3108,3 +3108,20 @@
 [2024-08-12 03:55:44] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -118,-85 
 [2024-08-12 03:55:59] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -118,-81 
 [2024-08-12 03:55:59] [INFO   ] Spawning Underground Dungeon at -1882,19,-1282 
+[2024-08-12 03:57:04] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 9,-91 
+[2024-08-12 03:57:04] [INFO   ] Spawning Underground Dungeon at 151,23,-1444 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 869 29 -1277 in a room of size 13x14 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 840 29 -1142 in a room of size 13x13 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 757 29 -1150 in a room of size 15x14 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 814 29 -1266 in a room of size 13x15 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 851 29 -1264 in a room of size 13x15 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 803 29 -1229 in a room of size 13x14 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 794 29 -1162 in a room of size 15x15 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 803 29 -1197 in a room of size 15x15 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 871 29 -1178 in a room of size 14x15 
+[2024-08-12 03:57:06] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 838 29 -1211 in a room of size 15x15 
+[2024-08-12 03:57:06] [INFO   ] Calculated structure at 32,-91 
+[2024-08-12 03:57:28] [INFO   ] Large Cave at 832,26,1344 has water level > -8 with populator MushroomCavePopulator 
+[2024-08-12 03:57:28] [INFO   ] Calculated structure at 32,64 
+[2024-08-12 03:58:06] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: 35,-87 
+[2024-08-12 03:58:06] [INFO   ] Spawning shipwreck at 572, 20, -1382 with rotation of EAST 

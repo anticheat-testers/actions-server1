@@ -265,5 +265,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-08-12 03:55:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
