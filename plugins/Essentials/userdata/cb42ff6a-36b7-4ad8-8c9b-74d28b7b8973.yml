@@ -4,13 +4,13 @@ timestamps:
   logout: 1723429447913
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Submerged
-  x: -3.6838995326575166
-  y: 50.07999224293162
-  z: 0.441263447712025
-  yaw: 16.395193
-  pitch: 18.79347
-money: '200.0'
+  world: Onionring
+  x: -1.8768230384741074
+  y: 90.5
+  z: -29.459810557840445
+  yaw: 18.769318
+  pitch: 21.486895
+money: '205.0'
 logoutlocation:
   world: RailRoad
   x: -13.911964954474964
