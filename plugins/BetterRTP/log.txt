@@ -19,3 +19,6 @@
 2024-08-12 00:29:20 [WARNING]: Seems like the world `spawn` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- spawn: NETHER`
 2024-08-12 00:29:31 [INFO]: Queue position generated: id= default_spawn, database_ID= 134, location= x: 954, y: 66, z: -859, world: spawn
 2024-08-12 00:29:39 [INFO]: Queue position generated: id= default_spawn, database_ID= 135, location= x: -975, y: 86, z: 824, world: spawn
+2024-08-12 00:30:10 [INFO]: Queue position generated: id= default_spawn, database_ID= 136, location= x: -949, y: 63, z: -663, world: spawn
+2024-08-12 00:30:29 [INFO]: Max attempts to create a Queue reached for default_spawn (amount: 4)
+2024-08-12 00:30:29 [INFO]: Queueing paused, max queue limit reached!
