@@ -2636,3 +2636,33 @@
 [2024-08-12 02:42:16] [INFO   ] Minecart with chest at: -1716, 18, -1741 
 [2024-08-12 02:42:16] [INFO   ] Minecart with chest at: -1730, 18, -1746 
 [2024-08-12 02:42:32] [INFO   ] Minecart with chest at: -1791, 33, -1793 
+[2024-08-12 02:42:34] [INFO   ] Minecart with chest at: -1780, 18, -1767 
+[2024-08-12 02:42:34] [INFO   ] Minecart with chest at: -1800, 18, -1763 
+[2024-08-12 02:42:34] [INFO   ] Minecart with chest at: -1689, 33, -1692 
+[2024-08-12 02:42:41] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -108,-108 
+[2024-08-12 02:42:45] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -118,-121 
+[2024-08-12 02:42:59] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -121,-133 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -2226 4 -1773 in a room of size 13x14 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -2287 4 -1746 in a room of size 13x14 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2224 4 -1739 in a room of size 15x13 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -2190 4 -1691 in a room of size 15x15 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -2225 4 -1684 in a room of size 14x15 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -2255 4 -1678 in a room of size 14x14 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -2173 4 -1687 in a room of size 13x13 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -2190 19 -1691 in a room of size 15x5 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2171 19 -1664 in a room of size 14x13 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2227 19 -1784 in a room of size 14x15 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -2226 19 -1773 in a room of size 13x6 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2277 19 -1698 in a room of size 15x15 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2231 19 -1744 in a room of size 15x13 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2297 19 -1680 in a room of size 15x14 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -2225 19 -1684 in a room of size 14x6 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2222 19 -1717 in a room of size 15x13 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2311 19 -1742 in a room of size 13x15 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -2186 19 -1675 in a room of size 14x14 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -2287 19 -1746 in a room of size 13x5 
+[2024-08-12 02:43:01] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -2173 19 -1687 in a room of size 13x6 
+[2024-08-12 02:43:01] [INFO   ] Calculated structure at -129,-125 
+[2024-08-12 02:43:02] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -123,-116 
+[2024-08-12 02:43:09] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -117,-140 
+[2024-08-12 02:43:09] [INFO   ] Spawning Underground Dungeon at -1868,24,-2234 
