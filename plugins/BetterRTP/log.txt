@@ -39,3 +39,15 @@
 2024-08-12 02:37:23 [INFO]: Queue position generated: id= rtp_world, database_ID= 149, location= x: -389, y: 72, z: -352, world: world
 2024-08-12 02:37:25 [INFO]: Queue position generated: id= rtp_world, database_ID= 150, location= x: 566, y: 84, z: -210, world: world
 2024-08-12 02:37:26 [INFO]: Queue position generated: id= rtp_world, database_ID= 151, location= x: -315, y: 77, z: -648, world: world
+2024-08-12 02:37:27 [INFO]: Queue position generated: id= rtp_world, database_ID= 152, location= x: 428, y: 68, z: 947, world: world
+2024-08-12 02:37:29 [INFO]: Queue position generated: id= rtp_world, database_ID= 153, location= x: -699, y: 105, z: -346, world: world
+2024-08-12 02:37:33 [INFO]: Queue position generated: id= rtp_world, database_ID= 154, location= x: -766, y: 69, z: 737, world: world
+2024-08-12 02:37:35 [INFO]: Queue position generated: id= rtp_world, database_ID= 155, location= x: -793, y: 73, z: 222, world: world
+2024-08-12 02:37:36 [INFO]: Queue position generated: id= rtp_world, database_ID= 156, location= x: 963, y: 87, z: -856, world: world
+2024-08-12 02:37:40 [INFO]: Queue position generated: id= rtp_world, database_ID= 157, location= x: -828, y: 67, z: 779, world: world
+2024-08-12 02:37:43 [INFO]: Queue position generated: id= rtp_world, database_ID= 158, location= x: -663, y: 66, z: 872, world: world
+2024-08-12 02:37:44 [INFO]: Queue position generated: id= rtp_world, database_ID= 159, location= x: -111, y: 72, z: 954, world: world
+2024-08-12 02:37:46 [INFO]: Queue position generated: id= rtp_world, database_ID= 160, location= x: -143, y: 69, z: -523, world: world
+2024-08-12 02:37:49 [INFO]: Queue position generated: id= rtp_world, database_ID= 161, location= x: -924, y: 69, z: 164, world: world
+2024-08-12 02:37:52 [INFO]: Queue position generated: id= rtp_world, database_ID= 162, location= x: 154, y: 73, z: 310, world: world
+2024-08-12 02:37:53 [INFO]: Max attempts to create a Queue reached for rtp_world (amount: 27)
