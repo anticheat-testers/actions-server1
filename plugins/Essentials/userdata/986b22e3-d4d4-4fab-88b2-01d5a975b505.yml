@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1723444665538
+  logout: 1723445315191
   login: 1723444669984
 money: '0'
 last-account-name: odragclicker
 logoutlocation:
   world: 9ccaa243-188c-4d28-966d-219e9524962b
   world-name: world
-  x: 2999989.895127271
-  y: 70.84049007436835
-  z: 3.0E7
-  yaw: -12.771341323852539
-  pitch: 34.8911018371582
+  x: 2999971.3577349735
+  y: 73.0
+  z: 4999913.989939917
+  yaw: -33.807586669921875
+  pitch: 32.39996337890625
 lastlocation:
   world: 9ccaa243-188c-4d28-966d-219e9524962b
   world-name: world
