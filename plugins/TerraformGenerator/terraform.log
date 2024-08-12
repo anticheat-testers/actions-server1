@@ -5475,3 +5475,8 @@
 [2024-08-12 06:15:02] [INFO   ] [Locate Command] [PyramidPopulator] Located at X: 320 Z: -1728 
 [2024-08-12 06:15:08] [INFO   ] [Locate Command] Completed Locate task (41ms) 
 [2024-08-12 06:15:08] [INFO   ] [Locate Command] [PyramidPopulator] Located at X: 320 Z: -1728 
+[2024-08-12 06:31:15] [INFO   ] Will spawn stronghold at: -419, -1344 
+[2024-08-12 06:31:15] [INFO   ] Spawning MossyCavePopulator at 2999984,10,29999984 
+[2024-08-12 06:31:15] [INFO   ] Spawning DeepCavePopulator at 2999991,-33,29999991 
+[2024-08-12 06:31:15] [INFO   ] Large Cave at 3000128,25,29999936 has water level > -12 with populator GenericLargeCavePopulator 
+[2024-08-12 06:31:15] [INFO   ] Calculated structure at 187499,1874999 
