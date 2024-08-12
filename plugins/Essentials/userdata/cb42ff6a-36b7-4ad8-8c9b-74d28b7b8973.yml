@@ -21,13 +21,13 @@ timestamps:
 money: '0'
 last-account-name: Briiqn
 lastlocation:
-  world: 9ccaa243-188c-4d28-966d-219e9524962b
-  world-name: world
-  x: -2081.3709641178625
-  y: 107.0000001
-  z: -2183.6908928197413
-  yaw: 174.53614807128906
-  pitch: 37.70994567871094
+  world: aa62f484-2878-4288-a3a3-9fe66db7eba2
+  world-name: spawn
+  x: 32.21532989323218
+  y: 75.6758087148999
+  z: 1.5360579234216667
+  yaw: -82.3992919921875
+  pitch: 31.47754669189453
 logoutlocation:
   world: aa62f484-2878-4288-a3a3-9fe66db7eba2
   world-name: spawn
