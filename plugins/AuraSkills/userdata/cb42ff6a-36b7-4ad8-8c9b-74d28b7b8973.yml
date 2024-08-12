@@ -14,7 +14,7 @@ skills:
     xp: 0.0
   auraskills/alchemy:
     level: 5
-    xp: 1350.0
+    xp: 1900.0
   auraskills/mining:
     level: 0
     xp: 11.99999999999999
@@ -29,10 +29,15 @@ skills:
     xp: 17.02500057220459
   auraskills/agility:
     level: 0
-    xp: 73.7504
+    xp: 89.15039999999999
   auraskills/foraging:
     level: 0
     xp: 13.6
-mana: 30.0
+mana: 36.0
 action_bar:
   idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 3.0
