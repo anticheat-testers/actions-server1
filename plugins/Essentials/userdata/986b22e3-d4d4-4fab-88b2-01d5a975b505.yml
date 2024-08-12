@@ -2,3 +2,11 @@ lastAccountName: odragclicker
 timestamps:
   login: 1723440100115
 ipAddress: 127.203.50.114
+lastlocation:
+  world: Senti
+  x: 34.41821117553499
+  y: 73.0
+  z: 2.026471999019945
+  yaw: -211.44727
+  pitch: 73.649925
+money: '5.0'
