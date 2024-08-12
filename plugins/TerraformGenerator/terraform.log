@@ -3103,3 +3103,8 @@
 [2024-08-12 03:55:15] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at -415 18 -1309 in a room of size 28x15 
 [2024-08-12 03:55:15] [INFO   ] Registered: org.terraform.structure.stronghold.TrapChestRoomPopulator at -462 18 -1340 in a room of size 10x10 
 [2024-08-12 03:55:15] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at -405 18 -1364 in a room of size 15x26 
+[2024-08-12 03:55:31] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -21,-86 
+[2024-08-12 03:55:31] [INFO   ] Spawning Underground Dungeon at -323,17,-1366 
+[2024-08-12 03:55:44] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -118,-85 
+[2024-08-12 03:55:59] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -118,-81 
+[2024-08-12 03:55:59] [INFO   ] Spawning Underground Dungeon at -1882,19,-1282 
