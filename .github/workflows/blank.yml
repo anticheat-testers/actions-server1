@@ -47,6 +47,8 @@ jobs:
           CF_TUNNEL_CERT: ${{secrets.CF_CERT}}
           CF_TUNNEL_UUID: ${{secrets.CF_TUNNEL_UUID_3}}
           CF_TUNNEL_UUID_CONTENT: ${{secrets.CF_TUNNEL_UUID_CONTENT_3}}
+          GH_TOKEN: ${{ github.token }}
+
         run: |
           cd $GITHUB_WORKSPACE
           mkdir ~/.cloudflared
