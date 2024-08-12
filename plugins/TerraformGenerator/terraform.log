@@ -3390,3 +3390,35 @@
 [2024-08-12 04:13:00] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -46,-112 
 [2024-08-12 04:13:03] [INFO   ] Minecart with chest at: -210, -4, -1788 
 [2024-08-12 04:13:03] [INFO   ] Minecart with chest at: -182, 11, -1791 
+[2024-08-12 04:13:10] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: 52,-108 
+[2024-08-12 04:13:10] [INFO   ] Spawning ancient city at: 832,-10,-1728 
+[2024-08-12 04:13:28] [INFO   ] Spawning sculk... 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 778 -10 -1752 in a room of size 19x20 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 877 -10 -1777 in a room of size 22x20 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 836 -10 -1692 in a room of size 26x23 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 794 -10 -1719 in a room of size 25x16 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 872 -10 -1698 in a room of size 22x19 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 873 -10 -1742 in a room of size 17x25 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 776 -10 -1676 in a room of size 16x16 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at 832 -10 -1728 in a room of size 50x50 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 807 -10 -1775 in a room of size 21x17 
+[2024-08-12 04:13:33] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 840 -10 -1776 in a room of size 16x17 
+[2024-08-12 04:13:33] [INFO   ] Medium Schematic 
+[2024-08-12 04:13:33] [INFO   ] Large Schematic 
+[2024-08-12 04:13:34] [INFO   ] Small Schematic 
+[2024-08-12 04:13:34] [INFO   ] Small Schematic 
+[2024-08-12 04:13:35] [INFO   ] Small Schematic 
+[2024-08-12 04:13:37] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 52,-76 
+[2024-08-12 04:13:58] [INFO   ] Minecart with chest at: -2286, 30, -1692 
+[2024-08-12 04:13:58] [INFO   ] Minecart with chest at: -2286, 30, -1729 
+[2024-08-12 04:14:05] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -38,-113 
+[2024-08-12 04:14:05] [INFO   ] Spawning Underground Dungeon at -597,26,-1801 
+[2024-08-12 04:14:18] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,84 
+[2024-08-12 04:14:41] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -75,-114 
+[2024-08-12 04:14:57] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 55,76 
+[2024-08-12 04:14:57] [INFO   ] Spawning Underground Dungeon at 884,30,1222 
+[2024-08-12 04:15:05] [INFO   ] Minecart with chest at: -2313, 2, 823 
+[2024-08-12 04:15:11] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -145,-7 
+[2024-08-12 04:15:11] [INFO   ] Spawning Underground Dungeon at -2306,57,-99 
+[2024-08-12 04:15:14] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -145,-43 
+[2024-08-12 04:15:14] [INFO   ] Spawning Underground Dungeon at -2312,24,-679 
