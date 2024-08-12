@@ -5856,3 +5856,43 @@
 [2024-08-12 21:15:22] [INFO   ] Java 14+ detected. 
 [2024-08-12 21:15:22] [INFO   ]  Injection success! Proceeding with generation. 
 [2024-08-12 21:15:23] [INFO   ]  world loaded. 
+[2024-08-12 21:18:29] [INFO   ] Will spawn stronghold at: -419, -1344 
+[2024-08-12 21:18:29] [INFO   ] Spawning MossyCavePopulator at 3000256,26,4999680 
+[2024-08-12 21:18:29] [INFO   ] Spawning DeepCavePopulator at 3000260,-40,4999689 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 3000175 17 5000055 in a room of size 13x14 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000153 17 4999963 in a room of size 15x14 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000113 17 4999952 in a room of size 14x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000203 17 5000026 in a room of size 15x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000109 17 4999991 in a room of size 14x14 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 3000107 17 5000033 in a room of size 13x14 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000122 17 4999977 in a room of size 14x15 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000131 17 5000073 in a room of size 13x15 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000196 17 5000039 in a room of size 13x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000160 17 4999988 in a room of size 14x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 3000175 32 5000055 in a room of size 13x6 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000191 32 4999993 in a room of size 13x14 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000203 32 4999931 in a room of size 14x15 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000158 32 4999957 in a room of size 15x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 3000107 32 5000033 in a room of size 13x6 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000167 32 4999940 in a room of size 13x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000177 32 4999980 in a room of size 14x15 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 3000192 32 5000020 in a room of size 13x14 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000084 32 4999959 in a room of size 13x13 
+[2024-08-12 21:18:29] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3000161 32 4999927 in a room of size 14x14 
+[2024-08-12 21:18:29] [INFO   ] Calculated structure at 187516,312480 
+[2024-08-12 21:18:29] [INFO   ] Spawning CaveFluidClusterPopulator at 3000280,33,4999688 
+[2024-08-12 21:18:31] [INFO   ] Spawning CrystallineClusterCavePopulator at 3000308,45,4999678 
+[2024-08-12 21:18:34] [INFO   ] Spawning LushClusterCavePopulator at 3000132,16,4999638 
+[2024-08-12 21:18:34] [INFO   ] Spawning DripstoneClusterCavePopulator at 3000140,19,4999635 
+[2024-08-12 21:19:07] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: 187508,312468 
+[2024-08-12 21:19:07] [INFO   ] Spawning plains village at 3000128,50,4999488 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at 3000128 76 4999488 in a room of size 24x24 
+[2024-08-12 21:19:08] [INFO   ] Spawning farmhouse at 3000128,74,4999488 with rotation of WEST 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 3000157 0 4999510 in a room of size 20x20 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at 3000121 0 4999504 in a room of size 9x8 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 3000104 0 4999483 in a room of size 19x20 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 3000104 0 4999513 in a room of size 19x15 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at 3000140 0 4999507 in a room of size 7x7 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at 3000104 0 4999464 in a room of size 19x17 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at 3000129 0 4999526 in a room of size 15x18 
+[2024-08-12 21:19:08] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at 3000120 0 4999472 in a room of size 7x9 
