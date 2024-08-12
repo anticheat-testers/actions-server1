@@ -29,3 +29,5 @@
 03:24:34 | Briiqn -> INTEREST - 40.72 [bank] -> Bank bal before/after: [814.41/855.13] -> Vault bal before/after: [0/0]
 03:29:34 | Briiqn -> INTEREST - 42.75 [bank] -> Bank bal before/after: [855.13/897.88] -> Vault bal before/after: [0/0]
 03:34:35 | Briiqn -> INTEREST - 44.89 [bank] -> Bank bal before/after: [897.88/942.77] -> Vault bal before/after: [0/0]
+03:39:35 | Briiqn -> INTEREST - 47.13 [bank] -> Bank bal before/after: [942.77/989.90] -> Vault bal before/after: [0/0]
+03:39:35 | xNotJames -> INTEREST - 33.50 [bank] -> Bank bal before/after: [670.03/703.53] -> Vault bal before/after: [0/0]
