@@ -2487,3 +2487,56 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Briiqn was punished for Improbable (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 9.707745146423132
+ - Y: 22.0
+ - Z: 1.143393990356161
+
+Information:
+ - UUID: cb42ff6a-36b7-4ad8-8c9b-74d28b7b8973
+ - Keep Alive Ping: 267
+ - Transaction Ping: 273
+ - Server TPS: 20
+ - Sensitivity: 0
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: HIGHER.THAN.SUPPORTED.VERSIONS
+ - Last Damage: 8.5 seconds ago
+
+Total Violations: 33
+ - Combat Violations: 0
+ - Movement Violations: 32
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 1
+ - Since Riptide Ticks: 200
+ - Flying Delay: 37
+ - Since Velocity Ticks: 170
+ - Since Firework Ticks: 268
+ - Ticks Existed: 70
+ - Since Vehicle Ticks: 168
+ - Since Liquid Ticks: 168
+ - Queued Transactions: 1
+ - Joined: 27 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type B) [VL: 3] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 1] (Invalid friction.)
+ - Speed (Type B) [VL: 5] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 8] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 5] (Moving too quickly on the ground.)
+ - Strafe (Type A) [VL: 10] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [STEP, STEP, STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, STEP, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
