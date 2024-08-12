@@ -33,6 +33,6 @@ skills:
   auraskills/defense:
     level: 0
     xp: 0.0
-mana: 21.08000000000001
+mana: 22.0
 action_bar:
   idle: true
