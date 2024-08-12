@@ -4951,3 +4951,6 @@
 [2024-08-12 05:09:20] [INFO   ] Calculated structure at -161,128 
 [2024-08-12 05:10:01] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -105,-157 
 [2024-08-12 05:10:19] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 51,-157 
+[2024-08-12 05:15:15] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -11,131 
+[2024-08-12 05:15:29] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -134,131 
+[2024-08-12 05:15:29] [INFO   ] Spawning Underground Dungeon at -2139,15,2104 
