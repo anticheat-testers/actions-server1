@@ -5399,3 +5399,9 @@
 [2024-08-12 05:42:39] [INFO   ] [Structure Registry] Registered Small Structure: DesertWellPopulator 
 [2024-08-12 05:42:39] [INFO   ] [Structure Registry] Registered Small Structure: WitchHutPopulator 
 [2024-08-12 05:42:39] [INFO   ] Creating TW instance: world - 6821038802867608420 
+[2024-08-12 05:42:40] [INFO   ]  Detected world: world, commencing injection...  
+[2024-08-12 05:42:40] [INFO   ] Creating TW instance: world - 6821038802867608420 
+[2024-08-12 05:42:40] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
+[2024-08-12 05:42:40] [INFO   ] Java 14+ detected. 
+[2024-08-12 05:42:40] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-08-12 05:42:41] [INFO   ]  world loaded. 

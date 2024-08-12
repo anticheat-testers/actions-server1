@@ -1,58 +1,19 @@
-2024-08-12 01:23:13 [INFO]: Loading Overrides...
-2024-08-12 01:23:13 [INFO]: Loading World Types...
-2024-08-12 01:23:13 [INFO]: - World Type for 'world' set to 'NORMAL'
-2024-08-12 01:23:13 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2024-08-12 01:23:13 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2024-08-12 01:23:13 [INFO]: Loading Defaults...
-2024-08-12 01:23:13 [INFO]: Loading Custom Worlds...
-2024-08-12 01:23:13 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2024-08-12 01:23:13 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2024-08-12 01:23:13 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2024-08-12 01:23:14 [INFO]: Database PLAYERS:Players configured and loaded!
-2024-08-12 01:23:14 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2024-08-12 01:23:14 [INFO]: Database QUEUE:Queue configured and loaded!
-2024-08-12 01:23:14 [INFO]: Database COOLDOWN:world configured and loaded!
-2024-08-12 01:23:14 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2024-08-12 01:23:14 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2024-08-12 01:23:14 [INFO]: Database COOLDOWN:spawn configured and loaded!
-2024-08-12 01:23:16 [INFO]: Attempting to queue up some more safe locations...
-2024-08-12 01:23:16 [INFO]: Queueing paused, max queue limit reached!
-2024-08-12 02:29:41 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-504.5,y=74.0,z=-483.5,pitch=9.0093775,yaw=-105.76709}
-2024-08-12 02:36:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-488.0,y=69.0,z=-811.0,pitch=0.0,yaw=0.0}
-2024-08-12 02:36:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-323.5,y=68.0,z=-360.5,pitch=-7.712115,yaw=-62.647736}
-2024-08-12 02:36:57 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-849.0,y=69.0,z=-807.0,pitch=0.0,yaw=0.0}
-2024-08-12 02:36:57 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-849.0,y=69.0,z=-807.0,pitch=0.0,yaw=0.0}
-2024-08-12 02:36:57 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-689.5,y=83.0,z=-605.5,pitch=37.74636,yaw=142.98096}
-2024-08-12 02:36:58 [INFO]: Attempting to queue up some more safe locations...
-2024-08-12 02:37:02 [INFO]: Queue position generated: id= rtp_world, database_ID= 137, location= x: -300, y: 63, z: -181, world: world
-2024-08-12 02:37:04 [INFO]: Queue position generated: id= rtp_world, database_ID= 138, location= x: -226, y: 65, z: 179, world: world
-2024-08-12 02:37:05 [INFO]: Queue position generated: id= rtp_world, database_ID= 139, location= x: 469, y: 85, z: 705, world: world
-2024-08-12 02:37:06 [INFO]: Queue position generated: id= rtp_world, database_ID= 140, location= x: -559, y: 69, z: 713, world: world
-2024-08-12 02:37:07 [INFO]: Queue position generated: id= rtp_world, database_ID= 141, location= x: -303, y: 83, z: -596, world: world
-2024-08-12 02:37:12 [INFO]: Queue position generated: id= rtp_world, database_ID= 142, location= x: 96, y: 63, z: -652, world: world
-2024-08-12 02:37:13 [INFO]: Queue position generated: id= rtp_world, database_ID= 143, location= x: -525, y: 63, z: -373, world: world
-2024-08-12 02:37:14 [INFO]: Queue position generated: id= rtp_world, database_ID= 144, location= x: -527, y: 63, z: 230, world: world
-2024-08-12 02:37:15 [INFO]: Queue position generated: id= rtp_world, database_ID= 145, location= x: -896, y: 76, z: -308, world: world
-2024-08-12 02:37:16 [INFO]: Queue position generated: id= rtp_world, database_ID= 146, location= x: -756, y: 69, z: 512, world: world
-2024-08-12 02:37:19 [INFO]: Queue position generated: id= rtp_world, database_ID= 147, location= x: -464, y: 66, z: 412, world: world
-2024-08-12 02:37:22 [INFO]: Queue position generated: id= rtp_world, database_ID= 148, location= x: -708, y: 63, z: -221, world: world
-2024-08-12 02:37:23 [INFO]: Queue position generated: id= rtp_world, database_ID= 149, location= x: -389, y: 72, z: -352, world: world
-2024-08-12 02:37:25 [INFO]: Queue position generated: id= rtp_world, database_ID= 150, location= x: 566, y: 84, z: -210, world: world
-2024-08-12 02:37:26 [INFO]: Queue position generated: id= rtp_world, database_ID= 151, location= x: -315, y: 77, z: -648, world: world
-2024-08-12 02:37:27 [INFO]: Queue position generated: id= rtp_world, database_ID= 152, location= x: 428, y: 68, z: 947, world: world
-2024-08-12 02:37:29 [INFO]: Queue position generated: id= rtp_world, database_ID= 153, location= x: -699, y: 105, z: -346, world: world
-2024-08-12 02:37:33 [INFO]: Queue position generated: id= rtp_world, database_ID= 154, location= x: -766, y: 69, z: 737, world: world
-2024-08-12 02:37:35 [INFO]: Queue position generated: id= rtp_world, database_ID= 155, location= x: -793, y: 73, z: 222, world: world
-2024-08-12 02:37:36 [INFO]: Queue position generated: id= rtp_world, database_ID= 156, location= x: 963, y: 87, z: -856, world: world
-2024-08-12 02:37:40 [INFO]: Queue position generated: id= rtp_world, database_ID= 157, location= x: -828, y: 67, z: 779, world: world
-2024-08-12 02:37:43 [INFO]: Queue position generated: id= rtp_world, database_ID= 158, location= x: -663, y: 66, z: 872, world: world
-2024-08-12 02:37:44 [INFO]: Queue position generated: id= rtp_world, database_ID= 159, location= x: -111, y: 72, z: 954, world: world
-2024-08-12 02:37:46 [INFO]: Queue position generated: id= rtp_world, database_ID= 160, location= x: -143, y: 69, z: -523, world: world
-2024-08-12 02:37:49 [INFO]: Queue position generated: id= rtp_world, database_ID= 161, location= x: -924, y: 69, z: 164, world: world
-2024-08-12 02:37:52 [INFO]: Queue position generated: id= rtp_world, database_ID= 162, location= x: 154, y: 73, z: 310, world: world
-2024-08-12 02:37:53 [INFO]: Max attempts to create a Queue reached for rtp_world (amount: 27)
-2024-08-12 02:45:14 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-558.5,y=69.0,z=713.5,pitch=37.709946,yaw=174.53615}
-2024-08-12 03:50:01 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-707.5,y=63.0,z=-220.5,pitch=31.477547,yaw=-82.39929}
-2024-08-12 03:58:13 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-526.5,y=63.0,z=230.5,pitch=7.3672705,yaw=124.19587}
-2024-08-12 05:19:44 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=566.5,y=84.0,z=-209.5,pitch=37.950325,yaw=-78.85022}
-2024-08-12 05:41:45 [INFO]: Disabling BetterRTP v3.6.13
+2024-08-12 05:43:03 [INFO]: Loading Overrides...
+2024-08-12 05:43:03 [INFO]: Loading World Types...
+2024-08-12 05:43:03 [INFO]: - World Type for 'world' set to 'NORMAL'
+2024-08-12 05:43:03 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2024-08-12 05:43:03 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2024-08-12 05:43:03 [INFO]: Loading Defaults...
+2024-08-12 05:43:03 [INFO]: Loading Custom Worlds...
+2024-08-12 05:43:03 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-08-12 05:43:03 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-08-12 05:43:03 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2024-08-12 05:43:03 [INFO]: Database COOLDOWN:world configured and loaded!
+2024-08-12 05:43:03 [INFO]: Database PLAYERS:Players configured and loaded!
+2024-08-12 05:43:03 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2024-08-12 05:43:03 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2024-08-12 05:43:03 [INFO]: Database COOLDOWN:spawn configured and loaded!
+2024-08-12 05:43:03 [INFO]: Database QUEUE:Queue configured and loaded!
+2024-08-12 05:43:03 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2024-08-12 05:43:06 [INFO]: Attempting to queue up some more safe locations...
+2024-08-12 05:43:06 [INFO]: Queueing paused, max queue limit reached!
