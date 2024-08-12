@@ -33,6 +33,6 @@ skills:
   auraskills/alchemy:
     level: 2
     xp: 0.0
-mana: 24.12
+mana: 26.0
 action_bar:
   idle: true
