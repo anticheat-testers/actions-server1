@@ -48,7 +48,7 @@ jobs:
           VELOCITY_SECRET: ${{secrets.VELOSEC}}
           RISEUP_DEFAULT: "${{secrets.RISEUP_CONFIG}}"
         run: |
-          sudo echo $RISEUP_DEFAULT > /etc/riseup-vpn.yaml
+          echo $RISEUP_DEFAULT > /etc/riseup-vpn.yaml
           sudo pip install --user riseup-vpn-configurator --break-system-packages
           sudo /root/.local/bin/riseup-vpn-configurator -u
           sudo /root/.local/bin/riseup-vpn-configurator -g
