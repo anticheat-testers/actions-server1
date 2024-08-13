@@ -6052,3 +6052,9 @@
 [2024-08-12 23:15:56] [INFO   ] Java 14+ detected. 
 [2024-08-12 23:15:56] [INFO   ]  Injection success! Proceeding with generation. 
 [2024-08-12 23:15:56] [INFO   ]  world loaded. 
+[2024-08-13 03:13:04] [INFO   ] Will spawn stronghold at: -419, -1344 
+[2024-08-13 03:13:04] [INFO   ] Spawning MossyCavePopulator at -3248,-5,1792 
+[2024-08-13 03:13:04] [INFO   ] Spawning DeepCavePopulator at -3247,-35,1803 
+[2024-08-13 03:13:04] [INFO   ] Large Cave at -3264,12,1856 has water level > -14 with populator MushroomCavePopulator 
+[2024-08-13 03:13:05] [INFO   ] Calculated structure at -203,112 
+[2024-08-13 03:13:05] [INFO   ] Spawning CaveFluidClusterPopulator at -3238,-22,1752 
