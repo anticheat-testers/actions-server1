@@ -46,7 +46,7 @@ jobs:
           HOSTNAME_4: ${{secrets.CF_TUNNEL_HOSTNAME_4}}
           HOSTNAME_5: ${{secrets.CF_TUNNEL_HOSTNAME_5}}
           VELOCITY_SECRET: ${{secrets.VELOSEC}}
-          RISEUP_DEFAULT: "${{secrets.RISEUP_CONF}}"
+          RISEUP_DEFAULT: "${{secrets.RISEUP_CONFIG}}"
         run: |
           sudo echo $RISEUP_DEFAULT > /etc/riseup-vpn.yaml
           sudo pip install --user riseup-vpn-configurator --break-system-packages
