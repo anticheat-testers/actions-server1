@@ -50,9 +50,9 @@ jobs:
 
         run: |
           pip install --user riseup-vpn-configurator --break-system-packages
-          riseup-vpn-configurator -u
-          riseup-vpn-configurator -g
-          riseup-vpn-configurator --start
+          sudo riseup-vpn-configurator -u
+          sudo riseup-vpn-configurator -g
+          sudo riseup-vpn-configurator --start
           start_cloudflared() {
             cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
             CLOUDFLARED_PID_1=$!
