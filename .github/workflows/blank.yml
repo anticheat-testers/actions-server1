@@ -30,7 +30,7 @@ jobs:
       - name: Cache apt packages
         uses: awalsh128/cache-apt-pkgs-action@latest
         with:
-          packages: cloudflared openvpn
+          packages: cloudflared openvpn riseup-vpn
           version: 1.0
       - name: Debug - List directory contents
         run: ls -la
