@@ -30,7 +30,7 @@ jobs:
       - name: Cache apt packages
         uses: awalsh128/cache-apt-pkgs-action@latest
         with:
-          packages: cloudflared openvpn riseup-vpn
+          packages: cloudflared
           version: 1.0
       - name: Debug - List directory contents
         run: ls -la
@@ -49,10 +49,7 @@ jobs:
           REGION: "MONTREAL" #NEW YORK CITY, AMSTERDAM,PARIS,SEATTLE,MIAMI
 
         run: |
-          sudo pip install --user riseup-vpn-configurator --break-system-packages
-          sudo /root/.local/bin/riseup-vpn-configurator -u
-          sudo /root/.local/bin/riseup-vpn-configurator -g
-          sudo /root/.local/bin/riseup-vpn-configurator --start
+
           start_cloudflared() {
             cloudflared access tcp --hostname ${HOSTNAME} --url localhost:25566 > /dev/null &
             CLOUDFLARED_PID_1=$!
