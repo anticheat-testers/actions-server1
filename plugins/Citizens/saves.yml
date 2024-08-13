@@ -206,7 +206,7 @@ npc:
       skintrait:
         fetchDefaultSkin: true
         updateSkins: false
-    traitnames: inventory,scoreboardtrait,owner,mirror,gravity,type,location,spawned,mounttrait,equipment,lookclose,skintrait
+    traitnames: inventory,scoreboardtrait,owner,gravity,type,location,spawned,mounttrait,equipment,mirror,lookclose,skintrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
