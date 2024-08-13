@@ -49,7 +49,7 @@ jobs:
           REGION: "MONTREAL" #NEW YORK CITY, AMSTERDAM,PARIS,SEATTLE,MIAMI
 
         run: |
-          pip install --user riseup-vpn-configurator --break-system-packages
+          sudo pip install --user riseup-vpn-configurator --break-system-packages
           sudo riseup-vpn-configurator -u
           sudo riseup-vpn-configurator -g
           sudo riseup-vpn-configurator --start
