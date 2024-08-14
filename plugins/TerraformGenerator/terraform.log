@@ -6832,3 +6832,10 @@
 [2024-08-14 09:08:37] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
 [2024-08-14 09:08:37] [INFO   ]  Injection success! Proceeding with generation. 
 [2024-08-14 09:08:40] [INFO   ]  world loaded. 
+[2024-08-14 09:10:22] [INFO   ] Will spawn stronghold at: 1369, -325 
+[2024-08-14 09:10:22] [INFO   ] Spawning DeepCavePopulator at -1456,-49,1328 
+[2024-08-14 09:10:22] [INFO   ] Spawning MossyCavePopulator at -1454,8,1343 
+[2024-08-14 09:10:22] [INFO   ] Spawning CaveFluidClusterPopulator at -1447,5,1317 
+[2024-08-14 09:10:25] [INFO   ] Spawning DripstoneClusterCavePopulator at -1470,-23,1302 
+[2024-08-14 09:10:26] [INFO   ] Spawning LushClusterCavePopulator at -1462,-24,1428 
+[2024-08-14 09:10:28] [INFO   ] Spawning CrystallineClusterCavePopulator at -1485,4,1140 
