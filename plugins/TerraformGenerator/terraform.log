@@ -6993,3 +6993,8 @@
 [2024-08-14 19:50:19] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -767 -2 -650 in a room of size 13x15 
 [2024-08-14 19:50:19] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -696 -2 -640 in a room of size 14x13 
 [2024-08-14 19:50:19] [INFO   ] Calculated structure at -33,-33 
+[2024-08-14 19:50:44] [INFO   ] Minecart with chest at: -684, 20, -230 
+[2024-08-14 19:50:48] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -41,-40 
+[2024-08-14 19:50:48] [INFO   ] Spawning Underground Dungeon at -644,47,-633 
+[2024-08-14 19:50:52] [INFO   ] Minecart with chest at: -731, -2, -633 
+[2024-08-14 19:50:52] [INFO   ] Minecart with chest at: -705, -2, -669 
