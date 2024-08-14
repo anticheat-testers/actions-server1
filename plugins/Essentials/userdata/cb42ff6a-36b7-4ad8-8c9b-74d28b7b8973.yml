@@ -13,10 +13,10 @@ logoutlocation:
   pitch: 2.8524027
 money: '1930.0'
 lastlocation:
-  world: hollow
-  x: -44.56818893013586
-  y: 87.1124763736599
-  z: -49.747592376398984
-  yaw: 41.597107
-  pitch: 21.901754
+  world: speedway
+  x: -82.15084950026828
+  y: 66.87518719878484
+  z: 36.69999998807907
+  yaw: 269.20963
+  pitch: 0.98592657
 godmode: false
