@@ -11,3 +11,10 @@ logoutlocation:
   yaw: -83.691124
   pitch: 8.4458475
 money: '165.0'
+lastlocation:
+  world: hollow
+  x: -63.69999998807907
+  y: 66.0
+  z: -20.693655994670273
+  yaw: -225.77893
+  pitch: -7.9164157
