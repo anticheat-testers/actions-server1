@@ -12,9 +12,9 @@ logoutlocation:
   pitch: 2.6515749
 money: '310.0'
 lastlocation:
-  world: RailRoad
-  x: 1.0444457202904753
-  y: -65.1866971218999
-  z: -9.496210604201114
-  yaw: 0.2500012
-  pitch: -4.067788
+  world: Sentiel
+  x: 13.699999988079071
+  y: 41.0
+  z: 9.699999988079071
+  yaw: 164.61848
+  pitch: 75.23931
