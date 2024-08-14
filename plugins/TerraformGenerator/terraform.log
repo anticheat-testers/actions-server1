@@ -6492,3 +6492,4 @@
 [2024-08-14 07:46:26] [INFO   ] Spawning Underground Dungeon at -402,28,-296 
 [2024-08-14 07:46:27] [INFO   ] Spawning ForestedMountainsCavePopulator at -113,-2,-192 
 [2024-08-14 07:46:42] [INFO   ] -44,-12 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-14 07:47:43] [INFO   ] Spawning FrozenCavePopulator at -640,-16,-21 
