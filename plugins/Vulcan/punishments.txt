@@ -2688,3 +2688,97 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ libdeflate was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 14.368294435759397
+ - Y: 20.0
+ - Z: -1.953906807231463
+
+Information:
+ - UUID: 8501861a-281f-4646-9753-fc62482aa157
+ - Keep Alive Ping: 354
+ - Transaction Ping: 350
+ - Server TPS: 20
+ - Sensitivity: 109
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 20.65 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 292
+ - Since Riptide Ticks: 200
+ - Flying Delay: 48
+ - Since Velocity Ticks: 413
+ - Since Firework Ticks: 466
+ - Ticks Existed: 313
+ - Since Vehicle Ticks: 366
+ - Since Liquid Ticks: 366
+ - Queued Transactions: 2
+ - Joined: 15 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [GRASS, GRASS, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, STONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
+--------------[ xNotJames was punished for Bad Packets (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: 3.6540222994657436
+ - Y: 22.0
+ - Z: 4.3145591678829724
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 409
+ - Transaction Ping: 504
+ - Server TPS: 20
+ - Sensitivity: 130
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 16.1 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 191
+ - Since Riptide Ticks: 200
+ - Flying Delay: 0
+ - Since Velocity Ticks: 322
+ - Since Firework Ticks: 369
+ - Ticks Existed: 222
+ - Since Vehicle Ticks: 269
+ - Since Liquid Ticks: 269
+ - Queued Transactions: 2
+ - Joined: 11 seconds ago
+ - Holding Item: ItemStack{IRON_SWORD x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, display-name=§bPlay Unranked}}
+
+All Violations:
+ - Bad Packets (Type B) [VL: 1] (More than 20 flying packets in a row.)
+
+Blocks Nearby: [WOOD, WOOD, WOOD, AIR, AIR, STEP, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
