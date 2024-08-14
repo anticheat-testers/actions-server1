@@ -1,6 +1,7 @@
 lastAccountName: libdeflate
 timestamps:
   login: 1723651941352
+  logout: 1723652753816
 ipAddress: 127.136.242.129
 lastlocation:
   world: hollow
@@ -10,3 +11,10 @@ lastlocation:
   yaw: 267.3275
   pitch: 88.21776
 money: '155.0'
+logoutlocation:
+  world: world
+  x: 1.7409613446749783
+  y: 67.0
+  z: -7.862557776063128
+  yaw: 120.09448
+  pitch: 1.4220332
