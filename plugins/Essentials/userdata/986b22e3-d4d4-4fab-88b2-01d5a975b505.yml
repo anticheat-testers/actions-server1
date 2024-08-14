@@ -1,12 +1,12 @@
 lastAccountName: odragclicker
 timestamps:
-  login: 1723506405723
-  logout: 1723506408373
-ipAddress: 127.228.66.162
+  login: 1723601796088
+  logout: 1723601799387
+ipAddress: 127.229.233.167
 logoutlocation:
   world: world
-  x: -32.47482322473648
-  y: 71.0
-  z: 0.49185180054454447
+  x: -28.321808495235466
+  y: 70.5
+  z: 0.4960730659816259
   yaw: -89.88387
   pitch: 2.8524027
