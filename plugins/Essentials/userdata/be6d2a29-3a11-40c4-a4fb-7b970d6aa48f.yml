@@ -1,7 +1,7 @@
 lastAccountName: xNotJames
 timestamps:
-  login: 1723653351889
-  logout: 1723653383889
+  login: 1723653665938
+  logout: 1723653668888
   lastteleport: 1723177276767
 ipAddress: 127.41.252.89
 money: '1790.0'
@@ -14,9 +14,9 @@ lastlocation:
   pitch: 12.449963
 logoutlocation:
   world: world
-  x: -29.258217987374998
-  y: 71.0
-  z: 2.2441970870066945
-  yaw: -105.895424
-  pitch: 20.365007
+  x: -24.21945873373438
+  y: 70.0
+  z: 0.49434124431107973
+  yaw: -89.88387
+  pitch: 2.8524027
 godmode: false
