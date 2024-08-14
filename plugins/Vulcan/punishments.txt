@@ -57,3 +57,61 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ xNotJames was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 08-14-2024
+ - Time: 08:03:01
+
+Location:
+ - World: spawn
+ - X: -1.4752437615729974
+ - Y: 68.0
+ - Z: -4.95275574640653
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 466
+ - Transaction Ping: 350
+ - Server TPS: 20
+ - Sensitivity: 75
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.21
+ - Last Damage: 25.3 seconds ago
+
+Total Violations: 39
+ - Combat Violations: 0
+ - Movement Violations: 38
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 2
+ - Since Riptide Ticks: 1464
+ - Flying Delay: 0
+ - Since Velocity Ticks: 506
+ - Since Firework Ticks: 1464
+ - Ticks Existed: 1355
+ - Since Vehicle Ticks: 1364
+ - Since Liquid Ticks: 592
+ - Queued Transactions: 2
+ - Joined: 150 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type B) [VL: 6] (Invalid Y-Axis movement.)
+ - Speed (Type A) [VL: 3] (Invalid friction.)
+ - Speed (Type B) [VL: 5] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 9] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 5] (Moving too quickly on the ground.)
+ - Strafe (Type A) [VL: 10] (Moving incorrectly in the air.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [CHISELED_STONE_BRICKS, CHISELED_STONE_BRICKS, ANDESITE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, CHISELED_STONE_BRICKS, CHISELED_STONE_BRICKS, COBBLESTONE, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, CHISELED_STONE_BRICKS, CHISELED_STONE_BRICKS, CHISELED_STONE_BRICKS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
