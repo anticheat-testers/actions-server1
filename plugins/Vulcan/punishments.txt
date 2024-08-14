@@ -1,0 +1,59 @@
+--------------[ xNotJames was punished for Improbable (Type B) ]--------------
+
+Date & Time:
+ - Date: 08-14-2024
+ - Time: 07:58:40
+
+Location:
+ - World: world
+ - X: -758.6409688576811
+ - Y: 73.0
+ - Z: 741.738884176849
+
+Information:
+ - UUID: be6d2a29-3a11-40c4-a4fb-7b970d6aa48f
+ - Keep Alive Ping: 397
+ - Transaction Ping: 333
+ - Server TPS: 20
+ - Sensitivity: 75
+ - Gamemode: SURVIVAL
+ - Client Brand: Fabric
+ - Vehicle: null
+ - Version: 1.21
+ - Last Damage: 1.25 seconds ago
+
+Total Violations: 32
+ - Combat Violations: 0
+ - Movement Violations: 31
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 2
+ - Since Riptide Ticks: 1403
+ - Flying Delay: 2
+ - Since Velocity Ticks: 25
+ - Since Firework Ticks: 1403
+ - Ticks Existed: 1295
+ - Since Vehicle Ticks: 1303
+ - Since Liquid Ticks: 1303
+ - Queued Transactions: 3
+ - Joined: 93 seconds ago
+ - Holding Item (Main Hand): ItemStack{AIR x 0}
+ - Holding Item (Off Hand): ItemStack{AIR x 0}
+
+All Violations:
+ - Flight (Type A) [VL: 5] (Invalid Y-Axis movement.)
+ - Flight (Type B) [VL: 9] (Invalid Y-Axis movement.)
+ - Flight (Type D) [VL: 2] (Invalid Y-Axis movement.)
+ - Flight (Type E) [VL: 2] (Invalid Y-Axis movement.)
+ - Speed (Type B) [VL: 4] (Moving too quickly on the ground.)
+ - Speed (Type C) [VL: 5] (Moving too quickly in the air.)
+ - Speed (Type D) [VL: 4] (Moving too quickly on the ground.)
+ - Improbable (Type B) [VL: 1] (Too many combined movement violations.)
+
+Blocks Nearby: [GRASS_BLOCK, COARSE_DIRT, GRASS_BLOCK, TALL_GRASS, AIR, AIR, TALL_GRASS, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, TALL_GRASS, AIR, AIR, TALL_GRASS, AIR, AIR, AIR, AIR, AIR, GRASS_BLOCK, GRASS_BLOCK, GRASS_BLOCK, SHORT_GRASS, TALL_GRASS, AIR, AIR, TALL_GRASS, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+

@@ -6563,3 +6563,5 @@
 [2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -717 0 869 in a room of size 18x16 
 [2024-08-14 07:58:31] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -39,38 
 [2024-08-14 07:58:31] [INFO   ] Spawning shipwreck at -613, 61, 620 with rotation of NORTH 
+[2024-08-14 07:58:47] [INFO   ] Large Cave at -192,28,832 has water level > -7 with populator GenericLargeCavePopulator 
+[2024-08-14 07:58:47] [INFO   ] Calculated structure at -32,46 
