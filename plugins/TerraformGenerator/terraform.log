@@ -6596,3 +6596,20 @@
 [2024-08-14 08:04:10] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -76,52 
 [2024-08-14 08:04:12] [INFO   ] Minecart with chest at: -1230, 26, 759 
 [2024-08-14 08:04:16] [INFO   ] Minecart with chest at: -1272, 41, 776 
+[2024-08-14 08:14:58] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -76,84 
+[2024-08-14 08:14:58] [INFO   ] Spawning plains village at -1216,50,1344 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -1242 0 1383 in a room of size 18x17 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1194 0 1362 in a room of size 15x18 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -1209 0 1363 in a room of size 8x7 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -1210 0 1326 in a room of size 10x9 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1208 0 1383 in a room of size 17x16 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1250 0 1407 in a room of size 7x9 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -1216 66 1344 in a room of size 24x24 
+[2024-08-14 08:15:01] [INFO   ] Spawning farmhouse at -1216,65,1344 with rotation of EAST 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -1193 0 1342 in a room of size 16x15 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1193 0 1321 in a room of size 17x18 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1232 0 1412 in a room of size 16x18 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1271 0 1403 in a room of size 16x16 
+[2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -1227 0 1364 in a room of size 15x15 
+[2024-08-14 08:15:03] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -86,80 
+[2024-08-14 08:15:03] [INFO   ] Spawning Underground Dungeon at -1374,12,1282 
