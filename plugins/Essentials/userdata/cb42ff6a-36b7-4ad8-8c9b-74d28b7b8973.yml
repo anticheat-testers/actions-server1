@@ -5,13 +5,13 @@ timestamps:
   lastteleport: 1723441383658
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Clearing
-  x: -19.830265854388283
-  y: 49.0
-  z: -48.60858967671625
-  yaw: -67.72925
-  pitch: 11.985707
-money: '745.0'
+  world: Submerged
+  x: 15.633255166283497
+  y: 74.19274726440713
+  z: -0.3414859452906005
+  yaw: 98.57037
+  pitch: 22.5787
+money: '750.0'
 logoutlocation:
   world: world
   x: 3.624174014020639
