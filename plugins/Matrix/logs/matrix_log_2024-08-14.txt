@@ -5,3 +5,6 @@
 (09:09:44) xNotJames failed BadPackets check | might using freecam (a: 1870, b: 0)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.8.x
 (09:09:44) xNotJames failed BadPackets check | might using freecam (a: 1870, b: 50)() | vl:4(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.8.x
 (13:54:23) Matrix Enabled! Version: 7.7.26A
+(16:21:57) xNotJames failed Move check | unexpected vertical movement (motion: -0.753/0.248, hor: 1.078, buffer: 0.501/false, ground: -,-, setback: -, vel: none, from: 22.753, past: 0.333, p_tags: , tags: )() | vl:5(+5) ping:0 tps:20.0 component: move.vert ver: 1.8.x
+(16:21:57) xNotJames failed Move check | unexpected horizontal movement (motion: 1.078/0.268, buffer: 3.74/false, vet: -0.753, vec: 0.242, ground: -,-, spr: +, add: 0.026, past: 0.333,0.266, fr: 0.6, setback: +, vel: none, from: 22.753, rv: empty, ptags: , tags: hor_fast_setback,hor_bst)() | vl:10(+5) ping:0 tps:20.0 component: move.hor ver: 1.8.x
+(16:21:57) xNotJames failed Move check | unexpected horizontal movement (motion: 1.917/0.587, buffer: 7.071/false, vet: -0.753, vec: 0.261, ground: -,-, spr: +, add: 0.326, past: 0.333,0.286, fr: 0.6, setback: +, vel: none, from: 22.753, rv: empty, ptags: , tags: hor_fast_setback,teleport,hor_tp_fix,hor_bst)() | vl:15(+5) ping:562 tps:20.0 component: move.hor ver: 1.8.x
