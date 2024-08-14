@@ -154,6 +154,7 @@ structures:
     size: 80
     pillager-spawn-aggression: 1
     enabled: true
+    min-distance-blocks: 5000
   badlands-mine:
     depth: 25
     distance-between-mines: 8
@@ -208,6 +209,9 @@ structures:
     enabled: true
     spawnratio: 0.8
   farmhouse:
+    enabled: true
+  trialchamber:
+    spawnratio: 0.3
     enabled: true
 climate:
   snowy:
