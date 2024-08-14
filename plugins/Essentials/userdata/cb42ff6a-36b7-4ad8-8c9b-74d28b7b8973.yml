@@ -5,13 +5,13 @@ timestamps:
   lastteleport: 1723441383658
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Submerged
-  x: -7.52967090780411
-  y: 48.87518719878482
-  z: -27.738081825520332
-  yaw: -31.855652
-  pitch: 10.925558
-money: '675.0'
+  world: Onionring
+  x: -19.182393222351806
+  y: 89.0
+  z: -26.772635322316646
+  yaw: -133.61261
+  pitch: 22.740591
+money: '680.0'
 logoutlocation:
   world: world
   x: 3.624174014020639
