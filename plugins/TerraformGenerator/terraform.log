@@ -6544,3 +6544,22 @@
 [2024-08-14 07:54:31] [INFO   ] Spawning CrystallineClusterCavePopulator at 61,34,66 
 [2024-08-14 07:54:31] [INFO   ]  world loaded. 
 [2024-08-14 07:57:08] [INFO   ] Spawning ForestedMountainsCavePopulator at -96,-31,0 
+[2024-08-14 07:58:19] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -44,52 
+[2024-08-14 07:58:20] [INFO   ] Spawning plains village at -704,50,832 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -733 0 778 in a room of size 20x20 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -710 0 765 in a room of size 9x9 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -705 75 832 in a room of size 24x24 
+[2024-08-14 07:58:20] [INFO   ] Spawning farmhouse at -705,75,832 with rotation of WEST 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -680 0 799 in a room of size 20x17 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -681 0 779 in a room of size 19x18 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -724 0 857 in a room of size 9x9 
+[2024-08-14 07:58:20] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -710 0 789 in a room of size 17x19 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -706 0 811 in a room of size 20x19 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -727 0 796 in a room of size 9x9 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -708 0 852 in a room of size 17x16 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at -696 0 759 in a room of size 19x20 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -729 0 829 in a room of size 19x15 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -730 0 812 in a room of size 20x17 
+[2024-08-14 07:58:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -717 0 869 in a room of size 18x16 
+[2024-08-14 07:58:31] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -39,38 
+[2024-08-14 07:58:31] [INFO   ] Spawning shipwreck at -613, 61, 620 with rotation of NORTH 
