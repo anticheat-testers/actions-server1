@@ -6,12 +6,12 @@ timestamps:
 ipAddress: 127.41.252.89
 money: '1540.0'
 lastlocation:
-  world: hollow
-  x: -73.87157522047184
-  y: 68.16610926093821
-  z: 29.300343688586022
-  yaw: 241.63194
-  pitch: 23.591368
+  world: pernicious
+  x: -75.11466309300967
+  y: 68.0
+  z: -33.501453778226164
+  yaw: 239.48413
+  pitch: 90.0
 logoutlocation:
   world: world
   x: -32.47482322473648
