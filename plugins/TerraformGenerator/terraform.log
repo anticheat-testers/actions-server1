@@ -6418,3 +6418,10 @@
 [2024-08-14 06:56:17] [INFO   ] Java 14+ detected. 
 [2024-08-14 06:56:17] [INFO   ]  Injection success! Proceeding with generation. 
 [2024-08-14 06:56:17] [INFO   ]  world loaded. 
+[2024-08-14 07:20:36] [INFO   ]  Custom Logger Initialized 
+[2024-08-14 07:20:36] [INFO   ] [NOTICE] TerraformGenerator will suppress the server's watchdog while generating chunks to prevent unnecessary stacktrace warnings. Unless you specifically need thewatchdog now (to take aikar timings or debug lag), you don't need to take any action. 
+[2024-08-14 07:20:36] [INFO   ] It is recommended to pregenerate to reduce lag problems. 
+[2024-08-14 07:20:36] [INFO   ] Watchdog Thread hooked. 
+[2024-08-14 07:20:36] [INFO   ]  bStats Metrics enabled. 
+[2024-08-14 07:20:36] [INFO   ]  Detected version: 1.21.1, number: 21.1 
+[2024-08-14 07:20:36] [INFO   ]  No support for this version has been made yet! 
