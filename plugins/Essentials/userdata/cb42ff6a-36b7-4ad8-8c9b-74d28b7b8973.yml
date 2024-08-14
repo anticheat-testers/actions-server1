@@ -11,12 +11,12 @@ logoutlocation:
   z: 0.49185180054454447
   yaw: -89.88387
   pitch: 2.8524027
-money: '2125.0'
+money: '2220.0'
 lastlocation:
-  world: speedway
-  x: 0.5674838866718388
-  y: 98.0
-  z: 0.5918225735926932
-  yaw: 268.73828
-  pitch: -0.8979894
+  world: bio-hazard
+  x: -86.53837134018724
+  y: -2.5439599734077754
+  z: 16.910082795927817
+  yaw: 354.77814
+  pitch: -44.74539
 godmode: false
