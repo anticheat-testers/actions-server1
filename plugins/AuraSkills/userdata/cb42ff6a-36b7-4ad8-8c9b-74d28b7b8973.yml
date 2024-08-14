@@ -8,7 +8,7 @@ skills:
     xp: 52.699999999999974
   auraskills/fighting:
     level: 1
-    xp: 12.0
+    xp: 16.0
   auraskills/farming:
     level: 0
     xp: 56.0
@@ -29,18 +29,13 @@ skills:
     xp: 25.30092014074326
   auraskills/agility:
     level: 2
-    xp: 219.24540000000005
+    xp: 223.44540000000003
   auraskills/foraging:
     level: 0
     xp: 13.6
-mana: 36.0
+mana: 32.0
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: AbilityModifier-WiseEffect
-    stat: auraskills/wisdom
-    value: 2.0
 trait_modifiers:
   '0':
     name: excavation_luck_ability
