@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2024-08-12 23:07:18 +0000",
+      "minecraft:snowy_slopes": "2024-08-14 02:19:11 +0000",
       "minecraft:beach": "2024-08-12 06:52:09 +0000",
       "minecraft:mushroom_fields": "2024-08-13 03:15:55 +0000",
       "minecraft:forest": "2024-08-12 23:07:04 +0000",
@@ -556,6 +557,12 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2024-08-12 23:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-08-14 02:18:34 +0000"
     },
     "done": true
   },
