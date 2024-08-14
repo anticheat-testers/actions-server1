@@ -97,7 +97,7 @@ connection:
   desync:
     kick-enabled: true
     max-ticks: 300
-    kick-message: '&cYou are desynced from the server, please rejoin to resync yourself.'
+    kick-message: '&cYou are desynced from the server, please rejoin to resync.'
     staff-alert-message: '%prefix% &c%player% &7was kicked for being out of sync with
       the server! &7(&c%ticks% &7ticks)'
     console-message: '[Vulcan] &c%player% &7was kicked for being out of sync with
@@ -105,7 +105,7 @@ connection:
   transaction:
     kick-enabled: true
     max-delay: 45000
-    kick-message: '&cAttempt of disabling the anticheat has been detected.'
+    kick-message: '&cAttempt of ignoring transaction packets has been detected.'
     staff-alert-message: '%prefix% &c%player% &7was kicked for not replying to Transaction
       Packets! &7(&c%delay%ms&7)'
     console-message: '[Vulcan] &c%player% &7was kicked for not replying to Transaction
