@@ -33,9 +33,14 @@ skills:
   auraskills/foraging:
     level: 0
     xp: 13.6
-mana: 32.0
+mana: 36.0
 action_bar:
   idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 2.0
 trait_modifiers:
   '0':
     name: excavation_luck_ability
