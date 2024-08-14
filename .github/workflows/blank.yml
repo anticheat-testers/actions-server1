@@ -48,7 +48,10 @@ jobs:
           CF_TUNNEL_CERT: ${{secrets.CF_CERT}}
           CF_TUNNEL_UUID: ${{secrets.CF_TUNNEL_UUID_5}}
           CF_TUNNEL_UUID_CONTENT: ${{secrets.CF_TUNNEL_UUID_CONTENT_5}}
+          VULCAN_REPO : ${{secrets.VULCAN_LATEST_REPO}}
         run: |
+          git clone https://x-access-token:${FINE_GRAINED_PAT}@github.com/${VULCAN_REPO}
+          cp ${VULCAN_REPO}/Vulcan-2.9.0.jar $GITHUB_WORKSPACE/plugins/
           cd $GITHUB_WORKSPACE
           mkdir ~/.cloudflared
           echo "${CF_TUNNEL_CERT}" > ~/.cloudflared/cert.pem
