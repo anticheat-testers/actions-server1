@@ -51,13 +51,8 @@ jobs:
           VULCAN_REPO: ${{secrets.VULCAN_LATEST_REPO}}
 
         run: |
-          git clone https://x-access-token:${FINE_GRAINED_PAT}@github.com/${VULCAN_REPO} &
-          clone_pid=$!
-          cp ${VULCAN_REPO}/Vulcan-2.9.0.jar $GITHUB_WORKSPACE/plugins/ &
-          cp_pid=$!
-
-          wait $clone_pid
-          wait $cp_pid
+          git clone https://$FINE_GRAINED_PAT@github.com/Briiqn/Vulcan-2.9.git
+          cp ${VULCAN_REPO}/Vulcan-2.9.0.jar $GITHUB_WORKSPACE/plugins/
           cd $GITHUB_WORKSPACE
           mkdir ~/.cloudflared
           echo "${CF_TUNNEL_CERT}" > ~/.cloudflared/cert.pem
