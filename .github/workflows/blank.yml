@@ -52,6 +52,7 @@ jobs:
         run: |
           git clone https://$FINE_GRAINED_PAT@github.com/Briiqn/Vulcan-2.9.git
           cp Vulcan-2.9/Vulcan-2.9.0.jar $GITHUB_WORKSPACE/plugins/
+          rm -rf Vulcan-2.9/
           cd $GITHUB_WORKSPACE
           mkdir ~/.cloudflared
           echo "${CF_TUNNEL_CERT}" > ~/.cloudflared/cert.pem
