@@ -6538,3 +6538,8 @@
 [2024-08-14 07:54:21] [INFO   ] Spawning DeepCavePopulator at 0,-39,0 
 [2024-08-14 07:54:21] [INFO   ] Large Cave at -192,14,-192 has water level > -22 with populator GenericLargeCavePopulator 
 [2024-08-14 07:54:21] [INFO   ] Calculated structure at -1,-1 
+[2024-08-14 07:54:27] [INFO   ] Spawning CaveFluidClusterPopulator at 46,-3,34 
+[2024-08-14 07:54:29] [INFO   ] Spawning LushClusterCavePopulator at -21,34,-55 
+[2024-08-14 07:54:30] [INFO   ] Spawning DripstoneClusterCavePopulator at 45,-10,-53 
+[2024-08-14 07:54:31] [INFO   ] Spawning CrystallineClusterCavePopulator at 61,34,66 
+[2024-08-14 07:54:31] [INFO   ]  world loaded. 
