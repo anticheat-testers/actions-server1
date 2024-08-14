@@ -1,5 +1,3 @@
-# 
-#    Vulcan Anti-Cheat Configuration File    #
 prefix: '&7[&c&l❀&7]'
 alerts:
   format: '%prefix% &f%player% failed &c%check% (%type%) %dev% &7VL: %vl%/%max-vl%,
@@ -153,8 +151,6 @@ judgement-days:
 freeze:
   logged-out-while-frozen-commands:
   - tempban %player% 14d &cLogging out while frozen.
-gui:
-  title: Vulcan AntiCheat
 ghost-blocks-fix:
   enabled: true
   ghost-water-fix: true
@@ -266,6 +262,7 @@ messages:
   jday-remove-syntax: '%prefix% &cProper Syntax: /jday remove (player)'
   punishlogs-syntax: '%prefix% &cProper Syntax: /punishlogs (player)'
   sent-test-alert: '%prefix% &aSuccessfully executed a test alert!'
+  description-command-syntax: '%prefix% &cProper Syntax: /vulcan description (checkname) '
 commands:
   help:
   - '&7&m---»--*-------------------------------------*--«---'
@@ -378,6 +375,7 @@ commands:
     list-format: ' &8- &7%name%'
   punishlogs:
     header-footer: '&7&m---»--*--&r&7[ Punishment Logs for &c%player% &7]&7&m--*--«---'
+  description: '%prefix% &7Description for &c%check%&7: %description%'
 punishment-statistics-broadcast:
   enabled: false
   interval: 18000
@@ -430,6 +428,9 @@ settings:
   lenient-elytra-handling: true
   handle-attributes: false
 discord-webhook:
+  cooldown: false
+  cooldown-reset-ticks: 12000
+  cooldown-max-webhooks: 100
   alerts:
     enabled: true
     url: insert-webhook-url-here
@@ -2470,6 +2471,20 @@ checks:
           multiple: 0.25
           decay: 0.045
         min-difference: 0.0025
+      e:
+        enabled: true
+        punishable: true
+        discord-alert-interval: 1
+        setback: false
+        min-vl-to-setback: 1
+        broadcast-punishment: false
+        max-violations: 20
+        alert-interval: 1
+        dont-alert-until: 2
+        maximum-ping: 100000
+        minimum-tps: 19.0
+        punishment-commands:
+        - kick %player% &c[Vulcan] Unfair Advantage
     fastclimb:
       a:
         enabled: true

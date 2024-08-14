@@ -6377,3 +6377,4 @@
 [2024-08-14 06:50:59] [INFO   ] NMSChunkGenerator Delegate is of type CustomChunkGenerator 
 [2024-08-14 06:50:59] [INFO   ] Java 14+ detected. 
 [2024-08-14 06:50:59] [INFO   ]  Injection success! Proceeding with generation. 
+[2024-08-14 06:50:59] [INFO   ]  world loaded. 
