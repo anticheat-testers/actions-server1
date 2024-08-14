@@ -5,13 +5,13 @@ timestamps:
   lastteleport: 1723441383658
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Tundra
-  x: -1.337013140239086
-  y: 77.41999998688698
-  z: -61.12036027532548
-  yaw: 2.1038737
-  pitch: 17.245861
-money: '670.0'
+  world: Submerged
+  x: -7.52967090780411
+  y: 48.87518719878482
+  z: -27.738081825520332
+  yaw: -31.855652
+  pitch: 10.925558
+money: '675.0'
 logoutlocation:
   world: Entangled
   x: 0.5
