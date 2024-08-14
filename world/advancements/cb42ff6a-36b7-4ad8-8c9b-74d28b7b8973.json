@@ -182,6 +182,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-08-14 08:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-08-14 08:04:27 +0000"
@@ -215,7 +221,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2024-08-14 08:10:57 +0000",
-      "minecraft:creeper": "2024-08-14 08:11:33 +0000"
+      "minecraft:creeper": "2024-08-14 08:11:33 +0000",
+      "minecraft:zombie_villager": "2024-08-14 08:14:27 +0000"
     },
     "done": false
   },

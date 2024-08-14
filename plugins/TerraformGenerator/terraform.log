@@ -6613,3 +6613,5 @@
 [2024-08-14 08:15:01] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -1227 0 1364 in a room of size 15x15 
 [2024-08-14 08:15:03] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -86,80 
 [2024-08-14 08:15:03] [INFO   ] Spawning Underground Dungeon at -1374,12,1282 
+[2024-08-14 08:15:09] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -82,86 
+[2024-08-14 08:15:09] [INFO   ] Spawning Underground Dungeon at -1305,48,1385 
