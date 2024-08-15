@@ -8164,3 +8164,37 @@
 [2024-08-15 19:42:59] [INFO   ] Medium Schematic 
 [2024-08-15 19:42:59] [INFO   ] Medium Schematic 
 [2024-08-15 19:43:02] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 84,116 
+[2024-08-15 19:43:06] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 52,116 
+[2024-08-15 19:43:07] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 40,117 
+[2024-08-15 19:43:07] [INFO   ] Spawning Drowned Dungeon at 650,1875 
+[2024-08-15 19:43:09] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: 20,116 
+[2024-08-15 19:43:09] [INFO   ] Spawning plains village at 320,50,1856 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at 336 0 1849 in a room of size 8x9 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at 278 0 1844 in a room of size 20x20 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at 321 0 1837 in a room of size 8x8 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at 339 0 1832 in a room of size 19x19 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at 298 0 1853 in a room of size 19x16 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at 320 64 1856 in a room of size 24x24 
+[2024-08-15 19:43:09] [INFO   ] Spawning farmhouse at 320,64,1856 with rotation of NORTH 
+[2024-08-15 19:43:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 307 0 1833 in a room of size 18x17 
+[2024-08-15 19:43:12] [INFO   ] Minecart with chest at: -186, 27, 1884 
+[2024-08-15 19:43:12] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -12,116 
+[2024-08-15 19:43:13] [INFO   ] Minecart with chest at: -255, 27, 1875 
+[2024-08-15 19:43:16] [INFO   ] Minecart with chest at: -663, 42, 1878 
+[2024-08-15 19:43:16] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -44,116 
+[2024-08-15 19:43:20] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -76,116 
+[2024-08-15 19:43:20] [INFO   ] Spawning ancient city at: -1216,-13,1856 
+[2024-08-15 19:43:35] [INFO   ] Spawning sculk... 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -1266 -13 1803 in a room of size 16x26 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1158 -13 1914 in a room of size 24x17 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -1216 -13 1856 in a room of size 50x50 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1254 -13 1888 in a room of size 26x25 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -1189 -13 1908 in a room of size 18x24 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -1275 -13 1853 in a room of size 20x18 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -1203 -13 1818 in a room of size 23x19 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -1167 -13 1879 in a room of size 23x19 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -1166 -13 1800 in a room of size 22x21 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -1219 -13 1916 in a room of size 16x22 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1242 -13 1816 in a room of size 21x21 
+[2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1160 -13 1860 in a room of size 16x17 
+[2024-08-15 19:43:42] [INFO   ] Medium Schematic 
