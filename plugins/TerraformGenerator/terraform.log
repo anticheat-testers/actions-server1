@@ -7531,3 +7531,4 @@
 [2024-08-15 18:45:47] [INFO   ] Generating org.terraform.structure.small.igloo.IglooPopulator at chunk: 73,-4 
 [2024-08-15 18:45:47] [INFO   ] Placing igloo of size 6 
 [2024-08-15 18:46:20] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -72,-74 
+[2024-08-15 18:47:35] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 75,-39 
