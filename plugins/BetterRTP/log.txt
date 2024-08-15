@@ -17,3 +17,4 @@
 2024-08-15 14:47:13 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
 2024-08-15 14:47:14 [INFO]: Attempting to queue up some more safe locations...
 2024-08-15 14:47:14 [INFO]: Queueing paused, max queue limit reached!
+2024-08-15 18:11:36 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-792.5,y=67.0,z=222.5,pitch=15.141244,yaw=144.22928}
