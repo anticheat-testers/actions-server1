@@ -7506,3 +7506,5 @@
 [2024-08-15 18:39:00] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1279 41 869 in a room of size 14x13 
 [2024-08-15 18:39:00] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -1161 41 875 in a room of size 14x14 
 [2024-08-15 18:39:00] [INFO   ] Calculated structure at -65,32 
+[2024-08-15 18:39:17] [INFO   ] -44,-76 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 18:39:58] [INFO   ] -76,-12 will spawn a vanilla structure, with tryGenerateStructure == true 
