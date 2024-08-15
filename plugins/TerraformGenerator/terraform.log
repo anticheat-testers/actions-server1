@@ -7692,3 +7692,15 @@
 [2024-08-15 18:56:24] [INFO   ] Minecart with chest at: 825, 11, 1338 
 [2024-08-15 18:56:25] [INFO   ] Minecart with chest at: 797, 26, 1329 
 [2024-08-15 18:56:34] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -18,83 
+[2024-08-15 18:57:22] [INFO   ] Minecart with chest at: 1356, 21, 1272 
+[2024-08-15 18:57:22] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 83,84 
+[2024-08-15 18:57:22] [INFO   ] Spawning Underground Dungeon at 1340,11,1359 
+[2024-08-15 18:57:23] [INFO   ] Minecart with chest at: 1308, 6, 1355 
+[2024-08-15 18:57:23] [INFO   ] Minecart with chest at: 1305, 21, 1353 
+[2024-08-15 18:57:23] [INFO   ] Minecart with chest at: 1293, 6, 1358 
+[2024-08-15 18:57:27] [INFO   ] Minecart with chest at: 843, 11, 1359 
+[2024-08-15 18:57:32] [INFO   ] Minecart with chest at: 342, 2, 1344 
+[2024-08-15 18:58:05] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 26,-85 
+[2024-08-15 18:58:05] [INFO   ] Spawning Underground Dungeon at 429,90,-1346 
+[2024-08-15 18:58:12] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 84,-76 
+[2024-08-15 18:58:16] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 84,-44 
