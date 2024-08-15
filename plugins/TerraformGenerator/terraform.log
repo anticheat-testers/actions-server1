@@ -7274,3 +7274,7 @@
 [2024-08-15 18:21:04] [INFO   ] Calculated structure at 32,-33 
 [2024-08-15 18:21:43] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 35,-10 
 [2024-08-15 18:21:43] [INFO   ] Spawning Underground Dungeon at 575,40,-159 
+[2024-08-15 18:22:15] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -36,-24 
+[2024-08-15 18:22:15] [INFO   ] Spawning Underground Dungeon at -565,44,-384 
+[2024-08-15 18:23:43] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -41,-40 
+[2024-08-15 18:23:43] [INFO   ] Spawning Underground Dungeon at -644,47,-633 
