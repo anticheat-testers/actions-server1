@@ -7989,3 +7989,74 @@
 [2024-08-15 19:29:02] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 20,-108 
 [2024-08-15 19:29:06] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: 52,-108 
 [2024-08-15 19:29:06] [INFO   ] Spawning ancient city at: 832,-9,-1728 
+[2024-08-15 19:29:24] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 57,-110 
+[2024-08-15 19:29:24] [INFO   ] Spawning Underground Dungeon at 913,38,-1750 
+[2024-08-15 19:29:25] [INFO   ] Spawning sculk... 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 809 -9 -1672 in a room of size 24x26 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at 832 -9 -1728 in a room of size 50x50 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 866 -9 -1766 in a room of size 20x25 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 860 -9 -1677 in a room of size 19x21 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at 784 -9 -1762 in a room of size 19x20 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 773 -9 -1705 in a room of size 25x19 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 885 -9 -1756 in a room of size 16x22 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 841 -9 -1765 in a room of size 16x24 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 837 -9 -1678 in a room of size 25x17 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 801 -9 -1782 in a room of size 23x17 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 774 -9 -1724 in a room of size 19x18 
+[2024-08-15 19:29:31] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 778 -9 -1743 in a room of size 24x17 
+[2024-08-15 19:29:32] [INFO   ] Medium Schematic 
+[2024-08-15 19:29:34] [INFO   ] Medium Schematic 
+[2024-08-15 19:29:34] [INFO   ] Medium Schematic 
+[2024-08-15 19:29:34] [INFO   ] Small Schematic 
+[2024-08-15 19:29:34] [INFO   ] Small Schematic 
+[2024-08-15 19:29:34] [INFO   ] Medium Schematic 
+[2024-08-15 19:29:37] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: 84,-108 
+[2024-08-15 19:29:37] [INFO   ] Spawning plains village at 1344,50,-1728 
+[2024-08-15 19:29:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at 1340 0 -1703 in a room of size 17x20 
+[2024-08-15 19:29:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at 1344 68 -1728 in a room of size 24x24 
+[2024-08-15 19:29:37] [INFO   ] Spawning farmhouse at 1344,67,-1728 with rotation of SOUTH 
+[2024-08-15 19:29:38] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at 1321 0 -1706 in a room of size 17x15 
+[2024-08-15 19:29:38] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 1361 0 -1705 in a room of size 15x16 
+[2024-08-15 19:29:38] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at 1371 0 -1727 in a room of size 15x20 
+[2024-08-15 19:29:38] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 1322 0 -1727 in a room of size 18x20 
+[2024-08-15 19:30:23] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -108,84 
+[2024-08-15 19:30:26] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -108,52 
+[2024-08-15 19:30:28] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -108,20 
+[2024-08-15 19:30:29] [INFO   ] Spawning animal farm at -1728,72,320 with rotation of EAST 
+[2024-08-15 19:30:35] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -108,-12 
+[2024-08-15 19:30:35] [INFO   ] Spawning plains village at -1728,50,-192 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1704 0 -190 in a room of size 17x19 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1663 0 -151 in a room of size 16x19 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -1728 71 -192 in a room of size 24x24 
+[2024-08-15 19:30:37] [INFO   ] Spawning farmhouse at -1728,70,-192 with rotation of SOUTH 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1768 0 -183 in a room of size 20x17 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1678 0 -145 in a room of size 7x10 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at -1694 0 -141 in a room of size 18x18 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1681 0 -164 in a room of size 16x20 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -1709 0 -154 in a room of size 10x10 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1735 0 -168 in a room of size 16x18 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1765 0 -200 in a room of size 15x17 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1747 0 -197 in a room of size 15x19 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -1697 0 -172 in a room of size 7x8 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1662 0 -129 in a room of size 18x17 
+[2024-08-15 19:30:37] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -1717 0 -169 in a room of size 17x17 
+[2024-08-15 19:30:40] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -109,-39 
+[2024-08-15 19:30:40] [INFO   ] Spawning Underground Dungeon at -1741,31,-612 
+[2024-08-15 19:30:41] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -108,-44 
+[2024-08-15 19:30:41] [INFO   ] Spawning plains village at -1728,50,-704 
+[2024-08-15 19:30:41] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1718 0 -723 in a room of size 7x7 
+[2024-08-15 19:30:41] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1723 0 -679 in a room of size 17x16 
+[2024-08-15 19:30:41] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at -1703 0 -680 in a room of size 17x16 
+[2024-08-15 19:30:41] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1709 0 -742 in a room of size 18x20 
+[2024-08-15 19:30:42] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -1707 0 -695 in a room of size 8x8 
+[2024-08-15 19:30:42] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -1726 69 -704 in a room of size 24x24 
+[2024-08-15 19:30:42] [INFO   ] Spawning farmhouse at -1726,69,-704 with rotation of EAST 
+[2024-08-15 19:30:42] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -1702 0 -714 in a room of size 18x17 
+[2024-08-15 19:30:42] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1690 0 -741 in a room of size 17x19 
+[2024-08-15 19:30:45] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: -108,-76 
+[2024-08-15 19:30:47] [INFO   ] Spawning mountainhouse at -1728,131,-1216 with rotation of WEST 
+[2024-08-15 19:31:47] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -77,110 
+[2024-08-15 19:31:47] [INFO   ] Spawning Underground Dungeon at -1227,46,1775 
+[2024-08-15 19:31:52] [INFO   ] Minecart with chest at: -1750, 25, 1410 
+[2024-08-15 19:31:52] [INFO   ] Minecart with chest at: -1751, 25, 1368 
+[2024-08-15 19:31:52] [INFO   ] Minecart with chest at: -1756, 40, 1347 
