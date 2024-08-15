@@ -7686,3 +7686,9 @@
 [2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1349 26 453 in a room of size 16x16 
 [2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1274 26 547 in a room of size 26x19 
 [2024-08-15 18:56:21] [INFO   ] Minecart with chest at: 1336, 21, 1338 
+[2024-08-15 18:56:24] [INFO   ] Minecart with chest at: 891, 26, 1338 
+[2024-08-15 18:56:24] [INFO   ] Minecart with chest at: 884, 11, 1338 
+[2024-08-15 18:56:24] [INFO   ] Minecart with chest at: 861, 26, 1338 
+[2024-08-15 18:56:24] [INFO   ] Minecart with chest at: 825, 11, 1338 
+[2024-08-15 18:56:25] [INFO   ] Minecart with chest at: 797, 26, 1329 
+[2024-08-15 18:56:34] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -18,83 
