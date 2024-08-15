@@ -7938,3 +7938,6 @@
 [2024-08-15 19:14:28] [INFO   ] 20,-108 will spawn a vanilla structure, with tryGenerateStructure == true 
 [2024-08-15 19:15:56] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 99,-51 
 [2024-08-15 19:15:56] [INFO   ] Spawning Underground Dungeon at 1589,15,-813 
+[2024-08-15 19:17:27] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 70,100 
+[2024-08-15 19:17:30] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: 36,100 
+[2024-08-15 19:17:30] [INFO   ] Spawning shipwreck at 578, 44, 1602 with rotation of NORTH 
