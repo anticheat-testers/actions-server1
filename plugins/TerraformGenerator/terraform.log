@@ -7175,3 +7175,7 @@
 [2024-08-15 18:11:35] [INFO   ] Spawning CaveFluidClusterPopulator at -796,4,193 
 [2024-08-15 18:11:35] [INFO   ] Spawning LushClusterCavePopulator at -781,15,210 
 [2024-08-15 18:11:38] [INFO   ] Spawning DripstoneClusterCavePopulator at -822,-28,212 
+[2024-08-15 18:11:46] [INFO   ] Spawning CrystallineClusterCavePopulator at -776,2,312 
+[2024-08-15 18:11:57] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -44,20 
+[2024-08-15 18:12:00] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -53,23 
+[2024-08-15 18:12:02] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -39,22 
