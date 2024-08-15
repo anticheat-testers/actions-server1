@@ -7646,3 +7646,10 @@
 [2024-08-15 18:54:08] [INFO   ] Minecart with chest at: 900, 26, 1307 
 [2024-08-15 18:54:08] [INFO   ] Minecart with chest at: 882, 26, 1299 
 [2024-08-15 18:54:09] [INFO   ] Minecart with chest at: 804, 26, 1296 
+[2024-08-15 18:54:14] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 4,81 
+[2024-08-15 18:54:28] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -81,-26 
+[2024-08-15 18:54:28] [INFO   ] Spawning Underground Dungeon at -1281,38,-408 
+[2024-08-15 18:54:50] [INFO   ] Minecart with chest at: 1323, -9, -1235 
+[2024-08-15 18:54:54] [INFO   ] [NativeGeneratorPatcher] Flushing repairs (102 chunks), pushed by cache size 
+[2024-08-15 18:54:57] [INFO   ] Minecart with chest at: 900, 11, 1315 
+[2024-08-15 18:54:59] [INFO   ] Minecart with chest at: 1359, 42, -189 
