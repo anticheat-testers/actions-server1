@@ -7322,3 +7322,24 @@
 [2024-08-15 18:29:10] [INFO   ] Spawning Underground Dungeon at -355,38,826 
 [2024-08-15 18:29:26] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 47,-52 
 [2024-08-15 18:29:26] [INFO   ] Spawning Underground Dungeon at 765,32,-825 
+[2024-08-15 18:30:05] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,-44 
+[2024-08-15 18:30:09] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: 52,-12 
+[2024-08-15 18:30:09] [INFO   ] Spawning plains village at 832,50,-192 
+[2024-08-15 18:30:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at 832 77 -192 in a room of size 24x24 
+[2024-08-15 18:30:09] [INFO   ] Spawning farmhouse at 832,76,-192 with rotation of SOUTH 
+[2024-08-15 18:30:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at 852 0 -190 in a room of size 17x18 
+[2024-08-15 18:30:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at 814 0 -168 in a room of size 16x19 
+[2024-08-15 18:30:09] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at 790 0 -180 in a room of size 19x20 
+[2024-08-15 18:30:10] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at 789 0 -201 in a room of size 20x16 
+[2024-08-15 18:30:10] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at 851 0 -168 in a room of size 15x19 
+[2024-08-15 18:30:10] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at 813 0 -185 in a room of size 10x9 
+[2024-08-15 18:30:10] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at 806 0 -198 in a room of size 7x7 
+[2024-08-15 18:30:10] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at 831 0 -168 in a room of size 16x19 
+[2024-08-15 18:30:13] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 52,20 
+[2024-08-15 18:30:16] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 52,52 
+[2024-08-15 18:30:19] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 20,52 
+[2024-08-15 18:30:22] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,52 
+[2024-08-15 18:31:26] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 55,38 
+[2024-08-15 18:31:26] [INFO   ] Spawning Underground Dungeon at 894,10,612 
+[2024-08-15 18:31:27] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 55,51 
+[2024-08-15 18:31:27] [INFO   ] Spawning Underground Dungeon at 880,11,818 
