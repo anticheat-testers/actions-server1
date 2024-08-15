@@ -7281,3 +7281,37 @@
 [2024-08-15 18:24:22] [INFO   ] 52,20 will spawn a vanilla structure, with tryGenerateStructure == true 
 [2024-08-15 18:24:25] [INFO   ] 52,52 will spawn a vanilla structure, with tryGenerateStructure == true 
 [2024-08-15 18:24:27] [INFO   ] 20,52 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 18:24:36] [INFO   ] Minecart with chest at: -663, -2, -181 
+[2024-08-15 18:24:36] [INFO   ] Minecart with chest at: -664, 13, -198 
+[2024-08-15 18:24:59] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -18,43 
+[2024-08-15 18:24:59] [INFO   ] Spawning Underground Dungeon at -286,30,694 
+[2024-08-15 18:25:02] [INFO   ] Minecart with chest at: -684, -2, -156 
+[2024-08-15 18:25:02] [INFO   ] Minecart with chest at: -678, 13, -203 
+[2024-08-15 18:25:10] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 25,-44 
+[2024-08-15 18:25:31] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -44,-44 
+[2024-08-15 18:25:34] [INFO   ] Generating org.terraform.structure.monument.MonumentPopulator at chunk: -12,-44 
+[2024-08-15 18:25:34] [INFO   ] Spawning Monument at: -192,-704 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.TreasureRoomPopulator at -211 31 -715 in a room of size 12x11 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.LevelledElderRoomPopulator at -194 31 -712 in a room of size 14x11 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.LevelledElderRoomPopulator at -210 31 -694 in a room of size 10x12 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.MiniRoomNetworkPopulator at -186 31 -726 in a room of size 14x14 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.MiniRoomNetworkPopulator at -169 31 -727 in a room of size 13x10 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.MiniRoomNetworkPopulator at -170 31 -699 in a room of size 12x11 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.CoralRoomPopulator at -171 31 -680 in a room of size 13x11 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.MiniRoomNetworkPopulator at -217 31 -729 in a room of size 10x11 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.CoralRoomPopulator at -216 31 -680 in a room of size 13x14 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.LanternPillarRoomPopulator at -173 31 -710 in a room of size 11x10 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.FishCageRoomPopulator at -182 31 -694 in a room of size 10x11 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.FishCageRoomPopulator at -194 31 -700 in a room of size 10x12 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.LanternPillarRoomPopulator at -191 31 -684 in a room of size 14x10 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.HollowPillarRoomPopulator at -205 31 -728 in a room of size 15x13 
+[2024-08-15 18:25:39] [INFO   ] Registered: org.terraform.structure.monument.FishCageRoomPopulator at -205 31 -679 in a room of size 10x14 
+[2024-08-15 18:25:43] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 20,-44 
+[2024-08-15 18:26:04] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -44,-12 
+[2024-08-15 18:26:21] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 46,42 
+[2024-08-15 18:26:30] [INFO   ] Minecart with chest at: -733, 13, -135 
+[2024-08-15 18:26:31] [INFO   ] Minecart with chest at: -731, 13, -198 
+[2024-08-15 18:26:33] [INFO   ] Minecart with chest at: -735, 27, -639 
+[2024-08-15 18:26:58] [INFO   ] Minecart with chest at: -750, 13, -167 
+[2024-08-15 18:26:58] [INFO   ] Minecart with chest at: -750, 13, -205 
+[2024-08-15 18:26:58] [INFO   ] Minecart with chest at: -750, 13, -226 
