@@ -7933,3 +7933,6 @@
 [2024-08-15 19:13:46] [INFO   ] Calculated structure at -97,95 
 [2024-08-15 19:13:49] [INFO   ] Large Cave at -1728,6,832 has water level > -22 with populator GenericLargeCavePopulator 
 [2024-08-15 19:13:49] [INFO   ] Calculated structure at -97,63 
+[2024-08-15 19:14:14] [INFO   ] -76,-108 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 19:14:23] [INFO   ] -12,-108 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 19:14:28] [INFO   ] 20,-108 will spawn a vanilla structure, with tryGenerateStructure == true 
