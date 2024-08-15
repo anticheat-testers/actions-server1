@@ -8198,3 +8198,7 @@
 [2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1242 -13 1816 in a room of size 21x21 
 [2024-08-15 19:43:42] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1160 -13 1860 in a room of size 16x17 
 [2024-08-15 19:43:42] [INFO   ] Medium Schematic 
+[2024-08-15 19:43:44] [INFO   ] Large Schematic 
+[2024-08-15 19:43:45] [INFO   ] Large Schematic 
+[2024-08-15 19:43:45] [INFO   ] Small Schematic 
+[2024-08-15 19:43:49] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -108,116 
