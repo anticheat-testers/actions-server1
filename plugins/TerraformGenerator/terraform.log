@@ -7748,3 +7748,21 @@
 [2024-08-15 18:58:54] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -44,84 
 [2024-08-15 18:58:54] [INFO   ] Spawning ancient city at: -704,-15,1344 
 [2024-08-15 18:59:10] [INFO   ] Spawning sculk... 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -764 -15 1332 in a room of size 25x25 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -747 -15 1374 in a room of size 19x24 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -652 -15 1295 in a room of size 22x23 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -649 -15 1340 in a room of size 21x16 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -657 -15 1322 in a room of size 16x17 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -685 -15 1285 in a room of size 16x20 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -741 -15 1316 in a room of size 17x20 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at -671 -15 1392 in a room of size 18x18 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -764 -15 1301 in a room of size 21x26 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -707 -15 1298 in a room of size 16x18 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -743 -15 1284 in a room of size 19x26 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -723 -15 1400 in a room of size 20x18 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -704 -15 1344 in a room of size 50x50 
+[2024-08-15 18:59:18] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -698 -15 1399 in a room of size 18x23 
+[2024-08-15 18:59:19] [INFO   ] Medium Schematic 
+[2024-08-15 18:59:19] [INFO   ] Medium Schematic 
+[2024-08-15 18:59:24] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -85,35 
+[2024-08-15 18:59:51] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 47,-86 
