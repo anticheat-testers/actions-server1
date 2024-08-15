@@ -7231,3 +7231,5 @@
 [2024-08-15 18:15:58] [INFO   ] Failed to set beehive at -68,78,-31 
 [2024-08-15 18:16:07] [INFO   ] Spawning FrozenCavePopulator at 141,0,-112 
 [2024-08-15 18:16:35] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,-12 
+[2024-08-15 18:16:56] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -7,-22 
+[2024-08-15 18:16:56] [INFO   ] Spawning Underground Dungeon at -112,52,-349 
