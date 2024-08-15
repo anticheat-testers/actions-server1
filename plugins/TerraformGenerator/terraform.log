@@ -7630,3 +7630,5 @@
 [2024-08-15 18:50:32] [INFO   ] Small Schematic 
 [2024-08-15 18:51:05] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 78,48 
 [2024-08-15 18:51:05] [INFO   ] Spawning Underground Dungeon at 1253,45,771 
+[2024-08-15 18:51:55] [INFO   ] Minecart with chest at: 1273, 42, -195 
+[2024-08-15 18:52:08] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 40,79 
