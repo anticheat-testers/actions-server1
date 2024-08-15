@@ -7205,3 +7205,29 @@
 [2024-08-15 18:15:04] [INFO   ] Large Cave at -192,14,-192 has water level > -22 with populator GenericLargeCavePopulator 
 [2024-08-15 18:15:04] [INFO   ] Calculated structure at -32,-1 
 [2024-08-15 18:15:34] [INFO   ] Spawning ForestedMountainsCavePopulator at -348,46,1 
+[2024-08-15 18:15:48] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -12,20 
+[2024-08-15 18:15:48] [INFO   ] Spawning plains village at -192,50,320 
+[2024-08-15 18:15:49] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -8,22 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -196 0 299 in a room of size 15x15 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -164 0 326 in a room of size 7x9 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -169 0 348 in a room of size 15x17 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -193 0 341 in a room of size 16x16 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -216 0 298 in a room of size 19x15 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at -219 0 278 in a room of size 15x18 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -247 0 285 in a room of size 19x16 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -137 0 326 in a room of size 15x16 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -152 0 310 in a room of size 20x16 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -206 0 283 in a room of size 9x8 
+[2024-08-15 18:15:49] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -152 0 357 in a room of size 17x15 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -192 72 320 in a room of size 24x24 
+[2024-08-15 18:15:50] [INFO   ] Spawning farmhouse at -192,72,320 with rotation of WEST 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageWellPopulator at -172 0 330 in a room of size 9x8 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -216 0 319 in a room of size 19x20 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -189 0 361 in a room of size 19x16 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -171 0 309 in a room of size 16x18 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageAnimalPenPopulator at -137 0 341 in a room of size 15x15 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -247 0 267 in a room of size 18x16 
+[2024-08-15 18:15:50] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -215 0 337 in a room of size 17x17 
+[2024-08-15 18:15:58] [INFO   ] Failed to set beehive at -68,78,-31 
+[2024-08-15 18:16:07] [INFO   ] Spawning FrozenCavePopulator at 141,0,-112 
+[2024-08-15 18:16:35] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,-12 
