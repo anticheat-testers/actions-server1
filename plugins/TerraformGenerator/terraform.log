@@ -7609,3 +7609,22 @@
 [2024-08-15 18:50:01] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -76,-12 
 [2024-08-15 18:50:05] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -76,-44 
 [2024-08-15 18:50:05] [INFO   ] Spawning ancient city at: -1216,-19,-704 
+[2024-08-15 18:50:22] [INFO   ] Spawning sculk... 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -1258 -19 -700 in a room of size 19x22 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -1216 -19 -704 in a room of size 50x50 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1228 -19 -668 in a room of size 26x22 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1204 -19 -660 in a room of size 22x20 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -1169 -19 -698 in a room of size 22x21 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1276 -19 -762 in a room of size 19x21 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -1212 -19 -755 in a room of size 23x16 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1177 -19 -654 in a room of size 19x25 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1231 -19 -645 in a room of size 16x16 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -1253 -19 -661 in a room of size 23x16 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -1164 -19 -744 in a room of size 22x23 
+[2024-08-15 18:50:28] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -1250 -19 -742 in a room of size 19x24 
+[2024-08-15 18:50:31] [INFO   ] Medium Schematic 
+[2024-08-15 18:50:31] [INFO   ] Medium Schematic 
+[2024-08-15 18:50:32] [INFO   ] Medium Schematic 
+[2024-08-15 18:50:32] [INFO   ] Medium Schematic 
+[2024-08-15 18:50:32] [INFO   ] Small Schematic 
+[2024-08-15 18:50:32] [INFO   ] Small Schematic 
