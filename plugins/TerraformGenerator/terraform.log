@@ -7961,3 +7961,31 @@
 [2024-08-15 19:24:23] [INFO   ] Spawning Underground Dungeon at -1680,31,1306 
 [2024-08-15 19:25:04] [INFO   ] 116,-108 will spawn a vanilla structure, with tryGenerateStructure == true 
 [2024-08-15 19:25:07] [INFO   ] 116,-76 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 19:25:35] [INFO   ] 52,116 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 19:25:48] [INFO   ] -108,116 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 19:25:51] [INFO   ] Minecart with chest at: -1686, 25, 1368 
+[2024-08-15 19:26:59] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -4,107 
+[2024-08-15 19:26:59] [INFO   ] Spawning Underground Dungeon at -57,26,1717 
+[2024-08-15 19:27:04] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -85,107 
+[2024-08-15 19:27:04] [INFO   ] Spawning Underground Dungeon at -1357,32,1713 
+[2024-08-15 19:27:44] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 71,-108 
+[2024-08-15 19:27:44] [INFO   ] Spawning Underground Dungeon at 1145,35,-1724 
+[2024-08-15 19:27:47] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 101,-108 
+[2024-08-15 19:27:47] [INFO   ] Spawning Underground Dungeon at 1620,35,-1722 
+[2024-08-15 19:28:28] [INFO   ] Minecart with chest at: -1725, 40, 1325 
+[2024-08-15 19:28:28] [INFO   ] Minecart with chest at: -1716, 25, 1312 
+[2024-08-15 19:28:46] [INFO   ] Generating org.terraform.structure.catacombs.CatacombsPopulator at chunk: -108,-108 
+[2024-08-15 19:28:46] [INFO   ] Spawning catacombs at: -1728,-1728 
+[2024-08-15 19:28:46] [INFO   ] TW MinY: 0, Rolling chance: 4000 
+[2024-08-15 19:28:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at -1721 6 -1709 in a room of size 9x9 
+[2024-08-15 19:28:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -1750 6 -1713 in a room of size 8x7 
+[2024-08-15 19:28:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -1721 6 -1751 in a room of size 7x8 
+[2024-08-15 19:28:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at -1711 6 -1732 in a room of size 10x10 
+[2024-08-15 19:28:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsStandardPopulator at -1739 6 -1715 in a room of size 8x7 
+[2024-08-15 19:28:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at -1725 6 -1724 in a room of size 7x9 
+[2024-08-15 19:28:53] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -76,-108 
+[2024-08-15 19:28:56] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -44,-108 
+[2024-08-15 19:28:59] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -12,-108 
+[2024-08-15 19:29:02] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: 20,-108 
+[2024-08-15 19:29:06] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: 52,-108 
+[2024-08-15 19:29:06] [INFO   ] Spawning ancient city at: 832,-9,-1728 
