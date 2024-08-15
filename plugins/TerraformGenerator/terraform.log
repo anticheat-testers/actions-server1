@@ -7653,3 +7653,36 @@
 [2024-08-15 18:54:54] [INFO   ] [NativeGeneratorPatcher] Flushing repairs (102 chunks), pushed by cache size 
 [2024-08-15 18:54:57] [INFO   ] Minecart with chest at: 900, 11, 1315 
 [2024-08-15 18:54:59] [INFO   ] Minecart with chest at: 1359, 42, -189 
+[2024-08-15 18:55:05] [INFO   ] Minecart with chest at: 1315, 27, -156 
+[2024-08-15 18:55:16] [INFO   ] Minecart with chest at: 1320, 21, 1281 
+[2024-08-15 18:55:16] [INFO   ] Minecart with chest at: 1326, 6, 1301 
+[2024-08-15 18:56:07] [INFO   ] Generating Stronghold at chunk: 82,31 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1270 8 542 in a room of size 21x15 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.SilverfishDenPopulator at 1311 8 537 in a room of size 23x12 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.SilverfishDenPopulator at 1306 8 473 in a room of size 12x15 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.NetherPortalRoomPopulator at 1270 8 499 in a room of size 17x23 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.StairwayRoomPopulator at 1316 8 475 in a room of size 5x5 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1305 8 515 in a room of size 20x20 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.LibraryRoomPopulator at 1340 8 462 in a room of size 29x29 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1346 8 531 in a room of size 11x21 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1286 8 487 in a room of size 15x18 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1363 8 468 in a room of size 17x17 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.PortalRoomPopulator at 1338 8 504 in a room of size 25x25 
+[2024-08-15 18:56:12] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1270 8 455 in a room of size 13x15 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1340 26 540 in a room of size 29x16 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.TrapChestRoomPopulator at 1332 26 516 in a room of size 17x10 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1307 26 503 in a room of size 15x15 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1307 26 519 in a room of size 22x13 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1366 26 471 in a room of size 19x18 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1328 26 457 in a room of size 20x15 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.LibraryRoomPopulator at 1366 26 492 in a room of size 27x25 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.StairwayTopPopulator at 1316 26 475 in a room of size 5x5 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.SilverfishDenPopulator at 1360 26 521 in a room of size 18x16 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1267 26 482 in a room of size 25x18 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1342 26 491 in a room of size 18x13 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1284 26 513 in a room of size 19x25 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.TrapChestRoomPopulator at 1299 26 454 in a room of size 12x16 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1277 26 457 in a room of size 15x24 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.HallwayPopulator at 1349 26 453 in a room of size 16x16 
+[2024-08-15 18:56:16] [INFO   ] Registered: org.terraform.structure.stronghold.PrisonRoomPopulator at 1274 26 547 in a room of size 26x19 
+[2024-08-15 18:56:21] [INFO   ] Minecart with chest at: 1336, 21, 1338 
