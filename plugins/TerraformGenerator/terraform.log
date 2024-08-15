@@ -7526,3 +7526,7 @@
 [2024-08-15 18:44:45] [INFO   ] Spawning Underground Dungeon at 1137,18,-1144 
 [2024-08-15 18:45:01] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 55,72 
 [2024-08-15 18:45:01] [INFO   ] Spawning Underground Dungeon at 880,32,1163 
+[2024-08-15 18:45:27] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -44,-73 
+[2024-08-15 18:45:27] [INFO   ] Spawning shipwreck at -696, 40, -1159 with rotation of SOUTH 
+[2024-08-15 18:45:47] [INFO   ] Generating org.terraform.structure.small.igloo.IglooPopulator at chunk: 73,-4 
+[2024-08-15 18:45:47] [INFO   ] Placing igloo of size 6 
