@@ -7278,3 +7278,6 @@
 [2024-08-15 18:22:15] [INFO   ] Spawning Underground Dungeon at -565,44,-384 
 [2024-08-15 18:23:43] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -41,-40 
 [2024-08-15 18:23:43] [INFO   ] Spawning Underground Dungeon at -644,47,-633 
+[2024-08-15 18:24:22] [INFO   ] 52,20 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 18:24:25] [INFO   ] 52,52 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2024-08-15 18:24:27] [INFO   ] 20,52 will spawn a vanilla structure, with tryGenerateStructure == true 
