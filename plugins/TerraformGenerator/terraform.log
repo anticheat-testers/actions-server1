@@ -8128,3 +8128,39 @@
 [2024-08-15 19:41:55] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: 116,20 
 [2024-08-15 19:41:55] [INFO   ] Spawning ancient city at: 1856,-16,320 
 [2024-08-15 19:42:07] [INFO   ] Spawning sculk... 
+[2024-08-15 19:42:14] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 122,16 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 1899 -16 372 in a room of size 18x22 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1854 -16 277 in a room of size 22x24 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at 1856 -16 320 in a room of size 50x50 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 1801 -16 296 in a room of size 24x23 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1898 -16 270 in a room of size 16x23 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 1813 -16 380 in a room of size 16x19 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1871 -16 366 in a room of size 17x17 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at 1897 -16 339 in a room of size 16x17 
+[2024-08-15 19:42:15] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityLargePillarRoomPopulator at 1846 -16 366 in a room of size 16x20 
+[2024-08-15 19:42:15] [INFO   ] Medium Schematic 
+[2024-08-15 19:42:19] [INFO   ] Medium Schematic 
+[2024-08-15 19:42:19] [INFO   ] Medium Schematic 
+[2024-08-15 19:42:22] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 116,52 
+[2024-08-15 19:42:26] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 116,84 
+[2024-08-15 19:42:29] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: 116,116 
+[2024-08-15 19:42:29] [INFO   ] Spawning ancient city at: 1856,-18,1856 
+[2024-08-15 19:42:49] [INFO   ] Spawning sculk... 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1816 -18 1826 in a room of size 22x24 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 1901 -18 1841 in a room of size 17x26 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 1914 -18 1810 in a room of size 18x19 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1863 -18 1897 in a room of size 26x24 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at 1856 -18 1856 in a room of size 50x50 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 1802 -18 1896 in a room of size 16x18 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1824 -18 1906 in a room of size 18x22 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 1805 -18 1798 in a room of size 21x21 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1891 -18 1897 in a room of size 21x24 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 1836 -18 1804 in a room of size 21x19 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 1800 -18 1854 in a room of size 17x25 
+[2024-08-15 19:42:56] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 1916 -18 1904 in a room of size 16x26 
+[2024-08-15 19:42:56] [INFO   ] Large Schematic 
+[2024-08-15 19:42:56] [INFO   ] Large Schematic 
+[2024-08-15 19:42:58] [INFO   ] Medium Schematic 
+[2024-08-15 19:42:59] [INFO   ] Medium Schematic 
+[2024-08-15 19:42:59] [INFO   ] Medium Schematic 
+[2024-08-15 19:43:02] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: 84,116 
