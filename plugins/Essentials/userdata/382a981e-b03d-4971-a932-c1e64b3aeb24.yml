@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1723767980679
   login: 1723767771225
 money: '0'
 last-account-name: Bruhdows
@@ -28,3 +28,11 @@ lastlocation:
   z: -51.57103562661514
   yaw: 178.33619689941406
   pitch: 39.131832122802734
+logoutlocation:
+  world: aa3076c4-b781-4422-8ddd-280a5a1047ee
+  world-name: world
+  x: -920.4777593536803
+  y: 68.22149363870948
+  z: 173.05249467788843
+  yaw: -54.188812255859375
+  pitch: 45.57063674926758
