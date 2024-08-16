@@ -20,3 +20,11 @@ timestamps:
   login: 1723767771225
 money: '0'
 last-account-name: Bruhdows
+lastlocation:
+  world: aa62f484-2878-4288-a3a3-9fe66db7eba2
+  world-name: spawn
+  x: 6.300000011920929
+  y: 63.0
+  z: -51.57103562661514
+  yaw: 178.33619689941406
+  pitch: 39.131832122802734
