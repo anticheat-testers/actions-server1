@@ -1,4 +1,12 @@
 lastAccountName: Bruhdows
 timestamps:
   login: 1723767707305
+  logout: 1723767720428
 ipAddress: 127.27.77.89
+logoutlocation:
+  world: world
+  x: -4.703359759886995
+  y: 67.0
+  z: -6.2304781404652285
+  yaw: -141.79372
+  pitch: 6.742962
