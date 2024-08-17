@@ -1,4 +1,12 @@
 lastAccountName: Amplitudes
 timestamps:
   login: 1723927618220
+  logout: 1723927641159
 ipAddress: 127.155.213.47
+logoutlocation:
+  world: fruitcake
+  x: 0.699999988079071
+  y: 102.0
+  z: -51.30000001192093
+  yaw: -32.692055
+  pitch: 64.63838
