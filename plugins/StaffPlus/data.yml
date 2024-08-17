@@ -110,3 +110,43 @@ a555b1a2-8fa6-4423-aa16-4ae2833738f5:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+96fbbe1e-31bc-42e2-af6c-b049762838b3:
+  name: klir
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+28e14df6-6b8f-44bd-bcec-f073d88bc244:
+  name: olionelchilling
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+1cee1d1c-7d71-4a50-b19c-54b3940f568f:
+  name: prettyfreaky
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+78de5f59-ba63-45af-a9a8-8d111e155c29:
+  name: billdims
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
