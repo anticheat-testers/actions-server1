@@ -68,3 +68,23 @@ d1e74906-35cd-45c9-80fa-a1e826e24713:
   Alert Listing Bought: false
   Auto Confirm Listing: false
   Sounds: true
+f5fbd54b-ba6d-43b6-bfac-859a453623a8:
+  Username: ShortyDev
+  Alert Create Listings: true
+  Open Admin Mode: false
+  Alert Near Expire:
+    Status: false
+    Time: 300
+  Alert Listing Bought: false
+  Auto Confirm Listing: false
+  Sounds: true
+96fbbe1e-31bc-42e2-af6c-b049762838b3:
+  Username: klir
+  Alert Create Listings: true
+  Open Admin Mode: false
+  Alert Near Expire:
+    Status: false
+    Time: 300
+  Alert Listing Bought: false
+  Auto Confirm Listing: false
+  Sounds: true
