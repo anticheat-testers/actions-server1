@@ -2782,3 +2782,53 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ Amplitudes was punished for Flight (Type B) ]--------------
+
+Location:
+ - World: world
+ - X: -10.509687272760099
+ - Y: 167.0
+ - Z: -2610.82615069933
+
+Information:
+ - UUID: b08ad2a1-e150-4d0e-8bac-65fe3ba69863
+ - Keep Alive Ping: 272
+ - Transaction Ping: 310
+ - Server TPS: 20
+ - Sensitivity: 28
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 11.85 seconds ago
+
+Total Violations: 36
+ - Combat Violations: 5
+ - Movement Violations: 30
+ - Player Violations: 0
+
+Misc Information:
+ - Since Teleport Ticks: 1
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1
+ - Since Velocity Ticks: 237
+ - Since Firework Ticks: 5229
+ - Ticks Existed: 7002
+ - Since Vehicle Ticks: 5129
+ - Since Liquid Ticks: 132
+ - Queued Transactions: 1
+ - Joined: 396 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Auto Clicker (Type T) [VL: 1] (Too low kurtosis)
+ - Hitbox (Type B) [VL: 5] (Attacked while not looking at target.)
+ - Velocity (Type D) [VL: 4] (Horizontal velocity modifications.)
+ - Flight (Type B) [VL: 30] (Invalid Y-Axis movement.)
+
+Blocks Nearby: [WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOD, WOOD, WOOD, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: []
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
