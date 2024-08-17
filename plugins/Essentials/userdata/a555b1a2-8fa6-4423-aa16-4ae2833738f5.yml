@@ -1,5 +1,13 @@
 lastAccountName: Dirto
 timestamps:
   login: 1723927727548
+  logout: 1723928362596
 ipAddress: 127.68.12.51
 money: '25.0'
+logoutlocation:
+  world: world
+  x: 18.027632146673056
+  y: 63.0
+  z: -0.80286931518411
+  yaw: 53.00448
+  pitch: 0.44806793

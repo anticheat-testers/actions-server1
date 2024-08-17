@@ -5,13 +5,13 @@ timestamps:
   lastteleport: 1723441383658
 ipAddress: 127.30.38.147
 lastlocation:
-  world: Plateau
-  x: 6.158687202659337
-  y: -65.84975707975518
-  z: -27.70603317188147
-  yaw: -252.3355
-  pitch: -51.07353
-money: '775.0'
+  world: Sanctuary
+  x: -12.49450929587519
+  y: 67.5
+  z: -27.466110888992283
+  yaw: 250.04108
+  pitch: 3.8926373
+money: '780.0'
 logoutlocation:
   world: Senti
   x: 0.699999988079071

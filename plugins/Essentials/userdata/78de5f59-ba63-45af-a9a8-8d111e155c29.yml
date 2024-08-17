@@ -1,5 +1,13 @@
 lastAccountName: billdims
 timestamps:
   login: 1723927742212
+  logout: 1723928367789
 ipAddress: 127.102.175.231
 money: '30.0'
+logoutlocation:
+  world: world
+  x: 16.255890677478185
+  y: 63.0
+  z: -3.1782683625003196
+  yaw: -81.22525
+  pitch: 3.7120478
