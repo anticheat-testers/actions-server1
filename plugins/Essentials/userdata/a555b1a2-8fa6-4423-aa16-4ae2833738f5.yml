@@ -3,3 +3,10 @@ timestamps:
   login: 1723928364951
 ipAddress: 127.68.12.51
 money: '15.0'
+lastlocation:
+  world: orchestra
+  x: -78.66113271235002
+  y: -0.7882067347730359
+  z: 5.863535986337821
+  yaw: 11.552002
+  pitch: -42.55263
