@@ -10,4 +10,11 @@ logoutlocation:
   z: 10.432337282765237
   yaw: -29.41446
   pitch: 2.1935196
-money: '15.0'
+money: '115.0'
+lastlocation:
+  world: polemus
+  x: -87.24625959282335
+  y: 88.0
+  z: -33.588112607560774
+  yaw: -91.073456
+  pitch: 76.55843
