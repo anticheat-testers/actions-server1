@@ -1,16 +1,16 @@
 lastAccountName: prettyfreaky
 timestamps:
   login: 1723928971601
-  logout: 1723928964151
+  logout: 1723929119151
 ipAddress: 127.148.185.212
 logoutlocation:
   world: world
-  x: -5.584247832462826
-  y: 67.0
-  z: 10.432337282765237
-  yaw: -29.41446
-  pitch: 2.1935196
-money: '115.0'
+  x: -32.47482322473648
+  y: 71.0
+  z: 0.49185180054454447
+  yaw: -89.88387
+  pitch: 2.8524027
+money: '205.0'
 lastlocation:
   world: polemus
   x: -87.24625959282335

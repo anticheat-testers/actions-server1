@@ -1,9 +1,9 @@
 lastAccountName: Amplitudes
 timestamps:
-  login: 1723929063552
-  logout: 1723929056653
+  login: 1723929126551
+  logout: 1723929121651
 ipAddress: 127.155.213.47
-money: '275.0'
+money: '305.0'
 lastlocation:
   world: polemus
   x: -71.24330216759695
@@ -13,8 +13,8 @@ lastlocation:
   pitch: 4.749375
 logoutlocation:
   world: world
-  x: -32.47482322473648
+  x: -32.245090191094896
   y: 71.0
-  z: 0.49185180054454447
+  z: 0.492199062851149
   yaw: -89.88387
   pitch: 2.8524027
