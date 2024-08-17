@@ -2,11 +2,11 @@ lastAccountName: Amplitudes
 timestamps:
   login: 1723928366501
 ipAddress: 127.155.213.47
-money: '240.0'
+money: '270.0'
 lastlocation:
   world: orchestra
-  x: -64.83417218549098
-  y: -1.5161338643051772
-  z: 38.853073125392555
-  yaw: 286.02435
-  pitch: -22.087814
+  x: -0.6054160180850416
+  y: 80.0
+  z: 57.34371194445593
+  yaw: 199.8319
+  pitch: 11.121389
