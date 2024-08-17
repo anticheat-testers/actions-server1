@@ -1,4 +1,12 @@
 lastAccountName: prettyfreaky
 timestamps:
-  login: 1723928935302
+  login: 1723928971601
+  logout: 1723928964151
 ipAddress: 127.148.185.212
+logoutlocation:
+  world: world
+  x: -5.584247832462826
+  y: 67.0
+  z: 10.432337282765237
+  yaw: -29.41446
+  pitch: 2.1935196
