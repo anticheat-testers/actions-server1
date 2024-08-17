@@ -19,4 +19,4 @@ logoutlocation:
   z: -47.30000001192093
   yaw: -9.954176
   pitch: 29.134132
-godmode: false
+godmode: true
