@@ -11,7 +11,7 @@ lastlocation:
   z: -6.270632872263011
   yaw: -69.84071
   pitch: -50.668835
-money: '755.0'
+money: '760.0'
 logoutlocation:
   world: Senti
   x: 0.699999988079071
@@ -19,3 +19,4 @@ logoutlocation:
   z: -47.30000001192093
   yaw: -9.954176
   pitch: 29.134132
+godmode: true
