@@ -11,12 +11,12 @@ logoutlocation:
   z: -18.11917975139375
   yaw: -75.45323
   pitch: 73.2482
-money: '2275.0'
+money: '2280.0'
 lastlocation:
-  world: orchestra
-  x: -54.5110238233997
-  y: -2.185179784793023
-  z: 87.14405495492709
-  yaw: 310.5015
-  pitch: -87.41039
+  world: polemus
+  x: -70.66232910760945
+  y: 98.63350396919665
+  z: -27.08126704184809
+  yaw: -33.20679
+  pitch: 10.28985
 godmode: false
