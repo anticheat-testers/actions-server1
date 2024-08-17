@@ -5,13 +5,13 @@ timestamps:
   lastteleport: 1723441383658
 ipAddress: 127.30.38.147
 lastlocation:
-  world: DessertedIslands
-  x: -1.3000000119209243
-  y: 33.45738184528676
-  z: -38.30000001192093
-  yaw: -250.79822
-  pitch: 50.506916
-money: '770.0'
+  world: Plateau
+  x: 6.158687202659337
+  y: -65.84975707975518
+  z: -27.70603317188147
+  yaw: -252.3355
+  pitch: -51.07353
+money: '775.0'
 logoutlocation:
   world: Senti
   x: 0.699999988079071
