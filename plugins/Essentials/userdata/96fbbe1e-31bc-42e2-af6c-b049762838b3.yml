@@ -2,4 +2,11 @@ lastAccountName: klir
 timestamps:
   login: 1723928373001
 ipAddress: 127.177.251.239
-money: '35.0'
+money: '40.0'
+lastlocation:
+  world: orchestra
+  x: -86.45882054705402
+  y: 82.15310793487474
+  z: 32.102535768588105
+  yaw: 199.51965
+  pitch: 15.995749
