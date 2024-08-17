@@ -1,5 +1,13 @@
 lastAccountName: olionelchilling
 timestamps:
   login: 1723927829500
+  logout: 1723928373203
 ipAddress: 127.79.244.213
 money: '75.0'
+logoutlocation:
+  world: world
+  x: 26.101523743247196
+  y: 64.0
+  z: -3.151100710576582
+  yaw: 216.43855
+  pitch: 1.4759561

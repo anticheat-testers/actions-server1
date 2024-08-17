@@ -1,13 +1,13 @@
 lastAccountName: klir
 timestamps:
   login: 1723928119786
-  logout: 1723928117070
+  logout: 1723928370900
 ipAddress: 127.177.251.239
 money: '165.0'
 logoutlocation:
-  world: Plateau
-  x: 1.1075365369973846
-  y: 62.5
-  z: -28.26634325910662
-  yaw: 12.926575
-  pitch: 5.51531
+  world: world
+  x: 25.095697905168024
+  y: 63.0
+  z: -8.426131172640002
+  yaw: 11.442222
+  pitch: 5.5622973
