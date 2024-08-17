@@ -11,12 +11,12 @@ logoutlocation:
   z: -18.11917975139375
   yaw: -75.45323
   pitch: 73.2482
-money: '2220.0'
+money: '2225.0'
 lastlocation:
-  world: bio-hazard
-  x: -86.53837134018724
-  y: -2.5439599734077754
-  z: 16.910082795927817
-  yaw: 354.77814
-  pitch: -44.74539
+  world: orchestra
+  x: -8.366469273077062
+  y: -1.1194128242134092
+  z: 82.80672471950393
+  yaw: 247.62294
+  pitch: -62.22595
 godmode: false
