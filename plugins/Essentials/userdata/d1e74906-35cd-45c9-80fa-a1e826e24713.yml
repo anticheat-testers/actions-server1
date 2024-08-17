@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1723888316956
   login: 1723886286829
 money: '0'
 last-account-name: JKaanOF
+logoutlocation:
+  world: aa62f484-2878-4288-a3a3-9fe66db7eba2
+  world-name: spawn
+  x: -21.349511397878345
+  y: 71.0
+  z: -23.766318086580128
+  yaw: -170.460205078125
+  pitch: 23.930618286132812
