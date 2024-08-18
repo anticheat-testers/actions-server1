@@ -1,7 +1,7 @@
 lastAccountName: Briiqn
 timestamps:
   login: 1724011683601
-  logout: 1724011326250
+  logout: 1724011711250
   lastteleport: 1723264124538
 ipAddress: 127.30.38.147
 logoutlocation:
@@ -9,8 +9,8 @@ logoutlocation:
   x: -32.47482322473648
   y: 71.0
   z: 0.49185180054454447
-  yaw: -85.35188
-  pitch: 3.176115
+  yaw: -89.88387
+  pitch: 2.8524027
 money: '2320.0'
 lastlocation:
   world: polemus
