@@ -147,7 +147,6 @@ jobs:
           
           # Schedule the cancellation of old workflow runs after 30 seconds
           (sleep 30 && cancel_old_workflow_runs) &
-          (sleep 20 && rm credentials.json) &
 
           while true; do
             if ! commit_and_push; then
