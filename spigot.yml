@@ -13,8 +13,6 @@
 config-version: 8
 settings:
   save-user-cache-on-stop-only: false
-  bungeecord: true
-  late-bind: false
   sample-count: 12
   player-shuffle: 0
   filter-creative-items: true
@@ -22,6 +20,8 @@ settings:
   int-cache-limit: 1024
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-threshold: 100.0
+  bungeecord: true
+  late-bind: false
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -53,7 +53,6 @@ messages:
   restart: Rest In Peace 2017-2017
 commands:
   tab-complete: 0
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -62,6 +61,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
   send-namespaced: true
 stats:
   disable-saving: false
@@ -70,11 +70,7 @@ world-settings:
   default:
     verbose: true
     mob-spawn-range: 6
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-      tick-inactive-villagers: true
+    nerf-spawner-mobs: false
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -140,7 +136,11 @@ world-settings:
       potato-modifier: 100
       vine-modifier: 100
       cocoa-modifier: 100
-    nerf-spawner-mobs: false
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+      tick-inactive-villagers: true
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
