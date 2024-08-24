@@ -49,12 +49,10 @@ world-settings:
     remove-invalid-mob-spawner-tile-entities: true
     tnt-explosion-volume: 4.0
     optimize-explosions: false
-    fast-drain:
-      lava: false
-      water: false
-    lava-flow-speed:
-      normal: 30
-      nether: 10
+    remove-unloaded:
+      enderpearls: true
+      tnt-entities: true
+      falling-blocks: true
     game-mechanics:
       boats-drop-boats: false
       disable-player-crits: false
@@ -83,12 +81,14 @@ world-settings:
       soft: 32
       hard: 128
     falling-block-height-nerf: 0
-    remove-unloaded:
-      enderpearls: true
-      tnt-entities: true
-      falling-blocks: true
-    disable-explosion-knockback: false
+    fast-drain:
+      lava: false
+      water: false
+    lava-flow-speed:
+      normal: 30
+      nether: 10
     fix-cannons: false
+    disable-explosion-knockback: false
     water-over-lava-flow-speed: 5
     tnt-entity-height-nerf: 0
     use-hopper-check: false
