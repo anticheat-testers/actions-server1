@@ -88,3 +88,13 @@ f5fbd54b-ba6d-43b6-bfac-859a453623a8:
   Alert Listing Bought: false
   Auto Confirm Listing: false
   Sounds: true
+20639a8b-18cf-4ccd-9b48-83c987f6f51e:
+  Username: shotcun
+  Alert Create Listings: true
+  Open Admin Mode: false
+  Alert Near Expire:
+    Status: false
+    Time: 300
+  Alert Listing Bought: false
+  Auto Confirm Listing: false
+  Sounds: true
