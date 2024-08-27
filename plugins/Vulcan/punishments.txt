@@ -2885,3 +2885,50 @@ Potion Effects: [DAMAGE_RESISTANCE:19997915t-x200, FIRE_RESISTANCE:1808t-x0]
 ---------------------------------------------------------------------------
 
 
+--------------[ odragclicker was punished for Bad Packets (Type J) ]--------------
+
+Location:
+ - World: Maps
+ - X: 53.69909670863845
+ - Y: 99.0000001
+ - Z: -531.3121781337422
+
+Information:
+ - UUID: 986b22e3-d4d4-4fab-88b2-01d5a975b505
+ - Keep Alive Ping: 169
+ - Transaction Ping: 1612
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 46.15 seconds ago
+
+Total Violations: 3
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 3
+
+Misc Information:
+ - Since Teleport Ticks: 240
+ - Since Riptide Ticks: 200
+ - Flying Delay: 1778
+ - Since Velocity Ticks: 923
+ - Since Firework Ticks: 663
+ - Ticks Existed: 823
+ - Since Vehicle Ticks: 563
+ - Since Liquid Ticks: 563
+ - Queued Transactions: 7
+ - Joined: 44 seconds ago
+ - Holding Item: ItemStack{POTION x 1}
+
+All Violations:
+ - Bad Packets (Type J) [VL: 3] (Sent HeldItemSlot while placing.)
+
+Blocks Nearby: [SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, SAND, SAND, SAND, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}]
+Potion Effects: [SPEED:1779t-x1]
+---------------------------------------------------------------------------
+
+
