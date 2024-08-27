@@ -2932,3 +2932,50 @@ Potion Effects: [SPEED:1779t-x1]
 ---------------------------------------------------------------------------
 
 
+--------------[ odragclicker was punished for Bad Packets (Type C) ]--------------
+
+Location:
+ - World: Maps
+ - X: 12.595669045677374
+ - Y: 89.0
+ - Z: -234.9725276704302
+
+Information:
+ - UUID: 986b22e3-d4d4-4fab-88b2-01d5a975b505
+ - Keep Alive Ping: 107
+ - Transaction Ping: 82
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SPECTATOR
+ - Client Brand: Unresolved
+ - Vehicle: null
+ - Version: 1.8
+ - Last Damage: 244.55 seconds ago
+
+Total Violations: 1
+ - Combat Violations: 0
+ - Movement Violations: 0
+ - Player Violations: 1
+
+Misc Information:
+ - Since Teleport Ticks: 0
+ - Since Riptide Ticks: 200
+ - Flying Delay: 400
+ - Since Velocity Ticks: 4891
+ - Since Firework Ticks: 4237
+ - Ticks Existed: 11479
+ - Since Vehicle Ticks: 608
+ - Since Liquid Ticks: 4137
+ - Queued Transactions: 1
+ - Joined: 618 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Bad Packets (Type C) [VL: 1] (Impossible pitch.)
+
+Blocks Nearby: [AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftPlayer{name=Briiqn}, CraftHorse{variant=HORSE, owner=null}]
+Potion Effects: []
+---------------------------------------------------------------------------
+
+
