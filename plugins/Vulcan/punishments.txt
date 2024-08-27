@@ -2832,3 +2832,56 @@ Potion Effects: []
 ---------------------------------------------------------------------------
 
 
+--------------[ odragclicker was punished for Bad Packets (Type M) ]--------------
+
+Location:
+ - World: Maps
+ - X: 20.882707661560076
+ - Y: 88.0
+ - Z: -270.32404439314973
+
+Information:
+ - UUID: 986b22e3-d4d4-4fab-88b2-01d5a975b505
+ - Keep Alive Ping: 109
+ - Transaction Ping: 361
+ - Server TPS: 20
+ - Sensitivity: 99
+ - Gamemode: SURVIVAL
+ - Client Brand: Unresolved
+ - Vehicle: CraftHorse{variant=HORSE, owner=null}
+ - Version: 1.8
+ - Last Damage: 0.2 seconds ago
+
+Total Violations: 20
+ - Combat Violations: 3
+ - Movement Violations: 1
+ - Player Violations: 16
+
+Misc Information:
+ - Since Teleport Ticks: 801
+ - Since Riptide Ticks: 200
+ - Flying Delay: 55
+ - Since Velocity Ticks: 4
+ - Since Firework Ticks: 4212
+ - Ticks Existed: 10929
+ - Since Vehicle Ticks: 0
+ - Since Liquid Ticks: 4112
+ - Queued Transactions: 2
+ - Joined: 553 seconds ago
+ - Holding Item: ItemStack{AIR x 0}
+
+All Violations:
+ - Aim (Type Y) [VL: 2] (Generic rotation analysis heuristic.)
+ - Velocity (Type D) [VL: 1] (Horizontal velocity modifications.)
+ - Criticals (Type B) [VL: 1] (Tried to hit Critical hit on ground.)
+ - Motion (Type D) [VL: 1] (Too small Y-axis change.)
+ - Bad Packets (Type M) [VL: 5] (Post BlockPlace packets.)
+ - Bad Packets (Type R) [VL: 2] (Post HeldItemSlot packets.)
+ - Bad Packets (Type X) [VL: 9] (Post ArmAnimation packets.)
+
+Blocks Nearby: [WOOL, WOOL, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOL, WOOL, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, WOOL, WOOL, GRASS, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR, AIR]
+Entities Nearby: [CraftHorse{variant=HORSE, owner=null}]
+Potion Effects: [DAMAGE_RESISTANCE:19997915t-x200, FIRE_RESISTANCE:1808t-x0]
+---------------------------------------------------------------------------
+
+
