@@ -1,7 +1,7 @@
 lastAccountName: odragclicker
 timestamps:
-  login: 1724745159424
-  logout: 1724745164000
+  login: 1724745705341
+  logout: 1724745706924
   lastteleport: 1724743032372
 ipAddress: 127.89.212.248
 lastlocation:
@@ -14,8 +14,8 @@ lastlocation:
 money: '125.0'
 logoutlocation:
   world: world
-  x: 20.515770798832413
-  y: 63.0
-  z: -3.7015445653582235
-  yaw: -110.27925
-  pitch: 7.7917027
+  x: 0.5701352035439278
+  y: 65.0
+  z: 0.5337684215245446
+  yaw: -89.57925
+  pitch: 0.8917029
