@@ -98,3 +98,13 @@ f5fbd54b-ba6d-43b6-bfac-859a453623a8:
   Alert Listing Bought: false
   Auto Confirm Listing: false
   Sounds: true
+c323543f-19c5-4a9f-b18a-719cc333360a:
+  Username: giannhsk14
+  Alert Create Listings: true
+  Open Admin Mode: false
+  Alert Near Expire:
+    Status: false
+    Time: 300
+  Alert Listing Bought: false
+  Auto Confirm Listing: false
+  Sounds: true
