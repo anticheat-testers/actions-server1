@@ -16,7 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 0
+  logout: 1725238818213
   login: 1725238786449
 money: '0'
 last-account-name: giannhsk14
+logoutlocation:
+  world: aa62f484-2878-4288-a3a3-9fe66db7eba2
+  world-name: spawn
+  x: -0.3052727226563639
+  y: 68.0
+  z: -7.420383404121302
+  yaw: -171.4374542236328
+  pitch: 26.999967575073242
