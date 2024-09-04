@@ -21,7 +21,7 @@ This repository contains the configuration for automatically deploying and manag
      - Create a new repository secret named `FINE_GRAINED_PAT` and paste the token as its value.
    - `PLAYIT_SECRET`:
      - Install and run the playit.gg tunnel service on your local machine.
-     - Extract the data from the generated `playit.toml` file.
+     - Extract the data from the generated `playit.toml` file. (usually located in ~/.config/playit_gg/)
      - In your forked repository, go to Settings > Secrets and variables > Actions.
      - Create a new repository secret named `PLAYIT_SECRET` and paste the extracted data as its value.
 3. Customize the server settings in the `server.properties` file according to your preferences.
