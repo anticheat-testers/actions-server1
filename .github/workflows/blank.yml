@@ -102,7 +102,6 @@ jobs:
           }
 
           start_spigot
-          start_cloudflared
           
           START_TIME=$(date +%s)
           
@@ -123,9 +122,9 @@ jobs:
               start_spigot
             fi
 
-            if ! kill -0 $CLOUDFLARED_PID 2>/dev/null || [ $ELAPSED_TIME -ge 18000 ]; then
-              if ! kill -0 $CLOUDFLARED_PID 2>/dev/null; then
-                echo "Cloudflare Tunnel process has stopped."
+            if ! kill -0 $PLAYIT_PID 2>/dev/null || [ $ELAPSED_TIME -ge 18000 ]; then
+              if ! kill -0 $PLAYIT_PID 2>/dev/null; then
+                echo "PlayIt Tunnel process has stopped."
               else
                 echo "Workflow has been running for 5 hours."
               fi
